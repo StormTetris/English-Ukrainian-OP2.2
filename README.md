@@ -1,10 +1,10 @@
-#Welcome to the OP 2.2 English and Ukrainian translation 
+# Welcome to the OP 2.2 English and Ukrainian translation 
 
-##Instructions
+## Instructions
 1. Download this repository as ZIP
 2. Extract the gamedata folder to the OP 2.2 folder
 
-##How to report mistranslation or update with new quests
+## How to report mistranslation or update with new quests
 1. Write an issue with the title format and a brief description of the problem
 
     Format:
@@ -15,7 +15,7 @@
 2. For mistranslations, please give me a screenshot of the mistranslated text, or copy the text, alongside the correct translation for the text. 
 
 
-##FAQ
+## FAQ
 Q: Will you do French or Polish translation?
 
 A: No, but you are welcome to fork this repository to include French or Polish translations.
