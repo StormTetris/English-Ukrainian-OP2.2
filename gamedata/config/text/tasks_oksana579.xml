@@ -1,0 +1,2301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<string_table>
+	<string id="task_oksana_chess_dictofon_0">
+		<rus>Звуковая эпопея</rus>
+		<eng>Sound epopoeia</eng>
+		<ukr>Звукова епопея</ukr>
+		<fra>Épopée sonique</fra>
+		<pln>Dźwiękowa epopeja</pln>
+	</string>
+	<string id="task_oksana_chess_dictofon_1">
+		<rus>Найти все диктофоны Шахматиста</rus>
+		<eng>Find all Chessplayer's dictaphones</eng>
+		<ukr>Знайти всі диктофони Шахіста</ukr>
+		<fra>Trouver tous les dictaphones du Joueur d'échecs</fra>
+		<pln>Znaleźć wszystkie dyktafony Szachisty</pln>
+	</string>
+	<string id="task_oksana_chess_dictofon_2">
+		<rus>Отнести диктофоны Сидоровичу</rus>
+		<eng>Bring the dictaphones to Sidorovich</eng>
+		<ukr>Віднести диктофони Сидоровичу</ukr>
+		<fra>Apporter les dictaphones à Sidorovitch</fra>
+		<pln>Odnieść dyktafony Sidorowiczowi</pln>
+	</string>
+	<string id="task_oksana_chess_notes_0">
+		<rus>Криминальное чтиво</rus>
+		<eng>Pulp Fiction</eng>
+		<ukr>Криминальне чтиво</ukr>
+		<fra>Fiction pulpeuse</fra>
+		<pln>Pulp fiction</pln>
+	</string>
+	<string id="task_oksana_chess_notes_1">
+		<rus>Найти все записки Шахматиста</rus>
+		<eng>Find all Chessplayer's notes</eng>
+		<ukr>Знайти всі записки Шахіста</ukr>
+		<fra>Trouver toutes les notes du Joueur d'échecs</fra>
+		<pln>Znaleźć wszystkie notatki Szachisty</pln>
+	</string>
+	<string id="task_oksana_chess_notes_2">
+		<rus>Принести записки Косте</rus>
+		<eng>Bring the notes to Kostya</eng>
+		<ukr>Принести записки Кості</ukr>
+		<fra>Apporter les notes à Kostia</fra>
+		<pln>Odnieść wszystkie notatki Kostii</pln>
+	</string>
+	<string id="task_bartender_kamen_udachy_0">
+		<rus>Каменный неудачник</rus>
+		<eng>Loser's Stone</eng>
+		<ukr>Кам'яний невдаха</ukr>
+		<fra>Perdant de pierre</fra>
+		<pln>Kamienny przegrany</pln>
+	</string>
+	<string id="task_bartender_kamen_udachy_1">
+		<rus>Найти "Камень удачи"</rus>
+		<eng>Find "Stone of Luck"</eng>
+		<ukr>Знайти "Камінь удачі"</ukr>
+		<fra>Trouver "Pierre de bonne chance"</fra>
+		<pln>Znaleźć "Kamień powodzenia"</pln>
+	</string>
+	<string id="task_bartender_kamen_udachy_2">
+		<rus>Отнести артефакт Бармену</rus>
+		<eng>Take the artifact to Barkeep</eng>
+		<ukr>Віднести артефакт Бармену</ukr>
+		<fra>Amener l’artefact au Barman</fra>
+		<pln>Odnieść artefakt Barmanowi</pln>
+	</string>
+	<string id="task_dock_correspondence_0">
+		<rus>Почтовый роман</rus>
+		<eng>Postal novel</eng>
+		<ukr>Поштовий роман</ukr>
+		<fra>Affaire du courrier postal</fra>
+		<pln>Pocztowy romans</pln>
+	</string>
+	<string id="task_dock_correspondence_1">
+		<rus>Найти письма Доктора на Юпитере</rus>
+		<eng>Find Doctor's letters on Jupiter</eng>
+		<ukr>Знайти листи Доктора на Юпітері</ukr>
+		<fra>Trouver les lettres du Docteur à Jupiter</fra>
+		<pln>===Znaleźć listy Doka na Jupiterze</pln>
+	</string>
+	<string id="task_dock_correspondence_2">
+		<rus>Принести письма Доктору</rus>
+		<eng>Bring the letters to Doctor</eng>
+		<ukr>Принести листи Доктору</ukr>
+		<fra>Apporter les lettres au Docteur</fra>
+		<pln>===Przynieść listy do Doka</pln>
+	</string>
+	<string id="task_repairman_health_on_0">
+		<rus>Здоровье Василия</rus>
+		<eng>Vasily's health</eng>
+		<ukr>Здоров'я Василя</ukr>
+		<fra>La santé de Vassili</fra>
+		<pln>Zdrowie Wasylego</pln>
+	</string>
+	<string id="task_repairman_health_on_1">
+		<rus>Найти таблетки и что-нибудь странное</rus>
+		<eng>Find pills and something strange</eng>
+		<ukr>Знайти таблетки і що-небудь дивне</ukr>
+		<fra>Trouver des pilules et quelque chose de bizarre,d'étrange</fra>
+		<pln>Znaleźć tabletki i coś dziwnego</pln>
+	</string>
+	<string id="task_repairman_health_on_2">
+		<rus>Принести странный набор Василию</rus>
+		<eng>Bring the strange kit to Vasily</eng>
+		<ukr>Принести дивний набір Василю</ukr>
+		<fra>Apportez un kit étrange à Vassili</fra>
+		<pln>===Przynieść dziwny zestaw Wasi</pln>
+	</string>
+	<string id="task_live_hearts_on_0">
+		<rus>Инфаркт миокарда</rus>
+		<eng>Myocardial infarction</eng>
+		<ukr>Інфаркт міокарду</ukr>
+		<fra>Infarctus du myocarde</fra>
+		<pln>Zawał serca</pln>
+	</string>
+	<string id="task_live_hearts_on_1">
+		<rus>Раздобыть "Живые сердца"</rus>
+		<eng>Get "Living Hearts"</eng>
+		<ukr>Роздобути "Живі серця"</ukr>
+		<fra>Trouver les "Cœurs vivants"</fra>
+		<pln>Zdobyć "Żywe serca"</pln>
+	</string>
+	<string id="task_live_hearts_on_2">
+		<rus>Отнести артефакты Холоду</rus>
+		<eng>Bring artifacts to Cold</eng>
+		<ukr>Віднести артефакти Холоду</ukr>
+		<fra>Apporter les artefacts à Kholod</fra>
+		<pln>Odnieść artefakty Zimnemu</pln>
+	</string>
+	<string id="task_raven_eyes_on_0">
+		<rus>Эти глаза напротив</rus>
+		<eng>These Eyes Opposite</eng>
+		<ukr>Ці очі напроти</ukr>
+		<fra>Ces yeux d'en face</fra>
+		<pln>Oczy naprzeciw</pln>
+	</string>
+	<string id="task_raven_eyes_on_11">
+		<rus>Найти все наводки</rus>
+		<eng>Find all the tipoffs</eng>
+		<ukr>Дістати всі наводки</ukr>
+		<fra>Trouver touts les indices</fra>
+		<pln>===Zdobyć "Oczy wrony"</pln>
+	</string>	
+	<string id="task_raven_eyes_on_1">
+		<rus>Достать "Глаза ворона"</rus>
+		<eng>Get the "Raven's eyes"</eng>
+		<ukr>Дістати "Очі ворона"</ukr>
+		<fra>Obtenir les "Yeux de corbeau"</fra>
+		<pln>Zdobyć "Oczy wrony"</pln>
+	</string>
+	<string id="task_raven_eyes_on_2">
+		<rus>Отнести артефакты Холоду</rus>
+		<eng>Bring the artifacts to Cold</eng>
+		<ukr>Віднести артефакти Холоду</ukr>
+		<fra>Apporter les artefacts à Kholod</fra>
+		<pln>Odnieść artefakty Zimnemu</pln>
+	</string>
+	<string id="task_set_apocalypse_on_0">
+		<rus>Набор для Апокалипсиса</rus>
+		<eng>Apocalypse kit</eng>
+		<ukr>Набір для Апокаліпсиса</ukr>
+		<fra>Kit d'Apocalypse</fra>
+		<pln>Zestaw dla Apokalipsy</pln>
+	</string>
+	<string id="task_set_apocalypse_on_1">
+		<rus>Найти мыло и верёвку</rus>
+		<eng>Find a soap and a rope</eng>
+		<ukr>Знайти мило і мотузку</ukr>
+		<fra>Trouver du savon et de la corde</fra>
+		<pln>Znaleźć mydło i linę</pln>
+	</string>
+	<string id="task_set_apocalypse_on_2">
+		<rus>Отдать компоненты заказчику</rus>
+		<eng>Bring the components to the customer</eng>
+		<ukr>Віддати компоненти замовнику</ukr>
+		<fra>Apporter les composants au client</fra>
+		<pln>Odnieść składniki zamawiającemu</pln>
+	</string>
+	<string id="task_notebook_oldman_on_0">
+		<rus>Чёрная метка</rus>
+		<eng>Black Mark</eng>
+		<ukr>Чорна мітка</ukr>
+		<fra>Tache noire</fra>
+		<pln>Czarny znak</pln>
+	</string>
+	<string id="task_notebook_oldman_on_1">
+		<rus>Найти книжицу Шахтёра</rus>
+		<eng>Find Miner's booklet</eng>
+		<ukr>Знайти книжицю Шахтара</ukr>
+		<fra>Trouver le livre de Mineur</fra>
+		<pln>Znaleźć książkę Górnika</pln>
+	</string>
+	<string id="task_notebook_oldman_on_2">
+		<rus>Принести книжицу Шахтёру</rus>
+		<eng>Bring the booklet to Miner</eng>
+		<ukr>Принести книжицю Шахтару</ukr>
+		<fra>Apporter le livre à Mineur</fra>
+		<pln>Odnieść książkę staremu</pln>
+	</string>
+	<string id="task_misunder_countryman_on_0">
+		<rus>Истина где-то рядом</rus>
+		<eng>The truth is out there</eng>
+		<ukr>Істина десь поряд</ukr>
+		<fra>La vérité est quelque part là bas</fra>
+		<pln>Prawda jest blisko</pln>
+	</string>
+	<string id="task_misunder_countryman_on_1">
+		<rus>Найти улики по биороботу</rus>
+		<eng>Find clues about biorobot</eng>
+		<ukr>Знайти докази по біороботу</ukr>
+		<fra>Trouver des indices sur le biorobot</fra>
+		<pln>Znaleźć informacje o biorobocie</pln>
+	</string>
+	<string id="task_misunder_countryman_on_2">
+		<rus>Показать улики Земляку</rus>
+		<eng>Show evidence to Countryman</eng>
+		<ukr>Показати докази Земляку</ukr>
+		<fra>Montrer les preuves au Compatriote</fra>
+		<pln>Przekazać informacje Rodakowi </pln>
+	</string>
+	<string id="task_sugar_poll_on_0">
+		<rus>Кругом одна вода</rus>
+		<eng>Surrounded by water</eng>
+		<ukr>Навколо сама вода</ukr>
+		<fra>===Dans l'eau jusqu'à mi-jambe</fra>
+		<pln>Wokół tylko woda</pln>
+	</string>
+	<string id="task_sugar_poll_on_1">
+		<rus>Найти Круглова и артефакт</rus>
+		<eng>Find Kruglov and the artifact</eng>
+		<ukr>Знайти Круглова і артефакт</ukr>
+		<fra>Trouver Krouglov et l’artefact</fra>
+		<pln>Znaleźć Krugłowa i artefakt</pln>
+	</string>
+	<string id="task_sugar_poll_on_2">
+		<rus>Рассказать Сахарову о Круглове</rus>
+		<eng>Tell Sakharov about Kruglov </eng>
+		<ukr>Розповісти Сахарову про Круглова</ukr>
+		<fra>Parler à Sakharov de Krouglov</fra>
+		<pln>Powiedzieć Sacharowowi o Krugłowie</pln>
+	</string>
+	<string id="task_request_idler_on_0">
+		<rus>Обезьяна с гранатой</rus>
+		<eng>Monkey with a grenade</eng>
+		<ukr>Мавпа з гранатою</ukr>
+		<fra>Singe avec une grenade</fra>
+		<pln>Małpa z granatem</pln>
+	</string>
+	<string id="task_request_idler_on_1">
+		<rus>Разыскать Лентяю компактный дробовик</rus>
+		<eng>Find a compact shotgun for Bum</eng>
+		<ukr>Знайти Ледарю компактний дробовик</ukr>
+		<fra>===Recueillir des armes à feu et des munitions</fra>
+		<pln>===Zebrać broń i amunicję</pln>
+	</string>
+	<string id="task_request_idler_on_2">
+		<rus>Принести обещанное Лентяю</rus>
+		<eng>Bring the stuff to Bum</eng>
+		<ukr>Принести обіцяне Ледарю</ukr>
+		<fra>Apporter les choses à Fainéant</fra>
+		<pln>Przynieść obiecany towar Leniuchowi</pln>
+	</string>
+	<string id="task_maple_rustles_on_0">
+		<rus>Бесконечность мироздания</rus>
+		<eng>Infinity of the universe</eng>
+		<ukr>Нескінченність всесвіту</ukr>
+		<fra>L'infinité de l'univers</fra>
+		<pln>Nieskończoność wszechświata</pln>
+	</string>
+	<string id="task_maple_rustles_on_1">
+		<rus>Найти артпреобразования</rus>
+		<eng>Find artifact transformations</eng>
+		<ukr>Знайти артперетворення</ukr>
+		<fra>Rechercher les transformations artistiques</fra>
+		<pln>Znaleźć transformacje artefaktów</pln>
+	</string>
+	<string id="task_maple_rustles_on_2">
+		<rus>Принести изоморфы Клёнову</rus>
+		<eng>Bring the isomorphs to Klyonov</eng>
+		<ukr>Принести ізоморфи Кленову</ukr>
+		<fra>Apporter des isomorphes à Klionov</fra>
+		<pln>Przynieść izomorfy Klonowowi</pln>
+	</string>
+	<string id="task_cunning_forester_on_0">
+		<rus>Грибная солянка</rus>
+		<eng>Mushroom soup</eng>
+		<ukr>Грибна солянка</ukr>
+		<fra>Solianka de champignons</fra>
+		<pln>Zupa grzybowa</pln>
+	</string>
+	<string id="task_cunning_forester_on_1">
+		<rus>Насобирать мухоморов</rus>
+		<eng>Collect some fly amanita</eng>
+		<ukr>Назбирати мухоморів</ukr>
+		<fra>Ramasser des amanites tue-mouches</fra>
+		<pln>Nazbiewrać muchomorów</pln>
+	</string>
+	<string id="task_cunning_forester_on_2">
+		<rus>Принести грибы Леснику</rus>
+		<eng>Bring the mushrooms to Forester</eng>
+		<ukr>Принести гриби Ліснику</ukr>
+		<fra>Apporter les champignons au Forestier</fra>
+		<pln>Przynieść grzyby Leśnikowi</pln>
+	</string>
+	<string id="task_lonely_monolith_on_0">
+		<rus>Голубой эллипс</rus>
+		<eng>Blue ellipse</eng>
+		<ukr>Голубий еліпс</ukr>
+		<fra>Ellipse bleue</fra>
+		<pln>Niebieska elipsa</pln>
+	</string>
+	<string id="task_lonely_monolith_on_1">
+		<rus>Найти рисунок Шахматиста</rus>
+		<eng>Find Chessplayer's drawing</eng>
+		<ukr>Знайти малюнок Шахіста</ukr>
+		<fra>Trouver un dessin du Joueur d'échecs</fra>
+		<pln>Znaleźć rysunek Szachisty</pln>
+	</string>
+	<string id="task_lonely_monolith_on_2">
+		<rus>Показать рисунок Косте</rus>
+		<eng>Show the drawing to Kostya</eng>
+		<ukr>Показати малюнок Кості</ukr>
+		<fra>Montrer le dessin à Kostia</fra>
+		<pln>POkazać rysunek Kostii</pln>
+	</string>
+	<string id="task_shadow_kill_0">
+		<rus>Тень на плетень</rus>
+		<eng>Gaslighting</eng>
+		<ukr>Тінь на тин</ukr>
+		<fra>Noyade du poisson</fra>
+		<pln>Cień na płocie</pln>
+	</string>
+	<string id="task_shadow_kill_1">
+		<rus>Раздобыть информацию</rus>
+		<eng>Get the information</eng>
+		<ukr>Роздобути інформацію</ukr>
+		<fra>Obtenir des informations</fra>
+		<pln>Zdobyć informację</pln>
+	</string>
+	<string id="task_shadow_kill_2">
+		<rus>Обрадовать Шахтёра</rus>
+		<eng>Cheer up the Miner</eng>
+		<ukr>Порадувати Шахтара</ukr>
+		<fra>Faire plaisir à Mineur</fra>
+		<pln>Uradować Górnika</pln>
+	</string>
+	<string id="task_glitch_object_on_0">
+		<rus>Глючный "Морской ёж"</rus>
+		<eng>Glitchy "Sea Urchin"</eng>
+		<ukr>Глючний "Морський їжак"</ukr>
+		<fra>"Oursin" anomal</fra>
+		<pln>Nienormalny "Morski jeż"</pln>
+	</string>
+	<string id="task_glitch_object_on_1">
+		<rus>Найти глючного "Морского ежа"</rus>
+		<eng>Find a glitchy "Sea Urchin"</eng>
+		<ukr>Знайти глючного "Морського їжака"</ukr>
+		<fra>Trouver un "Oursin" anomal</fra>
+		<pln>Znaleźć nienormalnego "Morskiego jeża"</pln>
+	</string>
+	<string id="task_glitch_object_on_2">
+		<rus>Принести "Морского ежа" Колмогору</rus>
+		<eng>Bring the "Sea Urchin" to Kolmogor</eng>
+		<ukr>Принести "Морського їжака" Колмогору</ukr>
+		<fra>Apporter l' "Oursin" à Kolmogor</fra>
+		<pln>Przynieść "Morskiego jeża" Kołmogorowi</pln>
+	</string>
+	<string id="task_sugar_contract_on_0">
+		<rus>Ленивый контрактник</rus>
+		<eng>Lazy contractor</eng>
+		<ukr>Лінивий контрактник</ukr>
+		<fra>Volontaire paresseux</fra>
+		<pln>Leniowy zamawiający</pln>
+	</string>
+	<string id="task_sugar_contract_on_1">
+		<rus>Подписать контракт с Лентяем</rus>
+		<eng>Sign a contract with Bum</eng>
+		<ukr>Підписати контракт з Ледарем</ukr>
+		<fra>Signer un contrat avec Fainéant</fra>
+		<pln>Podpisać kontrakt z Leniuchem</pln>
+	</string>
+	<string id="task_sugar_contract_on_2">
+		<rus>Принести контракт Сахарову</rus>
+		<eng>Bring the contract to Sakharov</eng>
+		<ukr>Принести контракт Сахарову</ukr>
+		<fra>Apporter le contrat à Sakharov</fra>
+		<pln>Przynieść kontrakt do Sacharowa</pln>
+	</string>
+	<string id="task_document_chimera_on_0">
+		<rus>Народные мстители</rus>
+		<eng>The People's Avengers</eng>
+		<ukr>Народні месники</ukr>
+		<fra>Auto-justiciers</fra>
+		<pln>===Partyzanci</pln>
+	</string>
+	<string id="task_document_chimera_on_1">
+		<rus>Зачистить лагерь и найти тайник</rus>
+		<eng>Clean up the camp and find the stash</eng>
+		<ukr>Зачистити табір і знайти схованку</ukr>
+		<fra>Nettoyer le camp et trouver la cache</fra>
+		<pln>Oczyścić obóz i znaleźć schowek</pln>
+	</string>
+	<string id="task_document_chimera_on_2">
+		<rus>Поделиться информацией с Циклопом</rus>
+		<eng>Share information with Cyclops</eng>
+		<ukr>Поділитися інформацією с Циклопом</ukr>
+		<fra>Partager l'information avec le Cyclope</fra>
+		<pln>Podzielić się informacją z Cyklopem</pln>
+	</string>
+
+
+
+
+
+
+
+
+
+	<string id="task_secret_hermit_0">
+		<rus>Тайна Затворника</rus>
+		<eng>The Recluse's Mystery</eng>
+		<ukr>Загадка Затворника</ukr>
+		<fra>Le mystère du Reclus</fra>
+		<pln>===Тайна Затворника</pln>
+	</string>
+	<string id="task_secret_hermit_1">
+		<rus>Найти Записи</rus>
+		<eng>Find the notes</eng>
+		<ukr>Знайти Записи</ukr>
+		<fra>Trouver les notes</fra>
+		<pln>===Найти Записи</pln>
+	</string>
+	<string id="task_secret_hermit_2">
+		<rus>Найти информацию про Затворника</rus>
+		<eng>Find information about Recluse</eng>
+		<ukr>Знайти інформацію про Затворника</ukr>
+		<fra>Trouver des informations sur le Reclus</fra>
+		<pln>===Найти информацию про Затворника</pln>
+	</string>
+	<string id="task_secret_hermit_3">
+		<rus>Найти того, кому нужна информация</rus>
+		<eng>Find someone who needs the information</eng>
+		<ukr>Знайти того, кому потрібна інформація</ukr>
+		<fra>Trouver quelqu'un qui a besoin d'informations</fra>
+		<pln>===Найти того, кому нужна информация</pln>
+	</string>
+
+	<string id="task_hiding_place_anarchist_0">
+		<rus>Тайник Анархиста</rus>
+		<eng>Anarchist's stash</eng>
+		<ukr>Схованка Анархіста</ukr>
+		<fra>Cache de l'Anarchiste</fra>
+		<pln>===Тайник Анархиста</pln>
+	</string>
+	<string id="task_hiding_place_anarchist_1">
+		<rus>Найти Тайник</rus>
+		<eng>Find the stash</eng>
+		<ukr>Знайти Схованку</ukr>
+		<fra>Trouver la cache</fra>
+		<pln>===Найти Тайник</pln>
+	</string>
+	<string id="task_hiding_place_anarchist_2">
+		<rus>Найти Тайник Анархиста</rus>
+		<eng>Find the Anarchist's stash</eng>
+		<ukr>Знайти Схованку Анархіста</ukr>
+		<fra>Trouver la cache de l'Anarchiste</fra>
+		<pln>===Найти Тайник Анархиста</pln>
+	</string>
+	<string id="task_hiding_place_anarchist_3">
+		<rus>Поговорить с Лукашем</rus>
+		<eng>Speak to Lukash</eng>
+		<ukr>Поговорити з Лукашем</ukr>
+		<fra>Parler à Loukache</fra>
+		<pln>===Поговорить с Лукашем</pln>
+	</string>
+
+	<string id="task_honor_mercenary_0">
+		<rus>Честь наёмника</rus>
+		<eng>Mercenary's honor</eng>
+		<ukr>Честь найманця</ukr>
+		<fra>Honneur du mercenaire</fra>
+		<pln>===Честь наёмника</pln>
+	</string>
+	<string id="task_honor_mercenary_1">
+		<rus>Зачистить блок-пост</rus>
+		<eng>Clean up the security checkpoint</eng>
+		<ukr>Зачистити Блок-Пост</ukr>
+		<fra>Nettoyer le point de contrôle</fra>
+		<pln>===Зачистить Блок-Пост</pln>
+	</string>
+	<string id="task_honor_mercenary_2">
+		<rus>Зачистить блок-пост наймов</rus>
+		<eng>Clean up the mercenaries' security checkpoint</eng>
+		<ukr>Зачистити блокпост наймів</ukr>
+		<fra>Nettoyer le point de contrôle des mercenaires</fra>
+		<pln>===Зачистить блок-пост наймов</pln>
+	</string>
+	<string id="task_honor_mercenary_3">
+		<rus>Доложить или схитрить</rus>
+		<eng>Report or cheat</eng>
+		<ukr>Доповісти або схитрувати</ukr>
+		<fra>Rapporter ou tricher</fra>
+		<pln>===Доложить или схитрить</pln>
+	</string>
+
+	<string id="task_among_strangers_0">
+		<rus>Волк в овечьей шкуре</rus>
+		<eng>Wolf in sheep's clothing</eng>
+		<ukr>Вовк в овечій шкурі</ukr>
+		<fra>Loup déguisé en mouton</fra>
+		<pln>===Волк в овечьей шкуре</pln>
+	</string>
+	<string id="task_among_strangers_1">
+		<rus>Найти Анархиста</rus>
+		<eng>Find Anarchist</eng>
+		<ukr>Знайти Анархіста</ukr>
+		<fra>Trouver l'Anarchiste</fra>
+		<pln>===Найти Анархиста</pln>
+	</string>
+	<string id="task_among_strangers_2">
+		<rus>Раздобыть информацию</rus>
+		<eng>Get the information</eng>
+		<ukr>Роздобути інформацію</ukr>
+		<fra>Obtenir l'information</fra>
+		<pln>===Раздобыть информацию</pln>
+	</string>
+	<string id="task_among_strangers_3">
+		<rus>Промолчать или разоблачить Лукаша</rus>
+		<eng>Keep silent or expose Lukash</eng>
+		<ukr>Промовчати або викрити Лукаша</ukr>
+		<fra>Garder le silence ou exposer Loukache</fra>
+		<pln>===Промолчать или разоблачить Лукаша</pln>
+	</string>
+
+	<string id="task_terrible_meal_on_0">
+		<rus>Вкус специфический</rus>
+		<eng>Specific taste</eng>
+		<ukr>Смак специфічний</ukr>
+		<fra>Goût spécifique</fra>
+		<pln>===Вкус Специфический</pln>
+	</string>
+	<string id="task_terrible_meal_on_1">
+		<rus>Собрать необходимое</rus>
+		<eng>Collect the necessary</eng>
+		<ukr>Зібрати необхідне</ukr>
+		<fra>Collecter le nécessaire</fra>
+		<pln>===Собрать необходимое</pln>
+	</string>
+	<string id="task_terrible_meal_on_2">
+		<rus>Собрать части грызунов и насекомых</rus>
+		<eng>Collect the parts of rodents and insects</eng>
+		<ukr>Зібрати частини гризунів та комах</ukr>
+		<fra>Récupérer des pièces de rongeurs et d'insectes</fra>
+		<pln>===Собрать части грызунов и насекомых</pln>
+	</string>
+	<string id="task_terrible_meal_on_3">
+		<rus>Принести этот хлам Лукашу</rus>
+		<eng>Bring this crap to Lukash</eng>
+		<ukr>Принести цей брухт Лукашу</ukr>
+		<fra>Apporter ces rognures à Loukache</fra>
+		<pln>===Принести это месиво Лукашу</pln>
+	</string>
+
+	<string id="task_white_sheep_0">
+		<rus>Белая Ворона</rus>
+		<eng>White crow</eng>
+		<ukr>Біла ворона</ukr>
+		<fra>Merle blanc</fra>
+		<pln>===Белая Ворона</pln>
+	</string>
+	<string id="task_white_sheep_1">
+		<rus>Осмотреть базу "Долга"</rus>
+		<eng>Inspect the "Duty" base</eng>
+		<ukr>Осмотреть базу "Долга"</ukr>
+		<fra>Inspecter la base du "Devoir"</fra>
+		<pln>===Осмотреть базу "Долга"</pln>
+	</string>
+	<string id="task_white_sheep_2">
+		<rus>Осмотреться на базе "Долга"</rus>
+		<eng>Look around the "Duty" base</eng>
+		<ukr>Осмотреться на базе "Долга"</ukr>
+		<fra>Examiner la base du "Devoir"</fra>
+		<pln>===Осмотреться на базе "Долга"</pln>
+	</string>
+
+	<string id="task_brotherhood_isntenough_blood_0">
+		<rus>Братство Малокровок</rus>
+		<eng>Brotherhood of the Anaemics</eng>
+		<ukr>Братство Малокровок</ukr>
+		<fra>Confrérie des Anémiques</fra>
+		<pln>===Братство Малокровок</pln>
+	</string>
+	<string id="task_brotherhood_isntenough_blood_1">
+		<rus>Узнать всё о братстве</rus>
+		<eng>Learn everything about the Brotherhood</eng>
+		<ukr>Дізнатися все про братерство</ukr>
+		<fra>Apprendre tout sur la fraternité</fra>
+		<pln>===Узнать всё о братстве</pln>
+	</string>
+	<string id="task_brotherhood_isntenough_blood_2">
+		<rus>Узнать всё о братстве Малокровок</rus>
+		<eng>Learn everything about the Brotherhood of the Anaemics</eng>
+		<ukr>Дізнатися все про братерство Малокровіє</ukr>
+		<fra>Apprendre tout sur la fraternité des Anémiques</fra>
+		<pln>===Узнать всё о братстве Малокровок</pln>
+	</string>
+	<string id="task_brotherhood_isntenough_blood_3">
+		<rus>Покончить с братством раз и навсегда</rus>
+		<eng>Do away with the Brotherhood once and for all</eng>
+		<ukr>Покінчити з братством раз і назавжди</ukr>
+		<fra>Effacer la fraternité une fois pour toutes</fra>
+		<pln>===Покончить с братством раз и навсегда</pln>
+	</string>
+
+	<string id="task_people_white_0">
+		<rus>Люди в белых халатах</rus>
+		<eng>People in white coats</eng>
+		<ukr>Люди в білих халатах</ukr>
+		<fra>Les gens en blouses blanches</fra>
+		<pln>===Люди в белых халатах</pln>
+	</string>
+	<string id="task_people_white_1">
+		<rus>Найти место дислокации</rus>
+		<eng>Find the deployment site</eng>
+		<ukr>Знайти місце дислокації</ukr>
+		<fra>Trouver le place de dislocation</fra>
+		<pln>===Найти место дислокации</pln>
+	</string>
+	<string id="task_people_white_2">
+		<rus>Написать некролог</rus>
+		<eng>Write an obituary</eng>
+		<ukr>Написати некролог</ukr>
+		<fra>Rédiger une nécrologie</fra>
+		<pln>===Написать некролог</pln>
+	</string>
+
+	<string id="task_information_ensign_0">
+		<rus>Сухопутный мичман</rus>
+		<eng>Dry land midshipman</eng>
+		<ukr>Сухопутний мічман</ukr>
+		<fra>Maître principal terrestre</fra>
+		<pln>===Сухопутный Мичман</pln>
+	</string>
+	<string id="task_information_ensign_1">
+		<rus>Поговорить на Свалке</rus>
+		<eng>Speak at the Dump</eng>
+		<ukr>Поговорити на Звалищі</ukr>
+		<fra>Parler à la Décharge</fra>
+		<pln>===Поговорить на Свалке</pln>
+	</string>
+	<string id="task_information_ensign_2">
+		<rus>Поговорить с Прапором</rus>
+		<eng>Speak to Prapor</eng>
+		<ukr>Поговорити з Прапором</ukr>
+		<fra>Parler à Prapor</fra>
+		<pln>===Поговорить с Прапором</pln>
+	</string>
+
+	<string id="task_prick_analysis_0">
+		<rus>Анализ укола</rus>
+		<eng>Injection analysis</eng>
+		<ukr>Аналіз уколу</ukr>
+		<fra>Analyse d'injection</fra>
+		<pln>===Анализ укола</pln>
+	</string>
+	<string id="task_prick_analysis_1">
+		<rus>Провести анализ</rus>
+		<eng>Perform an analysis</eng>
+		<ukr>Провести аналіз</ukr>
+		<fra>Procéder à une analyse</fra>
+		<pln>===Провести анализ</pln>
+	</string>
+	<string id="task_prick_analysis_2">
+		<rus>Отдать шприц на анализ</rus>
+		<eng>Give the syringe for analysis</eng>
+		<ukr>Віддати шприц на аналіз</ukr>
+		<fra>Donner la seringue pour analyse</fra>
+		<pln>===Отдать шприц на анализ</pln>
+	</string>
+	<string id="task_prick_analysis_3">
+		<rus>Получить результаты</rus>
+		<eng>Get the results</eng>
+		<ukr>Отримати результати</ukr>
+		<fra>Obtenir les résultats</fra>
+		<pln>===Получить результаты</pln>
+	</string>
+
+	<string id="task_mistake_resident_0">
+		<rus>Ошибка Резидента</rus>
+		<eng>Resident's blunder</eng>
+		<ukr>Помилка Резидента</ukr>
+		<fra>La blague du Résident</fra>
+		<pln>===Ошибка Резидента</pln>
+	</string>
+	<string id="task_mistake_resident_1">
+		<rus>Найти Резидента</rus>
+		<eng>Find Resident</eng>
+		<ukr>Знайти Резидента</ukr>
+		<fra>Trouver Résident</fra>
+		<pln>===Найти Резидента</pln>
+	</string>
+	<string id="task_mistake_resident_2">
+		<rus>Поговорить по душам с Резидентом</rus>
+		<eng>Have a heart-to-heart talk with Resident</eng>
+		<ukr>Поговорити до душі з Резидентом</ukr>
+		<fra>Avoir une conversation franche avec Résident</fra>
+		<pln>===Поговорить по душам с Резидентом</pln>
+	</string>
+	<string id="task_mistake_resident_3">
+		<rus>Решить вопрос</rus>
+		<eng>Settle the issue</eng>
+		<ukr>Вирішити питання</ukr>
+		<fra>Régler la question</fra>
+		<pln>===Решить вопрос</pln>
+	</string>
+
+	<string id="task_last_day_captivity_0">
+		<rus>Последний День Эльзы</rus>
+		<eng>Elsa's last day</eng>
+		<ukr>Останній День Ельзи</ukr>
+		<fra>Le dernier jour d'Elsa</fra>
+		<pln>===Последний День Эльзы</pln>
+	</string>
+	<string id="task_last_day_captivity_1">
+		<rus>Поговорить с Доктором</rus>
+		<eng>Speak to Doctor</eng>
+		<ukr>Поговорити з Доктором</ukr>
+		<fra>Parler au Docteur</fra>
+		<pln>===Поговорить с Доктором</pln>
+	</string>
+	<string id="task_last_day_captivity_2">
+		<rus>Поговорить с Доктором</rus>
+		<eng>Speak to Doctor</eng>
+		<ukr>Поговорити з Доктором</ukr>
+		<fra>Parler au Docteur</fra>
+		<pln>===Поговорить с Доктором</pln>
+	</string>
+	<string id="task_last_day_captivity_3">
+		<rus>Напасть на след</rus>
+		<eng>Get on the trail</eng>
+		<ukr>Напасти на слід</ukr>
+		<fra>Trouver la piste</fra>
+		<pln>===Напасть на след</pln>
+	</string>
+	<string id="task_last_day_captivity_4">
+		<rus>Освободить Эльзу</rus>
+		<eng>Liberate Elsa</eng>
+		<ukr>Звільнити Ельзу</ukr>
+		<fra>Libérer Elsa</fra>
+		<pln>===Освободить Эльзу</pln>
+	</string>
+
+	<string id="task_super_consultant_0">
+		<rus>Суперконсультант</rus>
+		<eng>Super consultant</eng>
+		<ukr>Суперконсультант</ukr>
+		<fra>Super consultant</fra>
+		<pln>===Суперконсультант</pln>
+	</string>
+	<string id="task_super_consultant_1">
+		<rus>Поговорить с Костей</rus>
+		<eng>Speak to Kostya</eng>
+		<ukr>Поговорити з Костею</ukr>
+		<fra>Parler à Kostia</fra>
+		<pln>===Поговорить с Костей</pln>
+	</string>
+	<string id="task_super_consultant_2">
+		<rus>Найти Консультанта</rus>
+		<eng>Find the Consultant</eng>
+		<ukr>Знайти Консультанта</ukr>
+		<fra>Trouver le Consultant</fra>
+		<pln>===Найти Консультанта</pln>
+	</string>
+
+	<string id="task_journalist_investigation_0">
+		<rus>Журналистское расследование</rus>
+		<eng>Journalistic investigation</eng>
+		<ukr>Журналістське розслідування</ukr>
+		<fra>Enquête journalistique</fra>
+		<pln>===Журналистское расследование</pln>
+	</string>
+	<string id="task_journalist_investigation_1">
+		<rus>Найти интеллигента</rus>
+		<eng>Find an intellectual</eng>
+		<ukr>Знайти інтелігента</ukr>
+		<fra>Trouver un intellectuel</fra>
+		<pln>===Найти интеллигента</pln>
+	</string>
+	<string id="task_journalist_investigation_2">
+		<rus>Найти журналиста</rus>
+		<eng>Find a journalist</eng>
+		<ukr>Знайти журналіста</ukr>
+		<fra>Trouver un journaliste</fra>
+		<pln>===Найти журналиста</pln>
+	</string>
+
+	<string id="task_release_sugar_on_0">
+		<rus>Золотой ключик</rus>
+		<eng>The Golden Key</eng>
+		<ukr>Золотий ключик</ukr>
+		<fra>La Clé d'or</fra>
+		<pln>===Золотой ключик</pln>
+	</string>
+	<string id="task_release_sugar_on_1">
+		<rus>Найти ключ от ловушки</rus>
+		<eng>Find the key to the trap</eng>
+		<ukr>Знайти ключ від пастки</ukr>
+		<fra>Trouver la clé du piège</fra>
+		<pln>===Найти ключ от ловушки</pln>
+	</string>
+	<string id="task_release_sugar_on_2">
+		<rus>Поговорить с Эльзой</rus>
+		<eng>Speak to Elsa</eng>
+		<ukr>Поговорити з Ельзою</ukr>
+		<fra>Parler à Elsa</fra>
+		<pln>===Поговорить с Эльзой</pln>
+	</string>
+
+	<string id="task_female_sentimentality_0">
+		<rus>Женские сантименты</rus>
+		<eng>Female Sentimentality</eng>
+		<ukr>Жіночі сантименти</ukr>
+		<fra>Sentimentalité féminine</fra>
+		<pln>===Женские сантименты</pln>
+	</string>
+	<string id="task_female_sentimentality_1">
+		<rus>Найти дневник</rus>
+		<eng>Find the diary</eng>
+		<ukr>Знайти щоденник</ukr>
+		<fra>Trouver le journal</fra>
+		<pln>===Найти дневник</pln>
+	</string>
+	<string id="task_female_sentimentality_2">
+		<rus>Найти дневник Эльзы</rus>
+		<eng>Find the Elsa's diary</eng>
+		<ukr>Знайти щоденник Ельзи</ukr>
+		<fra>Trouver le journal d'Elsa</fra>
+		<pln>===Найти дневник Эльзы</pln>
+	</string>
+	<string id="task_female_sentimentality_3">
+		<rus>Вернуть дневник</rus>
+		<eng>Return the diary</eng>
+		<ukr>Повернути щоденник</ukr>
+		<fra>Rendre le journal</fra>
+		<pln>===Вернуть дневник</pln>
+	</string>
+
+	<string id="task_dope_ordinary_0">
+		<rus>Дурман Обыкновенный</rus>
+		<eng>Common dope</eng>
+		<ukr>Дурман Звичайний</ukr>
+		<fra>Drogue commune</fra>
+		<pln>===Дурман Обыкновенный</pln>
+	</string>
+	<string id="task_dope_ordinary_1">
+		<rus>Найти лабораторию</rus>
+		<eng>Find the laboratory</eng>
+		<ukr>Знайти лабораторію</ukr>
+		<fra>Trouver le laboratoire</fra>
+		<pln>===Найти лабораторию</pln>
+	</string>
+	<string id="task_dope_ordinary_2">
+		<rus>Найти лабораторию и лекарство</rus>
+		<eng>Find the laboratory and the medicine</eng>
+		<ukr>Знайти лабораторію та ліки</ukr>
+		<fra>Trouver le laboratoire et le médicament</fra>
+		<pln>===Найти лабораторию и лекарство</pln>
+	</string>
+	<string id="task_dope_ordinary_3">
+		<rus>Принести лекарство Сахарову</rus>
+		<eng>Bring the medicine to Sakharov</eng>
+		<ukr>Принести ліки Сахарову</ukr>
+		<fra>Apporter le médicament à Sakharov</fra>
+		<pln>===Принести лекарство Сахарову</pln>
+	</string>
+
+	<string id="edification_descendants_00">
+		<rus>В назидание потомкам</rus>
+		<eng>For the edification of descendants</eng>
+		<ukr>У науку нащадкам</ukr>
+		<fra>Pour l'édification des descendants</fra>
+		<pln>===В назидание потомкам</pln>
+	</string>
+	<string id="edification_descendants_0">
+		<rus>Найти все легенды</rus>
+		<eng>Find all the legends</eng>
+		<ukr>Знайти усі легенди</ukr>
+		<fra>Trouver toutes les légendes</fra>
+		<pln>===Найти все легенды</pln>
+	</string>
+	<string id="edification_descendants_1">
+		<rus>Найти Легенду №1</rus>
+		<eng>Find the Legend No1</eng>
+		<ukr>Знайти Легенду №1</ukr>
+		<fra>Trouver la légende n°1</fra>
+		<pln>===Найти Легенду №1</pln>
+	</string>
+	<string id="edification_descendants_2">
+		<rus>Найти Легенду №2</rus>
+		<eng>Find the Legend No2</eng>
+		<ukr>Знайти Легенду №2</ukr>
+		<fra>Trouver la légende n°2</fra>
+		<pln>===Найти Легенду №2</pln>
+	</string>
+	<string id="edification_descendants_3">
+		<rus>Найти Легенду №3</rus>
+		<eng>Find the Legend No3</eng>
+		<ukr>Знайти Легенду №3</ukr>
+		<fra>Trouver la légende n°3</fra>
+		<pln>===Найти Легенду №3</pln>
+	</string>
+	<string id="edification_descendants_4">
+		<rus>Найти Легенду №4</rus>
+		<eng>Find the Legend No4</eng>
+		<ukr>Знайти Легенду №4</ukr>
+		<fra>Trouver la légende n°4</fra>
+		<pln>===Найти Легенду №4</pln>
+	</string>
+	<string id="edification_descendants_5">
+		<rus>Найти Легенду №5</rus>
+		<eng>Find the Legend No5</eng>
+		<ukr>Знайти Легенду №5</ukr>
+		<fra>Trouver la légende n°5</fra>
+		<pln>===Найти Легенду №5</pln>
+	</string>
+	<string id="edification_descendants_6">
+		<rus>Найти Легенду №6</rus>
+		<eng>Find the Legend No6</eng>
+		<ukr>Знайти Легенду №6</ukr>
+		<fra>Trouver la légende n°6</fra>
+		<pln>===Найти Легенду №6</pln>
+	</string>
+	<string id="edification_descendants_7">
+		<rus>Найти Легенду №7</rus>
+		<eng>Find the Legend No7</eng>
+		<ukr>Знайти Легенду №7</ukr>
+		<fra>Trouver la légende n°7</fra>
+		<pln>===Найти Легенду №7</pln>
+	</string>
+	<string id="edification_descendants_8">
+		<rus>Найти Легенду №8</rus>
+		<eng>Find the Legend No8</eng>
+		<ukr>Знайти Легенду №8</ukr>
+		<fra>Trouver la légende n°8</fra>
+		<pln>===Найти Легенду №8</pln>
+	</string>
+	<string id="edification_descendants_9">
+		<rus>Найти Легенду №9</rus>
+		<eng>Find the Legend No9</eng>
+		<ukr>Знайти Легенду №9</ukr>
+		<fra>Trouver la légende n°9</fra>
+		<pln>===Найти Легенду №9</pln>
+	</string>
+	<string id="edification_descendants_10">
+		<rus>Найти Легенду №10</rus>
+		<eng>Find the Legend No10</eng>
+		<ukr>Знайти Легенду №10</ukr>
+		<fra>Trouver la légende n°10</fra>
+		<pln>===Найти Легенду №10</pln>
+	</string>
+	<string id="edification_descendants_11">
+		<rus>Принести все записи Косте</rus>
+		<eng>Bring all the notes to Kostya</eng>
+		<ukr>Принести всі записи Кості</ukr>
+		<fra>Apporter toutes les notes à Kostia</fra>
+		<pln>===Принести все записи Косте</pln>
+	</string>
+
+	<string id="task_thread_ariadna_0">
+		<rus>Любовный треугольник</rus>
+		<eng>Love triangle</eng>
+		<ukr>Любовний трикутник</ukr>
+		<fra>Triangle amoureux</fra>
+		<pln>===Любовный треугольник</pln>
+	</string>
+	<string id="task_thread_ariadna_1">
+		<rus>Помочь Косте</rus>
+		<eng>Help Kostya</eng>
+		<ukr>Допомогти Кості</ukr>
+		<fra>Aider Kostia</fra>
+		<pln>===Помочь Косте</pln>
+	</string>
+	<string id="task_thread_ariadna_2">
+		<rus>Отнести записку</rus>
+		<eng>Carry the note</eng>
+		<ukr>Віднести записку</ukr>
+		<fra>Porter la note</fra>
+		<pln>===Отнести записку</pln>
+	</string>
+
+	<string id="not_initself_0">
+		<rus>Не Сами По Себе</rus>
+		<eng>Not on their own</eng>
+		<ukr>Не Самі По Собі</ukr>
+		<fra>Pas par eux-mêmes</fra>
+		<pln>===Не Сами По Себе</pln>
+	</string>
+	<string id="not_initself_1">
+		<rus>Проверить три лаборатории</rus>
+		<eng>Check three laboratories</eng>
+		<ukr>Перевірити три лабораторії</ukr>
+		<fra>Vérifier trois laboratoires</fra>
+		<pln>===Проверить три лаборатории</pln>
+	</string>
+	<string id="not_initself_2">
+		<rus>Проверить основные лаборатории</rus>
+		<eng>Check the main laboratories</eng>
+		<ukr>Перевірити основні лабораторії</ukr>
+		<fra>Vérifier les laboratoires principaux</fra>
+		<pln>===Проверить основные лаборатории</pln>
+	</string>
+	<string id="not_initself_3">
+		<rus>Доложить Свиблову</rus>
+		<eng>Report to Sviblov</eng>
+		<ukr>Доповісти Свіблову</ukr>
+		<fra>Rapporter à Sviblov</fra>
+		<pln>===Доложить Свиблову</pln>
+	</string>
+
+	<string id="bloody_end_game_0">
+		<rus>Кровавый эндшпиль</rus>
+		<eng>Bloody endgame</eng>
+		<ukr>Кривавий ендшпіль</ukr>
+		<fra>Finale sanglante</fra>
+		<pln>===Кровавый эндшпиль</pln>
+	</string>
+	<string id="bloody_end_game_1">
+		<rus>Разгадать замысел</rus>
+		<eng>Discern the game plan</eng>
+		<ukr>Розгадати задум</ukr>
+		<fra>Deviner le dessein</fra>
+		<pln>===Разгадать замысел</pln>
+	</string>
+	<string id="bloody_end_game_2">
+		<rus>Разгадать замысел Малокровок</rus>
+		<eng>Discern the Anaemics' game plan</eng>
+		<ukr>Розгадати задум Малокровіє</ukr>
+		<fra>Deviner le dessein des Anémiques</fra>
+		<pln>===Разгадать замысел Малокровок</pln>
+	</string>
+	<string id="bloody_end_game_3">
+		<rus>Покончить с Шахматистом</rus>
+		<eng>Put an end to Chessplayer</eng>
+		<ukr>Покінчити з Шахістом</ukr>
+		<fra>Effacer le Joueur d'échecs</fra>
+		<pln>===Покончить с Шахматистом</pln>
+	</string>
+
+	<string id="first_hidingplace_0">
+		<rus>Убежище 101</rus>
+		<eng>Shelter 101</eng>
+		<ukr>Притулок 101</ukr>
+		<fra>Abri 101</fra>
+		<pln>===Убежище 101</pln>
+	</string>
+	<string id="first_hidingplace_1">
+		<rus>Найти первый тайник</rus>
+		<eng>Find the first stash</eng>
+		<ukr>Знайти першу схованку</ukr>
+		<fra>Trouver la première cache</fra>
+		<pln>===Найти первый тайник</pln>
+	</string>
+	<string id="first_hidingplace_2">
+		<rus>Найти первый тайник Мурзо</rus>
+		<eng>Find Murzo's first stash</eng>
+		<ukr>Знайти першу схованку Мурзо</ukr>
+		<fra>Trouver la première cache de Mourzo</fra>
+		<pln>===Найти первый тайник Мурзо</pln>
+	</string>
+
+	<string id="individual_activity_0">
+		<rus>Индивидуальная деятельность</rus>
+		<eng>Individual activity</eng>
+		<ukr>Індивідуальна діяльність</ukr>
+		<fra>Activité individuelle</fra>
+		<pln>===Индивидуальная деятельность</pln>
+	</string>
+	<string id="individual_activity_1">
+		<rus>Проверить подземку</rus>
+		<eng>Check the underground</eng>
+		<ukr>Перевірити підземку</ukr>
+		<fra>Vérifier le souterrain</fra>
+		<pln>===Проверить подземку</pln>
+	</string>
+	<string id="individual_activity_2">
+		<rus>Проверить подземку Агро</rus>
+		<eng>Check the Agroprom underground</eng>
+		<ukr>Перевірте підземку Агропрому</ukr>
+		<fra>Vérifier le souterrain de l'Agroprom</fra>
+		<pln>===Проверить подземку Агро</pln>
+	</string>
+	<string id="individual_activity_3">
+		<rus>Рассказать Адреналину о найденном</rus>
+		<eng>Tell Adrenaline what was found</eng>
+		<ukr>Розповісти Адреналіну про знайдене</ukr>
+		<fra>Parler à Adrénaline de ce que été trouvé</fra>
+		<pln>===Рассказать Адреналину о найденном</pln>
+	</string>
+
+	<string id="sales_representative_0">
+		<rus>Торговый представитель</rus>
+		<eng>Trade commissioner</eng>
+		<ukr>Торговий представник</ukr>
+		<fra>Agent commercial</fra>
+		<pln>===Торговый представитель</pln>
+	</string>
+	<string id="sales_representative_1">
+		<rus>Проверить торговые точки</rus>
+		<eng>Check the sales outlets</eng>
+		<ukr>Перевірити торгові точки</ukr>
+		<fra>Vérifier les points de vente</fra>
+		<pln>===Проверить торговые точки</pln>
+	</string>
+	<string id="sales_representative_2">
+		<rus>Проверить лагерь Сяка</rus>
+		<eng>Check the Syak's camp</eng>
+		<ukr>Перевірити табір Сяка</ukr>
+		<fra>Vérifier le camp de Siak</fra>
+		<pln>===Проверить лагерь Сяка</pln>
+	</string>
+	<string id="sales_representative_3">
+		<rus>Проверить лагерь Креста</rus>
+		<eng>Check Cross's camp</eng>
+		<ukr>Перевірити табір Хреста</ukr>
+		<fra>Vérifier le camp de Croix</fra>
+		<pln>===Проверить лагерь Креста</pln>
+	</string>
+	<string id="sales_representative_4">
+		<rus>Проверить лагерь Отшельника</rus>
+		<eng>Check Hermit's camp</eng>
+		<ukr>Перевірити табір Самітника</ukr>
+		<fra>Vérifier le camp d'Ermite</fra>
+		<pln>===Проверить лагерь Отшельника</pln>
+	</string>
+	<string id="sales_representative_5">
+		<rus>Успокоить Адреналина</rus>
+		<eng>Calm Adrenaline down</eng>
+		<ukr>Заспокоїти Адреналіну</ukr>
+		<fra>Calmer l'Adrénaline</fra>
+		<pln>===Успокоить Адреналина</pln>
+	</string>
+
+	<string id="silent_simulator_0">
+		<rus>Тихий имитатор</rus>
+		<eng>Silent imitator</eng>
+		<ukr>Тихий імітатор</ukr>
+		<fra>Imitateur silencieux</fra>
+		<pln>===Тихий имитатор</pln>
+	</string>
+	<string id="silent_simulator_1">
+		<rus>Прощупать обитателя станции "Янов"</rus>
+		<eng>Probe the inhabitant of the Yanov station</eng>
+		<ukr>Промацати мешканця станції "Янів"</ukr>
+		<fra>Sondez l'habitant de la station Yanov</fra>
+		<pln>===Прощупать обитателя станции "Янов"</pln>
+	</string>
+
+	<string id="skillful_provoker_0">
+		<rus>Умелый провокатор</rus>
+		<eng>Skillful provocateur</eng>
+		<ukr>Вправний провокатор</ukr>
+		<fra>Provocateur habile</fra>
+		<pln>===Умелый провокатор</pln>
+	</string>
+	<string id="skillful_provoker_1">
+		<rus>Найти и уничтожить</rus>
+		<eng>Search and destroy</eng>
+		<ukr>Знайти і знищити</ukr>
+		<fra>Rechercher et détruire</fra>
+		<pln>===Найти и уничтожить</pln>
+	</string>
+	<string id="skillful_provoker_2">
+		<rus>Найти и убить шестёрку Мурзо</rus>
+		<eng>Find and kill Murzo's sixtet</eng>
+		<ukr>Знайти та вбити шістку Мурзо</ukr>
+		<fra>Trouver et tuer le larbin de Murzo</fra>
+		<pln>===Найти и убить шестёрку Мурзо</pln>
+	</string>
+	<string id="skillful_provoker_3">
+		<rus>Поговорить с имитатором</rus>
+		<eng>Seak to the imitator</eng>
+		<ukr>Поговорити із імітатором</ukr>
+		<fra>Parler à l'imitateur</fra>
+		<pln>===Поговорить с имитатором</pln>
+	</string>
+
+	<string id="flashes_lightning_00">
+		<rus>Смертельные удары грома</rus>
+		<eng>Deadly thunderbolts</eng>
+		<ukr>Смертельні удари грому</ukr>
+		<fra>Coups de tonnerre mortels</fra>
+		<pln>===Смертельные удары грома</pln>
+	</string>
+	<string id="flashes_lightning_0">
+		<rus>Удары грома</rus>
+		<eng>Thunderbolts</eng>
+		<ukr>Удари грому</ukr>
+		<fra>Coups de tonnerre</fra>
+		<pln>===Удары грома</pln>
+	</string>
+	<string id="flashes_lightning_1">
+		<rus>Первый удар грома</rus>
+		<eng>The first thunderbolt</eng>
+		<ukr>Перший удар грому</ukr>
+		<fra>Le premier coup de tonnerre</fra>
+		<pln>===Первый удар грома</pln>
+	</string>
+	<string id="flashes_lightning_2">
+		<rus>Второй удар грома</rus>
+		<eng>The second thunderbolt</eng>
+		<ukr>Другий удар грому</ukr>
+		<fra>Le deuxième coup de tonnerre</fra>
+		<pln>===Второй удар грома</pln>
+	</string>
+	<string id="flashes_lightning_3">
+		<rus>Третий удар грома</rus>
+		<eng>The third thunderbolt</eng>
+		<ukr>Третій удар грому</ukr>
+		<fra>Le troisième coup de tonnerre</fra>
+		<pln>===Третий удар грома</pln>
+	</string>
+	<string id="flashes_lightning_4">
+		<rus>Четвёртый удар грома</rus>
+		<eng>The fourth thunderbolt</eng>
+		<ukr>Четвертий удар грому</ukr>
+		<fra>Le quatrième coup de tonnerre</fra>
+		<pln>===Четвёртый удар грома</pln>
+	</string>
+	<string id="flashes_lightning_5">
+		<rus>Пятый удар грома</rus>
+		<eng>The fifth thunderbolt</eng>
+		<ukr>П'ятий удар грому</ukr>
+		<fra>Le cinquième coup de tonnerre</fra>
+		<pln>===Пятый удар грома</pln>
+	</string>
+	<string id="flashes_lightning_6">
+		<rus>Шестой удар грома</rus>
+		<eng>The sixth thunderbolt</eng>
+		<ukr>Шостий удар грому</ukr>
+		<fra>Le sixième coup de tonnerre</fra>
+		<pln>===Шестой удар грома</pln>
+	</string>
+	<string id="flashes_lightning_7">
+		<rus>Седьмой удар грома</rus>
+		<eng>The seventh thunderbolt</eng>
+		<ukr>Сьомий удар грому</ukr>
+		<fra>Le septième coup de tonnerre</fra>
+		<pln>===Седьмой удар грома</pln>
+	</string>
+	<string id="flashes_lightning_8">
+		<rus>Восьмой удар грома</rus>
+		<eng>The eighth thunderbolt</eng>
+		<ukr>Восьмий удар грому</ukr>
+		<fra>Le huitième coup de tonnerre</fra>
+		<pln>===Восьмой удар грома</pln>
+	</string>
+	<string id="flashes_lightning_9">
+		<rus>Смертельный удар грома</rus>
+		<eng>The deadly thunderbolt</eng>
+		<ukr>Смертельний удар грому</ukr>
+		<fra>Le coup de tonnerre mortel</fra>
+		<pln>===Смертельный удар грома</pln>
+	</string>
+
+	<string id="flashes_lightning28_00">
+		<rus>Смертельные Вспышки Молнии</rus>
+		<eng>Deadly Lightning strikes</eng>
+		<ukr>Смертельні Спалахи Блискавки</ukr>
+		<fra>Les Éclats mortel de la Foudre</fra>
+		<pln>===Смертельные Вспышки Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_0">
+		<rus>Вспышки Молнии</rus>
+		<eng>Lightning strikes</eng>
+		<ukr>Спалахи Блискавки</ukr>
+		<fra>Les Éclats de la Foudre</fra>
+		<pln>===Вспышки Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_1">
+		<rus>Первая вспышка Молнии</rus>
+		<eng>The first Lightning strike</eng>
+		<ukr>Перший спалах Блискавки</ukr>
+		<fra>Le premier éclat de la Foudre</fra>
+		<pln>===Первая вспышка Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_2">
+		<rus>Вторая вспышка Молнии</rus>
+		<eng>The second Lightning strike</eng>
+		<ukr>Другий спалах Блискавки</ukr>
+		<fra>Le deuxième éclat de la Foudre</fra>
+		<pln>===Вторая вспышка Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_3">
+		<rus>Третья вспышка Молнии</rus>
+		<eng>The third Lightning strike</eng>
+		<ukr>Третій спалах Блискавки</ukr>
+		<fra>Le troisième éclat de la Foudre</fra>
+		<pln>===Третья вспышка Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_4">
+		<rus>Четвёртая вспышка Молнии</rus>
+		<eng>The forth Lightning strike</eng>
+		<ukr>Четвертий спалах Блискавки</ukr>
+		<fra>Le quatrième éclat de la Foudre</fra>
+		<pln>===Четвёртая вспышка Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_5">
+		<rus>Пятая вспышка Молнии</rus>
+		<eng>The fifth Lightning strike</eng>
+		<ukr>П'ятий спалах Блискавки</ukr>
+		<fra>Le cinquième éclat de la Foudre</fra>
+		<pln>===Пятая вспышка Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_6">
+		<rus>Шестая вспышка Молнии</rus>
+		<eng>The sixth Lightning strike</eng>
+		<ukr>Шостий спалах Блискавки</ukr>
+		<fra>Le sixième éclat de la Foudre</fra>
+		<pln>===Шестая вспышка Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_7">
+		<rus>Седьмая вспышка Молнии</rus>
+		<eng>The seventh Lightning strike</eng>
+		<ukr>Сьомий спалах Блискавки</ukr>
+		<fra>Le septième éclat de la Foudre</fra>
+		<pln>===Седьмая вспышка Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_8">
+		<rus>Восьмая вспышка Молнии</rus>
+		<eng>The eighth Lightning strike</eng>
+		<ukr>Восьмий спалах Блискавки</ukr>
+		<fra>Le huitième éclat de la Foudre</fra>
+		<pln>===Восьмая вспышка Молнии</pln>
+	</string>
+	<string id="flashes_lightning28_9">
+		<rus>Смертельная вспышка Молнии</rus>
+		<eng>The deadly Lightning strike</eng>
+		<ukr>Смертельний спалах Блискавки</ukr>
+		<fra>L'éclat mortel de la Foudre</fra>
+		<pln>===Смертельная вспышка Молнии</pln>
+	</string>
+
+	<string id="last_haven_0">
+		<rus>Последнее Пристанище</rus>
+		<eng>Last refuge</eng>
+		<ukr>Останній Притулок</ukr>
+		<fra>Dernier refuge</fra>
+		<pln>===Последнее Пристанище</pln>
+	</string>
+	<string id="last_haven_1">
+		<rus>Найти тайник</rus>
+		<eng>Find the stash</eng>
+		<ukr>Знайти схованку</ukr>
+		<fra>Trouver la cache</fra>
+		<pln>===Найти тайник</pln>
+	</string>
+	<string id="last_haven_2">
+		<rus>Найти тайник Иванцова</rus>
+		<eng>Find Ivantsov's stash</eng>
+		<ukr>Знайти схованку Іванцова</ukr>
+		<fra>Trouver la cache d'Ivantsov</fra>
+		<pln>===Найти тайник Иванцова</pln>
+	</string>
+
+	<string id="wrong_phone_0">
+		<rus>Испорченный телефон</rus>
+		<eng>Tainted telephone</eng>
+		<ukr>Зіпсований телефон</ukr>
+		<fra>Téléphone arabe</fra>
+		<pln>===Испорченный телефон</pln>
+	</string>
+	<string id="wrong_phone_1">
+		<rus>Найти источник информации</rus>
+		<eng>Find a source of information</eng>
+		<ukr>Знайти джерело інформації</ukr>
+		<fra>Trouver une source d'information</fra>
+		<pln>===Найти источник информации</pln>
+	</string>
+	<string id="wrong_phone_2">
+		<rus>Взломать идентификатор</rus>
+		<eng>Hack the identifier</eng>
+		<ukr>Зламати ідентифікатор</ukr>
+		<fra>Pirater l'identificateur</fra>
+		<pln>===Взломать идентификатор</pln>
+	</string>
+	<string id="wrong_phone_3">
+		<rus>Получить код доступа</rus>
+		<eng>Get the access code</eng>
+		<ukr>Отримати код доступу</ukr>
+		<fra>Obtenir le code d'accès</fra>
+		<pln>===Получить код доступа</pln>
+	</string>
+	<string id="wrong_phone_4">
+		<rus>Дождаться сообщения</rus>
+		<eng>Wait for a message</eng>
+		<ukr>Дочекатися повідомлення</ukr>
+		<fra>Attender le message</fra>
+		<pln>===Дождаться сообщения</pln>
+	</string>
+
+	<string id="hidingplace_fake_0">
+		<rus>Ложный тайник</rus>
+		<eng>False stash</eng>
+		<ukr>Хибна схованка</ukr>
+		<fra>Cache fausse</fra>
+		<pln>===Фейк-Тайник</pln>
+	</string>
+	<string id="hidingplace_fake_1">
+		<rus>Найти тайник</rus>
+		<eng>Find the stash</eng>
+		<ukr>Знайти схованку</ukr>
+		<fra>Trouver la cache</fra>
+		<pln>===Найти тайник</pln>
+	</string>
+	<string id="hidingplace_fake_2">
+		<rus>Найти четвёртый тайник Мурзо</rus>
+		<eng>Find Murzo's fourth stash</eng>
+		<ukr>Знайти четверту схованку Мурзо</ukr>
+		<fra>Trouver la quatrième cache de Mourzo</fra>
+		<pln>===Найти четвертый тайник Мурзо</pln>
+	</string>
+
+	<string id="handover_currency_0">
+		<rus>Сдавайте валюту</rus>
+		<eng>Hand over the foreign currency</eng>
+		<ukr>Здавайте валюту</ukr>
+		<fra>Remettez des devises étrangères</fra>
+		<pln>===Сдавайте валюту</pln>
+	</string>
+	<string id="handover_currency_1">
+		<rus>Найти схрон Мурзо</rus>
+		<eng>Fins Murzo's stash</eng>
+		<ukr>Знайти схрон Мурзо</ukr>
+		<fra>Trouver la cache de Mourzo</fra>
+		<pln>===Найти схрон Мурзо</pln>
+	</string>
+
+	<string id="delivery_proofs_on_0">
+		<rus>Вестник из Тьмы</rus>
+		<eng>Herald from the Darkness</eng>
+		<ukr>Вісник із Темряви</ukr>
+		<fra>Héraut des Ténèbres</fra>
+		<pln>===Вестник из Тьмы</pln>
+	</string>
+	<string id="delivery_proofs_on_1">
+		<rus>Найти Лебедева в Лиманске</rus>
+		<eng>Find Lebedev at Limansk</eng>
+		<ukr>Знайти Лебедєва в Лиманську</ukr>
+		<fra>Trouver Lebedev à Limansk</fra>
+		<pln>===Найти Лебедева в Лиманске</pln>
+	</string>
+	<string id="delivery_proofs_on_2">
+		<rus>Найти сталкера Свана</rus>
+		<eng>Find stalker Svan</eng>
+		<ukr>Знайти сталкера Свана</ukr>
+		<fra>Trouver stalker Svane</fra>
+		<pln>===Найти сталкера Свана</pln>
+	</string>
+	<string id="delivery_proofs_on_3">
+		<rus>Найти рецепт</rus>
+		<eng>Find the recipe</eng>
+		<ukr>Знайти рецепт</ukr>
+		<fra>Trouver la recette</fra>
+		<pln>===Найти рецепт</pln>
+	</string>
+	<string id="delivery_proofs_on_4">
+		<rus>Сварить артефакт</rus>
+		<eng>Cook an artifact</eng>
+		<ukr>Зварити артефакт</ukr>
+		<fra>Faire bouillir un artefact</fra>
+		<pln>===Сварить артефакт</pln>
+	</string>
+	<string id="delivery_proofs_on_5">
+		<rus>Поговорить с лидером ЧН</rus>
+		<eng>Talk to the Clear Sky leader</eng>
+		<ukr>Поговорити з лідером ЧН</ukr>
+		<fra>===Поговорить с лидером ЧН</fra>
+		<pln>===Поговорить с лидером ЧН</pln>
+	</string>
+
+	<string id="pandoras_box_on_0">
+		<rus>Ящик Пандоры</rus>
+		<eng>Pandora's box</eng>
+		<ukr>Ящик Пандори</ukr>
+		<fra>La boîte de Pandore</fra>
+		<pln>===Ящик Пандоры</pln>
+	</string>
+	<string id="pandoras_box_on_1">
+		<rus>Найти и взять взрывчатку</rus>
+		<eng>Find and take explosives</eng>
+		<ukr>Знайти та взяти вибухівку</ukr>
+		<fra>Trouver et récupérer des explosifs</fra>
+		<pln>===Найти и взять взрывчатку</pln>
+	</string>
+	<string id="pandoras_box_on_2">
+		<rus>Заминировать "Прометей"</rus>
+		<eng>Mine "Prometheus"</eng>
+		<ukr>Замінувати "Прометей"</ukr>
+		<fra>Miner "Prométhée"</fra>
+		<pln>===Заминировать "Прометей"</pln>
+	</string>
+
+	<string id="arguments_and_facts_00">
+		<rus>Аргументы и Факты</rus>
+		<eng>Arguments and Facts</eng>
+		<ukr>Аргументи і факти</ukr>
+		<fra>Arguments et Faits</fra>
+		<pln>===Аргументы и Факты</pln>
+	</string>
+	<string id="arguments_and_facts_0">
+		<rus>Найти неоспоримые доказательства</rus>
+		<eng>Find hard evidences</eng>
+		<ukr>Знайти незаперечні докази</ukr>
+		<fra>Trouver des preuves aveuglantes</fra>
+		<pln>===Найти неоспоримые доказательства</pln>
+	</string>
+	<string id="arguments_and_facts_1">
+		<rus>Найти доказательство №1</rus>
+		<eng>Find the evidence No1</eng>
+		<ukr>Знайти доказ №1</ukr>
+		<fra>Trouver la preuve n°1</fra>
+		<pln>===Найти доказательство №1</pln>
+	</string>
+	<string id="arguments_and_facts_2">
+		<rus>Найти доказательство №2</rus>
+		<eng>Find the evidence No2</eng>
+		<ukr>Знайти доказ №2</ukr>
+		<fra>Trouver la preuve n°2</fra>
+		<pln>===Найти доказательство №2</pln>
+	</string>
+	<string id="arguments_and_facts_3">
+		<rus>Найти доказательство №3</rus>
+		<eng>Find the evidence No3</eng>
+		<ukr>Знайти доказ №3</ukr>
+		<fra>Trouver la preuve n°3</fra>
+		<pln>===Найти доказательство №3</pln>
+	</string>
+	<string id="arguments_and_facts_4">
+		<rus>Разоблачить Затворника</rus>
+		<eng>Expose Recluse</eng>
+		<ukr>Викрити Затворника</ukr>
+		<fra>Exposer le Reclus</fra>
+		<pln>===Разоблачить Затворника</pln>
+	</string>
+
+	<string id="tar_spoon_0">
+		<rus>Ложка дёгтя</rus>
+		<eng>Fly in the ointment</eng>
+		<ukr>Ложка дьогтю</ukr>
+		<fra>Cheveux sur la soupe</fra>
+		<pln>===Ложка дегтя</pln>
+	</string>
+	<string id="tar_spoon_1">
+		<rus>Найти тайник</rus>
+		<eng>Find the stash</eng>
+		<ukr>Знайти схованку</ukr>
+		<fra>Trouver la cache</fra>
+		<pln>===Найти тайник</pln>
+	</string>
+	<string id="tar_spoon_2">
+		<rus>Найти последний тайник Мурзо</rus>
+		<eng>Find Murzo's last stash</eng>
+		<ukr>Знайти останню схованку Мурзо</ukr>
+		<fra>Trouver la dernière cache de Mourzo</fra>
+		<pln>===Найти последний тайник Мурзо</pln>
+	</string>
+
+	<string id="halcyon_ordinary_0">
+		<rus>Зимородок обыкновенный</rus>
+		<eng>Common kingfisher</eng>
+		<ukr>Зимородок звичайний</ukr>
+		<fra>Martin-pêcheur commun</fra>
+		<pln>===Зимородок обыкновенный</pln>
+	</string>
+	<string id="halcyon_ordinary_1">
+		<rus>Спасти Саню Фроста</rus>
+		<eng>Rescue Sanya Frost</eng>
+		<ukr>Врятувати Саню Фроста</ukr>
+		<fra>Sauver Sania Frost</fra>
+		<pln>===Спасти Саню Фроста</pln>
+	</string>
+
+	<string id="death_truck_on_0">
+		<rus>Грузовик Смерти</rus>
+		<eng>Death Truck</eng>
+		<ukr>Вантажівка Смерті</ukr>
+		<fra>Camion de la mort</fra>
+		<pln>===Грузовик Смерти</pln>
+	</string>
+	<string id="death_truck_on_1">
+		<rus>Найти деактиватор телепорта</rus>
+		<eng>Find the teleporter deactivator</eng>
+		<ukr>Знайти деактиватор телепорту</ukr>
+		<fra>Trouver le désactivateur du téléporteur</fra>
+		<pln>===Найти деактиватор телепорта</pln>
+	</string>
+	<string id="death_truck_on_2">
+		<rus>Удалить телепорт</rus>
+		<eng>Deactivate the teleport</eng>
+		<ukr>Видалити телепорт</ukr>
+		<fra>Éliminer le téléporteur</fra>
+		<pln>===Удалить телепорт</pln>
+	</string>
+
+	<string id="land_ofnod_0">
+		<rus>Сонное царство</rus>
+		<eng>The Kingdom of Dreams</eng>
+		<ukr>Сонне царство</ukr>
+		<fra>Royaume endormi</fra>
+		<pln>===Сонное царство</pln>
+	</string>
+	<string id="land_ofnod_1">
+		<rus>Осмотреть место сна</rus>
+		<eng>Inspect the sleeping place</eng>
+		<ukr>Оглянути місце сну</ukr>
+		<fra>Inspecter le lieu de couchage</fra>
+		<pln>===Осмотреть место сна</pln>
+	</string>
+
+	<string id="nostalgia_real_0">
+		<rus>Ностальгия по настоящему</rus>
+		<eng>Nostalgia for the present</eng>
+		<ukr>Ностальгія по-справжньому</ukr>
+		<fra>Nostalgie du présent</fra>
+		<pln>===Ностальгия по настоящему</pln>
+	</string>
+	<string id="nostalgia_real_1">
+		<rus>Поговорить с Василием</rus>
+		<eng>Speak to Vasily</eng>
+		<ukr>Поговорити з Василем</ukr>
+		<fra>Parler à Vassili</fra>
+		<pln>===Поговорить с Василием</pln>
+	</string>
+
+	<string id="tribute_cold_0">
+		<rus>Дань уважения</rus>
+		<eng>Homage</eng>
+		<ukr>Дань поваги</ukr>
+		<fra>Hommage</fra>
+		<pln>===Дань уважения</pln>
+	</string>
+	<string id="tribute_cold_1">
+		<rus>Возложить цветок и еду</rus>
+		<eng>Lay the flower and the food</eng>
+		<ukr>Покласти квітку та їжу</ukr>
+		<fra>Déposer le fleur et de la nourriture</fra>
+		<pln>===Возложить цветок и еду</pln>
+	</string>
+
+	<string id="profaners_graves_0">
+		<rus>Осквернители могил</rus>
+		<eng>Grave desecrators</eng>
+		<ukr>Осквернителі могил</ukr>
+		<fra>Violeurs des sépultures</fra>
+		<pln>===Осквернители могил</pln>
+	</string>
+	<string id="profaners_graves_1">
+		<rus>Проверить погост в Деревне Новичков</rus>
+		<eng>Check the graveyard in the Rookie Village</eng>
+		<ukr>Перевірити цвинтар</ukr>
+		<fra>Vérifier le cimetière du Village des novices</fra>
+		<pln>===Проверить погост в Деревне Новичков</pln>
+	</string>
+	<string id="profaners_graves_2">
+		<rus>Проверить погост на Генераторах</rus>
+		<eng>Check the graveyard on Generators</eng>
+		<ukr>Перевірити цвинтар на Генераторах</ukr>
+		<fra>Vérifier le cimetière aux Générateurs</fra>
+		<pln>===Проверить погост на Генераторах</pln>
+	</string>
+
+	<string id="amber_tears_0">
+		<rus>Слёзы Янтаря</rus>
+		<eng>Tears of Yantar</eng>
+		<ukr>Сльози Янтаря</ukr>
+		<fra>Larmes de Yantar</fra>
+		<pln>===Слезы Янтаря</pln>
+	</string>
+	<string id="amber_tears_1">
+		<rus>Сварить или найти артефакты</rus>
+		<eng>Cook or find the artifacts</eng>
+		<ukr>Зварити чи знайти артефакти</ukr>
+		<fra>Cuire ou trouver les artefacts</fra>
+		<pln>===Сварить или найти артефакты</pln>
+	</string>
+	<string id="amber_tears_2">
+		<rus>Принести артефакты Сахарову</rus>
+		<eng>Bring the artifacts to Sakharov</eng>
+		<ukr>Принести артефакти Сахарову</ukr>
+		<fra>Apporter les artefacts à Sakharov</fra>
+		<pln>===Принести артефакты Сахарову</pln>
+	</string>
+
+	<string id="ugly_elza_0">
+		<rus>Безобразная Эльза</rus>
+		<eng>Ugly Elsa</eng>
+		<ukr>Потворна Ельза</ukr>
+		<fra>Moche Elsa</fra>
+		<pln>===Безобразная Эльза</pln>
+	</string>
+	<string id="ugly_elza_1">
+		<rus>Срочно поговорить с Сахаровым</rus>
+		<eng>Urgently talk to Sakharov</eng>
+		<ukr>Терміново поговорити із Сахаровим</ukr>
+		<fra>Laide Elsa</fra>
+		<pln>===Срочно поговорить с Сахаровым</pln>
+	</string>
+	<string id="ugly_elza_2">
+		<rus>Найти сведения о его жене</rus>
+		<eng>Find some information about his wife</eng>
+		<ukr>Знайти відомості про його дружину</ukr>
+		<fra>Trouver l'information sur sa femme</fra>
+		<pln>===Найти сведения о его жене</pln>
+	</string>
+	<string id="ugly_elza_3">
+		<rus>Сообщить профессору о результатах</rus>
+		<eng>Report the results to the professor</eng>
+		<ukr>Повідомити професора про результати</ukr>
+		<fra>Rapporter les résultats au professeur</fra>
+		<pln>===Сообщить профессору о результатах</pln>
+	</string>
+
+	<string id="last_duel_0">
+		<rus>Непримиримые дуэлянты</rus>
+		<eng>Irreconcilable duelists</eng>
+		<ukr>Непримиренні дуелянти</ukr>
+		<fra>Duellistes irréconciliables</fra>
+		<pln>===Непримиримые дуэлянты</pln>
+	</string>
+	<string id="last_duel_1">
+		<rus>Помочь Доктору</rus>
+		<eng>Help Doctor</eng>
+		<ukr>Допомога Доктору</ukr>
+		<fra>Aider le Docteur</fra>
+		<pln>===Помочь Доктору</pln>
+	</string>
+	<string id="last_duel_2">
+		<rus>Поговорить с ним после боя</rus>
+		<eng>Speak to him after the fight</eng>
+		<ukr>Поговорити з ним після бою</ukr>
+		<fra>Parler-lui après le combat</fra>
+		<pln>===Поговорить с ним после боя</pln>
+	</string>
+
+	<string id="farewell_amnesty_0">
+		<rus>Прощание и всепрощение</rus>
+		<eng>Farewell and absolution</eng>
+		<ukr>Прощання та всепрощення</ukr>
+		<fra>Adieu et absolution</fra>
+		<pln>===Прощание и всепрощение</pln>
+	</string>
+	<string id="farewell_amnesty_1">
+		<rus>Проститься с героями повести</rus>
+		<eng>Bid farewell to the heroes of the story</eng>
+		<ukr>Попрощатися з героями повісті</ukr>
+		<fra>Dire adieu aux héros de l'histoire</fra>
+		<pln>===Проститься с героями повести</pln>
+	</string>
+
+	<string id="stone_on_neck_0">
+		<rus>Камень на шее</rus>
+		<eng>Stone around the neck</eng>
+		<ukr>Камінь на шиї</ukr>
+		<fra>Pierre au cou</fra>
+		<pln>===Камень на шее</pln>
+	</string>
+	<string id="stone_on_neck_1">
+		<rus>Найти тайник</rus>
+		<eng>Find the stash</eng>
+		<ukr>Знайти схованку</ukr>
+		<fra>Trouver la cache</fra>
+		<pln>===Найти тайник</pln>
+	</string>
+	<string id="stone_on_neck_2">
+		<rus>Найти второй тайник Мурзо</rus>
+		<eng>Find Murzo's second stash</eng>
+		<ukr>Знайти другу схованку Мурзо</ukr>
+		<fra>Trouver la deuxième cache de Mourzo</fra>
+		<pln>===Найти второй тайник Мурзо</pln>
+	</string>
+
+	<string id="urgent_consultation_0">
+		<rus>Небесная канцелярия</rus>
+		<eng>Heavenly Office</eng>
+		<ukr>Небесна канцелярія</ukr>
+		<fra>Les Bureaux de Dieu</fra>
+		<pln>===Небесная канцелярия</pln>
+	</string>
+	<string id="urgent_consultation_1">
+		<rus>Поговорить на Болотах</rus>
+		<eng>Talk in the Swamps</eng>
+		<ukr>Поговорити на Болотах</ukr>
+		<fra>===Поговорить на Болотах</fra>
+		<pln>===Поговорить на Болотах</pln>
+	</string>
+	<string id="urgent_consultation_2">
+		<rus>Поговорить со Свибловым</rus>
+		<eng>Speak to Sviblov</eng>
+		<ukr>Поговорити зі Свіблово</ukr>
+		<fra>Parler à Sviblov</fra>
+		<pln>===Поговорить со Свибловым</pln>
+	</string>
+
+
+
+	<string id="chess_sexual_maniac_0">
+		<rus>Сексуальный маньяк</rus>
+		<eng>Sexual maniac</eng>
+		<ukr>Сексуальний маніяк</ukr>
+		<fra>Obsédé sexuel</fra>
+		<pln>===Сексуальный маньяк</pln>
+	</string>
+	<string id="chess_sexual_maniac_1">
+		<rus>Найти журналы для Акима</rus>
+		<eng>Find the magazines for Akim</eng>
+		<ukr>Знайти журнали для Якима</ukr>
+		<fra>Trouver les magazines pour Akim</fra>
+		<pln>===Найти журналы для Акима</pln>
+	</string>
+	<string id="chess_sexual_maniac_2">
+		<rus>Найти все журналы Плейбой</rus>
+		<eng>Find all Playboy magazines</eng>
+		<ukr>Знайти усі журнали Плейбой</ukr>
+		<fra>Trouver tous les magazines Playboy</fra>
+		<pln>===Найти все журналы Плейбой</pln>
+	</string>
+	<string id="chess_sexual_maniac_3">
+		<rus>Принести журналы Акиму</rus>
+		<eng>Bring the magazines to Akim</eng>
+		<ukr>Принести журнали Якиму</ukr>
+		<fra>Apporter les magazines à Akim</fra>
+		<pln>===Принести журналы Акиму</pln>
+	</string>
+
+	<string id="sexual_beauty_0">
+		<rus>Припятская пленница</rus>
+		<eng>The captive of Pripyat</eng>
+		<ukr>Прип'ятська полонянка</ukr>
+		<fra>La captive de Pripyat</fra>
+		<pln>===Припятская пленница</pln>
+	</string>
+	<string id="sexual_beauty_1">
+		<rus>Начать поиск пленницы</rus>
+		<eng>Start searching for the captive</eng>
+		<ukr>Розпочати пошук полонянки</ukr>
+		<fra>Commencer à rechercher la captive</fra>
+		<pln>===Начать поиск пленницы</pln>
+	</string>
+	<string id="sexual_beauty_2">
+		<rus>Найти Припятскую пленницу</rus>
+		<eng>Find the captive of Pripyat</eng>
+		<ukr>Знайти Прип'ятську полонянку</ukr>
+		<fra>Trouver la captive de Pripyat</fra>
+		<pln>===Найти Припятскую пленницу</pln>
+	</string>
+	<string id="sexual_beauty_3">
+		<rus>Проинформировать Акима</rus>
+		<eng>Inform Akim</eng>
+		<ukr>Поінформувати Якима</ukr>
+		<fra>Informer Akim</fra>
+		<pln>===Проинформировать Акима</pln>
+	</string>
+
+	<string id="home_hut_0">
+		<rus>Домашний очаг</rus>
+		<eng>Hearth and home</eng>
+		<ukr>Домашнє вогнище</ukr>
+		<fra>Le lare</fra>
+		<pln>===Домашний очаг</pln>
+	</string>
+	<string id="home_hut_1">
+		<rus>Осмотреть 2ой этаж дома на базе ЧН</rus>
+		<eng>Examine the 2nd floor of the building at the "Clear Sky" base</eng>
+		<ukr>Оглянути 2 поверх будинку на базі ЧН</ukr>
+		<fra>Examiner le 1er étage du bâtiment à la base du "Ciel Fin"</fra>
+		<pln>===Осмотреть 2ой этаж дома на базе ЧН</pln>
+	</string>
+
+	<string id="nostalgia_past_0">
+		<rus>Ностальгия по прошлому</rus>
+		<eng>Nostalgia for the past</eng>
+		<ukr>Ностальгія за минулим</ukr>
+		<fra>Nostalgie du passé</fra>
+		<pln>===Ностальгия по прошлому</pln>
+	</string>
+	<string id="nostalgia_past_1">
+		<rus>Обустроить своё жилище</rus>
+		<eng>Equip your home</eng>
+		<ukr>Облаштувати своє житло</ukr>
+		<fra>Aménager sa maison</fra>
+		<pln>===Обустроить своё жилище</pln>
+	</string>
+
+	<string id="homemade_pies_0">
+		<rus>Домашние пирожки</rus>
+		<eng>Homemade pies</eng>
+		<ukr>Домашні пиріжки</ukr>
+		<fra>Tourtes artisanales</fra>
+		<pln>===Домашние пирожки</pln>
+	</string>
+	<string id="homemade_pies_1">
+		<rus>Найти нужные предметы</rus>
+		<eng>Find the required items</eng>
+		<ukr>Знайти потрібні предмети</ukr>
+		<fra>Trouver les articles nécessaires</fra>
+		<pln>===Найти нужные предметы</pln>
+	</string>
+	<string id="nostalgia_past_2">
+		<rus>Обустроить жилище</rus>
+		<eng>Equip the home</eng>
+		<ukr>Облаштувати житло</ukr>
+		<fra>Aménager la maison</fra>
+		<pln>===Обустроить жилище</pln>
+	</string>
+
+	<string id="pieces_furniture_0">
+		<rus>Эксклюзивный антураж</rus>
+		<eng>Exclusive entourage</eng>
+		<ukr>Ексклюзивний антураж</ukr>
+		<fra>Entourage exclusif</fra>
+		<pln>===Эксклюзивный антураж</pln>
+	</string>
+	<string id="pieces_furniture_1">
+		<rus>Найти нужные предметы</rus>
+		<eng>Find the required items</eng>
+		<ukr>Знайти потрібні предмети</ukr>
+		<fra>Trouver les articles nécessaires</fra>
+		<pln>===Найти нужные предметы</pln>
+	</string>
+	<string id="pieces_furniture_2">
+		<rus>Найти предметы мебели</rus>
+		<eng>Find furniture items</eng>
+		<ukr>Знайти предмети меблів</ukr>
+		<fra>Trouver des meubles</fra>
+		<pln>===Найти предметы мебели</pln>
+	</string>
+
+	<string id="lunch_break_0">
+		<rus>Обеденный перерыв</rus>
+		<eng>Lunch break</eng>
+		<ukr>Обідня перерва</ukr>
+		<fra>Pause déjeuner</fra>
+		<pln>===Обеденный перерыв</pln>
+	</string>
+	<string id="lunch_break_1">
+		<rus>Найти столовые приборы</rus>
+		<eng>Find some cutlery</eng>
+		<ukr>Знайти столові прилади</ukr>
+		<fra>Trouver des couverts</fra>
+		<pln>===Найти столовые приборы</pln>
+	</string>
+
+	<string id="demand_entertainments_0">
+		<rus>Не хлебом единым</rus>
+		<eng>Not by bread alone</eng>
+		<ukr>Не хлібом єдиним</ukr>
+		<fra>Pas seulement de pain</fra>
+		<pln>===Не хлебом единым</pln>
+	</string>
+	<string id="demand_entertainments_1">
+		<rus>Найти предметы быта</rus>
+		<eng>Find household items</eng>
+		<ukr>Знайти предмети побуту</ukr>
+		<fra>Trouver des articles ménagers</fra>
+		<pln>===Найти предметы быта</pln>
+	</string>
+
+	<string id="personal_belongings_0">
+		<rus>Наташа-растеряша</rus>
+		<eng>Natasha the Woolgatherer</eng>
+		<ukr>Наташа-розгубила</ukr>
+		<fra>Natacha Oublieuse</fra>
+		<pln>===Наташа-растеряша</pln>
+	</string>
+	<string id="personal_belongings_1">
+		<rus>Попытаться найти вещи</rus>
+		<eng>Try to find the things</eng>
+		<ukr>Спробувати знайти речі</ukr>
+		<fra>Essayer de trouver les choses</fra>
+		<pln>===Попытаться найти вещи</pln>
+	</string>
+	<string id="personal_belongings_2">
+		<rus>Найти утерянные вещи</rus>
+		<eng>Find the lost things</eng>
+		<ukr>Знайти втрачені речі</ukr>
+		<fra>Trouver les choses perdues</fra>
+		<pln>===Найти утерянные вещи</pln>
+	</string>
+	<string id="personal_belongings_3">
+		<rus>Принести их домой</rus>
+		<eng>Bring them home</eng>
+		<ukr>Принести їх додому</ukr>
+		<fra>Ramener-les à la maison</fra>
+		<pln>===Принести их домой</pln>
+	</string>
+
+	<string id="collection_coins_0">
+		<rus>Золотая коллекция</rus>
+		<eng>Golden Collection</eng>
+		<ukr>Золота коллекція</ukr>
+		<fra>Collection d'or</fra>
+		<pln>===Золотая коллекция</pln>
+	</string>
+	<string id="collection_coins_1">
+		<rus>Попытаться найти коллекцию</rus>
+		<eng>Try to find the collection</eng>
+		<ukr>Спробувати знайти колекцію</ukr>
+		<fra>Essayer de trouver la collection</fra>
+		<pln>===Попытаться найти коллекцию</pln>
+	</string>
+	<string id="collection_coins_2">
+		<rus>Найти украденные монеты</rus>
+		<eng>Find the stolen coins</eng>
+		<ukr>Знайти вкрадені монети</ukr>
+		<fra>Trouver les pièces de monnaie volées</fra>
+		<pln>===Найти украденные монеты</pln>
+	</string>
+	<string id="collection_coins_3">
+		<rus>Принести монеты домой</rus>
+		<eng>Bring the coins home</eng>
+		<ukr>Принести монети додому</ukr>
+		<fra>Apporter les pièces de monnaie à la maison</fra>
+		<pln>===Принести монеты домой</pln>
+	</string>
+
+	<string id="family_relics_0">
+		<rus>Семейные реликвии</rus>
+		<eng>Family heirlooms</eng>
+		<ukr>Сімейні реліквії</ukr>
+		<fra>Souvenirs de famille</fra>
+		<pln>===Семейные реликвии</pln>
+	</string>
+	<string id="family_relics_1">
+		<rus>Найти все реликвии</rus>
+		<eng>Find all the heirlooms</eng>
+		<ukr>Знайти усі реліквії</ukr>
+		<fra>Trouver tous les souvenirs</fra>
+		<pln>===Найти все реликвии</pln>
+	</string>
+	<string id="family_relics_2">
+		<rus>Найти три иконы</rus>
+		<eng>Find the three icons</eng>
+		<ukr>Знайти три ікони</ukr>
+		<fra>Trouver trois icônes</fra>
+		<pln>===Найти три иконы</pln>
+	</string>
+	<string id="family_relics_3">
+		<rus>Найти охотничий нож</rus>
+		<eng>Find the hunting knife</eng>
+		<ukr>Знайти мисливський ніж</ukr>
+		<fra>Trouver le couteau de chasse</fra>
+		<pln>===Найти охотничий нож</pln>
+	</string>
+	<string id="family_relics_4">
+		<rus>Найти планшет</rus>
+		<eng>Find the tablet</eng>
+		<ukr>Знайти планшет</ukr>
+		<fra>Trouver la tablette</fra>
+		<pln>===Найти планшет</pln>
+	</string>
+	<string id="family_relics_5">
+		<rus>Найти шахматы</rus>
+		<eng>Find the chessboard</eng>
+		<ukr>Знайти шахи</ukr>
+		<fra>Trouver les échecs</fra>
+		<pln>===Найти шахматы</pln>
+	</string>
+	<string id="family_relics_6">
+		<rus>Найти фотографию</rus>
+		<eng>Find the photo</eng>
+		<ukr>Знайти фотографію</ukr>
+		<fra>Trouver la photo</fra>
+		<pln>===Найти фотографию</pln>
+	</string>
+	<string id="family_relics_7">
+		<rus>Найти лошадку</rus>
+		<eng>Find the hobbyhorse</eng>
+		<ukr>Знайти конячку</ukr>
+		<fra>Trouver le dada</fra>
+		<pln>===Найти лошадку</pln>
+	</string>
+	<string id="family_relics_8">
+		<rus>Найти картину</rus>
+		<eng>Find the painting</eng>
+		<ukr>Знайти картину</ukr>
+		<fra>Trouver la peinture</fra>
+		<pln>===Найти картину</pln>
+	</string>
+	<string id="family_relics_9">
+		<rus>Найти золотые часы</rus>
+		<eng>Find the gold watch</eng>
+		<ukr>Знайти золотий годинник</ukr>
+		<fra>Trouver la montre dorée</fra>
+		<pln>===Найти золотые часы</pln>
+	</string>
+	<string id="family_relics_10">
+		<rus>Принести реликвии домой</rus>
+		<eng>Bring the heirlooms home</eng>
+		<ukr>Принести реліквії додому</ukr>
+		<fra>Ramener les souvenirs à la maison</fra>
+		<pln>===Принести реликвии домой</pln>
+	</string>
+
+	<string id="final_journey_0">
+		<rus>Последний путь</rus>
+		<eng>Final journey</eng>
+		<ukr>Останній путь</ukr>
+		<fra>Le dernier voyage</fra>
+		<pln>===Последний путь</pln>
+	</string>
+	<string id="final_journey_1">
+		<rus>Проводить товарища</rus>
+		<eng>Send your friend on his final journey</eng>
+		<ukr>Проводити товариша</ukr>
+		<fra>Accompagner l'ami à sa dernière demeure</fra>
+		<pln>===Проводить товарища</pln>
+	</string>
+	<string id="final_journey_2">
+		<rus>Выкопать могилу</rus>
+		<eng>Dig the grave</eng>
+		<ukr>Викопати могилу</ukr>
+		<fra>Creuser la tombe</fra>
+		<pln>===Выкопать могилу</pln>
+	</string>
+	<string id="final_journey_3">
+		<rus>Похоронить Иванцова</rus>
+		<eng>Bury Ivantsov</eng>
+		<ukr>Поховати Іванцова</ukr>
+		<fra>Enterrer Ivantsov</fra>
+		<pln>===Похоронить Иванцова</pln>
+	</string>
+
+	<string id="sentence_goblin_0">
+		<rus>Смертный Приговор</rus>
+		<eng>Death Sentence</eng>
+		<ukr>Смертний Вирок</ukr>
+		<fra>Sentence de mort</fra>
+		<pln>===Смертный Приговор</pln>
+	</string>
+	<string id="sentence_goblin_1">
+		<rus>Помочь убрать Гоблина</rus>
+		<eng>Help take the Goblin out</eng>
+		<ukr>Допомогти прибрати Гобліна</ukr>
+		<fra>Aider à abattre le Gobelin</fra>
+		<pln>===Помочь убрать Гоблина</pln>
+	</string>
+	<string id="sentence_goblin_2">
+		<rus>Помочь Наташе убрать Гоблина</rus>
+		<eng>Help Natasha take the Goblin out</eng>
+		<ukr>Допомогти Наташі прибрати Гобліна</ukr>
+		<fra>Aider Natacha à abattre le Gobelin</fra>
+		<pln>===Помочь Наташе убрать Гоблина</pln>
+	</string>
+
+	<string id="talk_bag_of_goods_0">
+		<rus>Надежный Поставщик</rus>
+		<eng>Reliable supplier</eng>
+		<ukr>Надійний Постачальник</ukr>
+		<fra>Fournisseur fiable</fra>
+		<pln>===Надежный Поставщик</pln>
+	</string>
+	<string id="talk_bag_of_goods_1">
+		<rus>Поговорить с Поставщиком</rus>
+		<eng>Speak to Supplier</eng>
+		<ukr>Поговорити з Постачальником</ukr>
+		<fra>Parler au Fournisseur</fra>
+		<pln>===Поговорить с Поставщиком</pln>
+	</string>
+
+	<string id="bag_of_goods_0">
+		<rus>Романтик с большой дороги</rus>
+		<eng>Roadside Romantic</eng>
+		<ukr>Романтик з великої дороги</ukr>
+		<fra>le romantique de grand chemin</fra>
+		<pln>===Романтик с большой дороги</pln>
+	</string>
+	<string id="bag_of_goods_1">
+		<rus>Убить грабителя</rus>
+		<eng>Kill the robber</eng>
+		<ukr>Вбити грабіжника</ukr>
+		<fra>Tuer le brigand</fra>
+		<pln>===Убить грабителя</pln>
+	</string>
+	<string id="bag_of_goods_2">
+		<rus>Найти мешок с товаром</rus>
+		<eng>Find the bag of goods</eng>
+		<ukr>Знайти мішок з товаром</ukr>
+		<fra>Trouver le sac de marchandises</fra>
+		<pln>===Найти мешок с товаром</pln>
+	</string>
+	<string id="bag_of_goods_3">
+		<rus>Принести мешок Снабженцу</rus>
+		<eng>Bring the bag to the Supplier</eng>
+		<ukr>Принести мішок Постачальнику</ukr>
+		<fra>Apporter le sac au Fournisseur</fra>
+		<pln>===Принести мешок Снабженцу</pln>
+	</string>
+
+	<string id="collection_chrysanthemum_0">
+		<rus>Цветочный Роман</rus>
+		<eng>Romance novel</eng>
+		<ukr>Квітковий Роман</ukr>
+		<fra>Romance florale</fra>
+		<pln>===Цветочный Роман</pln>
+	</string>
+	<string id="collection_chrysanthemum_1">
+		<rus>Попытаться найти цветы</rus>
+		<eng>Try to find some flowers</eng>
+		<ukr>Спробувати знайти квіти</ukr>
+		<fra>Essayer de trouver des fleurs</fra>
+		<pln>===Попытаться найти цветы</pln>
+	</string>
+	<string id="collection_chrysanthemum_2">
+		<rus>Собрать цветы на поляне</rus>
+		<eng>Collect some flowers on the meadow</eng>
+		<ukr>Зібрати квіти на галявині</ukr>
+		<fra>Ramasser des fleurs dans le pré</fra>
+		<pln>===Собрать цветы на поляне</pln>
+	</string>
+	<string id="collection_chrysanthemum_3">
+		<rus>Осыпать цветами Наташу</rus>
+		<eng>Sprinkle flowers on Natasha</eng>
+		<ukr>Осипати квітами Наташу</ukr>
+		<fra>Abreuver Natacha de fleurs</fra>
+		<pln>===Осыпать цветами Наташу</pln>
+	</string>
+
+	<string id="rooftop_latrine_on_0">
+		<rus>Отхожее Место</rus>
+		<eng>Latrine</eng>
+		<ukr>Відхоже місце</ukr>
+		<fra>Latrines</fra>
+		<pln>===Отхожее Место</pln>
+	</string>
+	<string id="rooftop_latrine_on_1">
+		<rus>Найти информацию у военных</rus>
+		<eng>Find the information from the militaries</eng>
+		<ukr>Знайти інформацію у військових</ukr>
+		<fra>Trouver l'information auprès des militaires</fra>
+		<pln>===Найти информацию у военных</pln>
+	</string>
+
+	<string id="be_your_cloak_0">
+		<rus>Я Буду Твоим Плащом</rus>
+		<eng>I'll Be Your Cloak</eng>
+		<ukr>Я буду Твоїм Плащем</ukr>
+		<fra>Je Serai Ton Manteau</fra>
+		<pln>===Я Буду Твоим Плащом</pln>
+	</string>
+	<string id="be_your_cloak_1">
+		<rus>Найти информацию у бандитов</rus>
+		<eng>Find the information from the bandits</eng>
+		<ukr>Знайти інформацію у бандитів</ukr>
+		<fra>Trouver l'information auprès de bandits</fra>
+		<pln>===Найти информацию у бандитов</pln>
+	</string>
+
+	<string id="exotic_mercenary_on_0">
+		<rus>Экзотический Наёмник</rus>
+		<eng>Exotic Mercenary</eng>
+		<ukr>Екзотичний Найманець</ukr>
+		<fra>Mercenaire exotique</fra>
+		<pln>===Экзотический Наёмник</pln>
+	</string>
+	<string id="exotic_mercenary_on_1">
+		<rus>Найти информацию у наёмников</rus>
+		<eng>Find the information from the mercenaries</eng>
+		<ukr>Знайти інформацію у найманців</ukr>
+		<fra>Trouver l'information auprès des mercenaires</fra>
+		<pln>===Найти информацию у наёмников</pln>
+	</string>
+
+	<string id="task_kuzay_playboy_0">
+		<rus>Красота Требует Жертв</rus>
+		<eng>Beauty Requires Sacrifice</eng>
+		<ukr>Краса Потребує Жертв</ukr>
+		<fra>La beauté est une maîtresse cruelle</fra>
+		<pln>===Красота Требует Жертв</pln>
+	</string>
+	<string id="task_kuzay_playboy_1">
+		<rus>Найти сбитый вертолёт и осмотреть его</rus>
+		<eng>Find the downed helicopter and inspect it</eng>
+		<ukr>Знайти збитий гелікоптер і оглянути його</ukr>
+		<fra>Trouver l'hélicoptère abattu et inspectez-le</fra>
+		<pln>===Найти сбитый вертолёт и осмотреть его</pln>
+	</string>
+	<string id="task_kuzay_playboy_2">
+		<rus>Найти груз</rus>
+		<eng>Find the goods</eng>
+		<ukr>Знайти вантаж</ukr>
+		<fra>Trouver les marchandises</fra>
+		<pln>===Найти груз</pln>
+	</string>
+	<string id="task_kuzay_playboy_3">
+		<rus>Принести груз Кузнецову</rus>
+		<eng>Bring the goods to Kuznetsov</eng>
+		<ukr>Принести вантаж Кузнєцову</ukr>
+		<fra>Apporter les marchandises à Kouznetsov</fra>
+		<pln>===Принести груз Кузнецову</pln>
+	</string>
+
+</string_table>

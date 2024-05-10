@@ -1,0 +1,2062 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- При добавлении увеличивать количество в amk_mod.sms_name -->
+<string_table>
+	<string id="sms_pogon_1">
+		<rus>Лох Петрович</rus>
+		<eng>Chump Petrovich</eng>
+		<ukr>Лох Петрович</ukr>
+		<fra>Cave Petrovitch</fra>
+		<pln>Loch Pietrowicz</pln>
+	</string>
+	<string id="sms_pogon_2">
+		<rus>Балахон</rus>
+		<eng>Hoodie</eng>
+		<ukr>Балахон</ukr>
+		<fra>Coule</fra>
+		<pln>Bałachon</pln>
+	</string>
+	<string id="sms_pogon_3">
+		<rus>Хип</rus>
+		<eng>Heep</eng>
+		<ukr>Хіп</ukr>
+		<fra>Hanche</fra>
+		<pln>Żył</pln>
+	</string>
+	<string id="sms_pogon_4">
+		<rus>Хитмен</rus>
+		<eng>Hitman</eng>
+		<ukr>Хітмен</ukr>
+		<fra>Hitman</fra>
+		<pln>Hitman</pln>
+	</string>
+	<string id="sms_pogon_5">
+		<rus>Кабачок</rus>
+		<eng>Zucchini</eng>
+		<ukr>Кабачок</ukr>
+		<fra>Zucchini</fra>
+		<pln>Kabaczek</pln>
+	</string>
+	<string id="sms_pogon_6">
+		<rus>Зоозооз</rus>
+		<eng>Zoozooz</eng>
+		<ukr>Зоозооз</ukr>
+		<fra>Zoozooz</fra>
+		<pln>Zoozooz</pln>
+	</string>
+	<string id="sms_pogon_7">
+		<rus>Слон</rus>
+		<eng>Elephant</eng>
+		<ukr>Слон</ukr>
+		<fra>Éléphant</fra>
+		<pln>Słoń</pln>
+	</string>
+	<string id="sms_pogon_8">
+		<rus>Маркус</rus>
+		<eng>Marcus</eng>
+		<ukr>Маркус</ukr>
+		<fra>Marcus</fra>
+		<pln>Markus</pln>
+	</string>
+	<string id="sms_pogon_9">
+		<rus>Рикошет</rus>
+		<eng>Ricochet</eng>
+		<ukr>Рикошет</ukr>
+		<fra>Ricochet</fra>
+		<pln>Rykoszet</pln>
+	</string>
+	<string id="sms_pogon_10">
+		<rus>Тимур</rus>
+		<eng>Timur</eng>
+		<ukr>Тимур</ukr>
+		<fra>Timur</fra>
+		<pln>Timur</pln>
+	</string>
+	<string id="sms_pogon_11">
+		<rus>Редрик Шухарт</rus>
+		<eng>Redrick Schuhart</eng>
+		<ukr>Редрік Шухарт</ukr>
+		<fra>Redrick Schuhart</fra>
+		<pln>Redrick Schuhart</pln>
+	</string>
+	<string id="sms_pogon_12">
+		<rus>Журналист</rus>
+		<eng>Journalist</eng>
+		<ukr>Журналіст</ukr>
+		<fra>Journaliste</fra>
+		<pln>Dziennikarz</pln>
+	</string>
+	<string id="sms_pogon_13">
+		<rus>Клавиатурович</rus>
+		<eng>Keyboarder</eng>
+		<ukr>Клавіатурович</ukr>
+		<fra>Clavier</fra>
+		<pln>Klawiaturowicz</pln>
+	</string>
+	<string id="sms_pogon_14">
+		<rus>Холера Ясна</rus>
+		<eng>Fair Cholera</eng>
+		<ukr>Холєра Ясна</ukr>
+		<fra>Le Choléra Lucide</fra>
+		<pln>Jasna cholera</pln>
+	</string>
+	<string id="sms_pogon_15">
+		<rus>Джузеппе</rus>
+		<eng>Giuseppe</eng>
+		<ukr>Джузеппе</ukr>
+		<fra>Giuseppe</fra>
+		<pln>Giuseppe</pln>
+	</string>
+	<string id="sms_pogon_16">
+		<rus>Пьеро</rus>
+		<eng>Pierrot</eng>
+		<ukr>П'єро</ukr>
+		<fra>Pierrot</fra>
+		<pln>Pióro</pln>
+	</string>
+	<string id="sms_pogon_17">
+		<rus>Абдулла</rus>
+		<eng>Abdullah</eng>
+		<ukr>Абдулла</ukr>
+		<fra>Abdul</fra>
+		<pln>Abdulla</pln>
+	</string>
+	<string id="sms_pogon_18">
+		<rus>Чебурашка</rus>
+		<eng>Cheburashka</eng>
+		<ukr>Чебурашка</ukr>
+		<fra>Tchebourachka</fra>
+		<pln>Kiwaczek</pln>
+	</string>
+	<string id="sms_pogon_19">
+		<rus>Инок</rus>
+		<eng>Coenobite</eng>
+		<ukr>Інок</ukr>
+		<fra>Ermite</fra>
+		<pln>Inok</pln>
+	</string>
+	<string id="sms_pogon_20">
+		<rus>Нептун</rus>
+		<eng>Neptune</eng>
+		<ukr>Нептун</ukr>
+		<fra>Neptune</fra>
+		<pln>Neptun</pln>
+	</string>
+	<string id="sms_pogon_21">
+		<rus>Оскар</rus>
+		<eng>Oscar</eng>
+		<ukr>Оскар</ukr>
+		<fra>Oscar</fra>
+		<pln>Oskar</pln>
+	</string>
+	<string id="sms_pogon_22">
+		<rus>Прометей</rus>
+		<eng>Prometheus</eng>
+		<ukr>Прометей</ukr>
+		<fra>Prométhée</fra>
+		<pln>Prometeusz</pln>
+	</string>
+	<string id="sms_pogon_23">
+		<rus>Вася-Тормоз</rus>
+		<eng>Vasya Slowpoke</eng>
+		<ukr>Вася-Тормоз</ukr>
+		<fra>Vasya-Brake</fra>
+		<pln>Wasia Hamulcowy</pln>
+	</string>
+	<string id="sms_pogon_24">
+		<rus>Герасим</rus>
+		<eng>Gerasim</eng>
+		<ukr>Герасим</ukr>
+		<fra>Gerasim</fra>
+		<pln>Gierasim</pln>
+	</string>
+	<string id="sms_pogon_25">
+		<rus>Труп Ходячий</rus>
+		<eng>Walking Dead</eng>
+		<ukr>Труп ходячий</ukr>
+		<fra>Corps ambulant</fra>
+		<pln>Zimny trup</pln>
+	</string>
+	<string id="sms_pogon_26">
+		<rus>Дуремар</rus>
+		<eng>Duremar</eng>
+		<ukr>Дуремар</ukr>
+		<fra>Duremar</fra>
+		<pln>Duremar</pln>
+	</string>
+	<string id="sms_pogon_27">
+		<rus>Горыныч</rus>
+		<eng>Gorynych</eng>
+		<ukr>Горинич</ukr>
+		<fra>Gorynytch</fra>
+		<pln>Gorynycz</pln>
+	</string>
+	<string id="sms_pogon_28">
+		<rus>Модератор-экстрасенс</rus>
+		<eng>Psychic Moderator</eng>
+		<ukr>Модератор-екстрасенс</ukr>
+		<fra>Psycho-modérateur</fra>
+		<pln>===Psychiczny Moderator</pln>
+	</string>
+	<string id="sms_pogon_29">
+		<rus>Воланд</rus>
+		<eng>Woland</eng>
+		<ukr>Воланд</ukr>
+		<fra>Woland</fra>
+		<pln>Woland</pln>
+	</string>
+	<string id="sms_pogon_30">
+		<rus>Карабас-Барабас</rus>
+		<eng>Karabas Barabas</eng>
+		<ukr>Карабас-Барабас</ukr>
+		<fra>Karabas-Barabas</fra>
+		<pln>Barabasz</pln>
+	</string>
+	<string id="sms_pogon_31">
+		<rus>Мальвина</rus>
+		<eng>Malvina</eng>
+		<ukr>Мальвіна</ukr>
+		<fra>Malvina</fra>
+		<pln>Malwina</pln>
+	</string>
+	<string id="sms_pogon_32">
+		<rus>Илья Муромец</rus>
+		<eng>Ilya Muromets</eng>
+		<ukr>Ілля Муромець</ukr>
+		<fra>Ilya Muromets</fra>
+		<pln>Ilia Muromiec</pln>
+	</string>
+	<string id="sms_pogon_33">
+		<rus>Артём</rus>
+		<eng>Artyom</eng>
+		<ukr>Артем</ukr>
+		<fra>Artyom</fra>
+		<pln>Artiom</pln>
+	</string>
+	<string id="sms_pogon_34">
+		<rus>Доктор Хаус</rus>
+		<eng>Dr. House</eng>
+		<ukr>Доктор Хаус</ukr>
+		<fra>Dr. House</fra>
+		<pln>Doktor House</pln>
+	</string>
+	<string id="sms_pogon_35">
+		<rus>Вервольф</rus>
+		<eng>Werewolf</eng>
+		<ukr>Вервольф</ukr>
+		<fra>Loup-garou</fra>
+		<pln>Werwolf</pln>
+	</string>
+	<string id="sms_pogon_36">
+		<rus>Рак-Горемыка</rus>
+		<eng>Unlucky Cancer</eng>
+		<ukr>Рак-неборак</ukr>
+		<fra>Cancer Malheureux</fra>
+		<pln>===Nieszczęsny Rak</pln>
+	</string>
+	<string id="sms_pogon_37">
+		<rus>Хореограф</rus>
+		<eng>Choreographer</eng>
+		<ukr>Хореограф</ukr>
+		<fra>Chorégraphe</fra>
+		<pln>Choreograf</pln>
+	</string>
+	<string id="sms_pogon_38">
+		<rus>Официант</rus>
+		<eng>Waiter</eng>
+		<ukr>Офіціант</ukr>
+		<fra>Serveur</fra>
+		<pln>Kelner</pln>
+	</string>
+	<string id="sms_pogon_39">
+		<rus>Винни-Пух</rus>
+		<eng>Winnie the Pooh</eng>
+		<ukr>Вінні-Пух</ukr>
+		<fra>Winnie l'Ourson</fra>
+		<pln>Kubus Puchatek</pln>
+	</string>
+	<string id="sms_pogon_40">
+		<rus>Кардан</rus>
+		<eng>Cardan</eng>
+		<ukr>Кардан</ukr>
+		<fra>Cardan</fra>
+		<pln>Kardan</pln>
+	</string>
+	<string id="sms_pogon_41">
+		<rus>Доктор-похметолог</rus>
+		<eng>Addictionologist</eng>
+		<ukr>Лікар-похметолог</ukr>
+		<fra>Docteur-chimiste</fra>
+		<pln>Psycholog</pln>
+	</string>
+	<string id="sms_pogon_42">
+		<rus>Арлекино</rus>
+		<eng>Harlequin</eng>
+		<ukr>Арлекіно</ukr>
+		<fra>Arlequin</fra>
+		<pln>Arlekino</pln>
+	</string>
+	<string id="sms_pogon_43">
+		<rus>Снегурочка</rus>
+		<eng>Snow Maiden</eng>
+		<ukr>Снігуронька</ukr>
+		<fra>Fille des neiges</fra>
+		<pln>Śnieżynka</pln>
+	</string>
+	<string id="sms_pogon_44">
+		<rus>Кощей Бессмертный</rus>
+		<eng>Koshchei the Immortal</eng>
+		<ukr>Чахлик Невмирущий</ukr>
+		<fra>Kochtcheï l'Immortel</fra>
+		<pln>Kościej Nieśmiertelny</pln>
+	</string>
+	<string id="sms_pogon_45">
+		<rus>Фантомас</rus>
+		<eng>Fantomas</eng>
+		<ukr>Фантомас</ukr>
+		<fra>Fantômas</fra>
+		<pln>Fantomas</pln>
+	</string>
+	<string id="sms_pogon_46">
+		<rus>Змеелов</rus>
+		<eng>Snake Catcher</eng>
+		<ukr>Змієлов</ukr>
+		<fra>Chasseur de Serpents</fra>
+		<pln>Żmijew</pln>
+	</string>
+	<string id="sms_pogon_47">
+		<rus>Фома Неверующий</rus>
+		<eng>Doubting Thomas</eng>
+		<ukr>Фома Невірячий</ukr>
+		<fra>Thomas l'Incrédule</fra>
+		<pln>Foma Niewierzący</pln>
+	</string>
+	<string id="sms_pogon_48">
+		<rus>Конь Педальный</rus>
+		<eng>Pedal Horse</eng>
+		<ukr>Кінь Педальний</ukr>
+		<fra>Cheval à Pédale</fra>
+		<pln>Konik na Biegunach</pln>
+	</string>
+	<string id="sms_pogon_49">
+		<rus>Муха-Цокотуха</rus>
+		<eng>Fly Tsokotukha</eng>
+		<ukr>Муха-Цокотуха</ukr>
+		<fra>Mouche-Tsikatouche</fra>
+		<pln>Mucha pleciucha</pln>
+	</string>
+	<string id="sms_pogon_50">
+		<rus>Чихуахуа</rus>
+		<eng>Chihuahua</eng>
+		<ukr>Чихуахуа</ukr>
+		<fra>Chihuahua</fra>
+		<pln>Chihuahua</pln>
+	</string>
+	<string id="sms_pogon_51">
+		<rus>Электрик</rus>
+		<eng>Electrician</eng>
+		<ukr>Електрик</ukr>
+		<fra>Électricien</fra>
+		<pln>Elektryk</pln>
+	</string>
+	<string id="sms_pogon_52">
+		<rus>Пустобрёх</rus>
+		<eng>Windbag</eng>
+		<ukr>Голобріх</ukr>
+		<fra>Gueulard</fra>
+		<pln>Pasibrzuch</pln>
+	</string>
+	<string id="sms_pogon_53">
+		<rus>Доктор Лектер</rus>
+		<eng>Dr. Lecter</eng>
+		<ukr>Доктор Лектер</ukr>
+		<fra>Dr. Lecter</fra>
+		<pln>Doktor Lecter</pln>
+	</string>
+	<string id="sms_pogon_54">
+		<rus>Художник</rus>
+		<eng>Painter</eng>
+		<ukr>Художник</ukr>
+		<fra>Peintre</fra>
+		<pln>Artysta</pln>
+	</string>
+	<string id="sms_pogon_55">
+		<rus>Трубадур</rus>
+		<eng>Troubadour</eng>
+		<ukr>Трубадур</ukr>
+		<fra>Troubadour</fra>
+		<pln>Trubadur</pln>
+	</string>
+	<string id="sms_pogon_56">
+		<rus>Футболист</rus>
+		<eng>Football Player</eng>
+		<ukr>Футболіст</ukr>
+		<fra>Footballeur</fra>
+		<pln>Piłkarz</pln>
+	</string>
+	<string id="sms_pogon_57">
+		<rus>Снайпер</rus>
+		<eng>Sniper</eng>
+		<ukr>Снайпер</ukr>
+		<fra>Sniper</fra>
+		<pln>Snajper</pln>
+	</string>
+	<string id="sms_pogon_58">
+		<rus>Алхимик</rus>
+		<eng>Alchemist</eng>
+		<ukr>Алхімік</ukr>
+		<fra>Alchimiste</fra>
+		<pln>Alchemik</pln>
+	</string>
+	<string id="sms_pogon_59">
+		<rus>Счетовод</rus>
+		<eng>Accountant</eng>
+		<ukr>Рахівник</ukr>
+		<fra>Comptable</fra>
+		<pln>Księgowy</pln>
+	</string>
+	<string id="sms_pogon_60">
+		<rus>Танкист</rus>
+		<eng>Tankman</eng>
+		<ukr>Танкіст</ukr>
+		<fra>Tankiste</fra>
+		<pln>Czołgista</pln>
+	</string>
+	<string id="sms_pogon_61">
+		<rus>Танцор</rus>
+		<eng>Dancer</eng>
+		<ukr>Танцівник</ukr>
+		<fra>Danseur</fra>
+		<pln>Tancerz</pln>
+	</string>
+	<string id="sms_pogon_62">
+		<rus>Макс Край</rus>
+		<eng>Max the Edge</eng>
+		<ukr>Макс Край</ukr>
+		<fra>Max le Bord</fra>
+		<pln>Maks Kraj</pln>
+	</string>
+	<string id="sms_pogon_63">
+		<rus>Султан</rus>
+		<eng>Sultan</eng>
+		<ukr>Султан</ukr>
+		<fra>Sultan</fra>
+		<pln>Sułtan</pln>
+	</string>
+	<string id="sms_pogon_64">
+		<rus>Крокодиллер</rus>
+		<eng>Crocodiller</eng>
+		<ukr>Крокодиллер</ukr>
+		<fra>Crocodealer</fra>
+		<pln>===Krokodyl</pln>
+	</string>
+	<string id="sms_pogon_65">
+		<rus>Спортсмен</rus>
+		<eng>Sportsman</eng>
+		<ukr>Спортсмен</ukr>
+		<fra>Athlète</fra>
+		<pln>Sportowiec</pln>
+	</string>
+	<string id="sms_pogon_66">
+		<rus>Странник</rus>
+		<eng>Wanderer</eng>
+		<ukr>Мандрівник</ukr>
+		<fra>Ambulant</fra>
+		<pln>Wędrowiec</pln>
+	</string>
+	<string id="sms_pogon_67">
+		<rus>Пчеловод</rus>
+		<eng>Beekeeper</eng>
+		<ukr>Пасічник</ukr>
+		<fra>Apiculteur</fra>
+		<pln>Pszczelarz</pln>
+	</string>
+	<string id="sms_pogon_68">
+		<rus>Почтальон</rus>
+		<eng>Postman</eng>
+		<ukr>Листоноша</ukr>
+		<fra>Facteur</fra>
+		<pln>Listonosz</pln>
+	</string>
+	<string id="sms_pogon_69">
+		<rus>Пироман</rus>
+		<eng>Pyromaniac</eng>
+		<ukr>Піроман</ukr>
+		<fra>Pyroman</fra>
+		<pln>Piroman</pln>
+	</string>
+	<string id="sms_pogon_70">
+		<rus>Флибустьер</rus>
+		<eng>Filibuster</eng>
+		<ukr>Флібустьєр</ukr>
+		<fra>Flibustier</fra>
+		<pln>Filibuster</pln>
+	</string>
+	<string id="sms_pogon_71">
+		<rus>Падишах</rus>
+		<eng>Padishah</eng>
+		<ukr>Падишах</ukr>
+		<fra>Padichah</fra>
+		<pln>Padyszach</pln>
+	</string>
+	<string id="sms_pogon_72">
+		<rus>Неформал</rus>
+		<eng>Informal</eng>
+		<ukr>Неформал</ukr>
+		<fra>Teufeur</fra>
+		<pln>Nieformalny</pln>
+	</string>
+	<string id="sms_pogon_73">
+		<rus>Оружейник</rus>
+		<eng>Armourer</eng>
+		<ukr>Зброяр</ukr>
+		<fra>Armurier</fra>
+		<pln>Zbrojmistrz</pln>
+	</string>
+	<string id="sms_pogon_74">
+		<rus>Санта Клаус</rus>
+		<eng>Santa Claus</eng>
+		<ukr>Санта Клаус</ukr>
+		<fra>Père Noël</fra>
+		<pln>Święty Mikołaj</pln>
+	</string>
+	<string id="sms_pogon_75">
+		<rus>Молочник</rus>
+		<eng>Milkman</eng>
+		<ukr>Молочник</ukr>
+		<fra>Laitier </fra>
+		<pln>Mleczarz</pln>
+	</string>
+	<string id="sms_pogon_76">
+		<rus>Альфонс</rus>
+		<eng>Gigolo</eng>
+		<ukr>Альфонс</ukr>
+		<fra>Gigolo</fra>
+		<pln>Alfons</pln>
+	</string>
+	<string id="sms_pogon_77">
+		<rus>Крестоносец</rus>
+		<eng>Crusader</eng>
+		<ukr>Хрестоносець</ukr>
+		<fra>Croisé</fra>
+		<pln>Krzyżowiec</pln>
+	</string>
+	<string id="sms_pogon_78">
+		<rus>Мармуляда</rus>
+		<eng>Marmalade</eng>
+		<ukr>Мармуляда</ukr>
+		<fra>Marmelade</fra>
+		<pln>Marmolada</pln>
+	</string>
+	<string id="sms_pogon_79">
+		<rus>Тёмный</rus>
+		<eng>Dark</eng>
+		<ukr>Темний</ukr>
+		<fra>Sombre</fra>
+		<pln>Ciemny</pln>
+	</string>
+	<string id="sms_pogon_80">
+		<rus>Старый Пень</rus>
+		<eng>Old Stump</eng>
+		<ukr>Старий Пень</ukr>
+		<fra>Vieille Barbe</fra>
+		<pln>Stary pień</pln>
+	</string>
+	<string id="sms_pogon_81">
+		<rus>Курильщик</rus>
+		<eng>Smoker</eng>
+		<ukr>Курильщик</ukr>
+		<fra>Fumeur</fra>
+		<pln>Palacz</pln>
+	</string>
+	<string id="sms_pogon_82">
+		<rus>Егорка</rus>
+		<eng>Egorka</eng>
+		<ukr>Єгорка</ukr>
+		<fra>Egorka</fra>
+		<pln>Jegorka</pln>
+	</string>
+	<string id="sms_pogon_83">
+		<rus>Сексопатолог</rus>
+		<eng>Sexpert</eng>
+		<ukr>Сексопатолог</ukr>
+		<fra>Sexothérapeute</fra>
+		<pln>Seksopatolog</pln>
+	</string>
+	<string id="sms_pogon_84">
+		<rus>Трын-трава</rus>
+		<eng>Weed</eng>
+		<ukr>Трин-трава</ukr>
+		<fra>Herbe</fra>
+		<pln>Trawka</pln>
+	</string>
+	<string id="sms_pogon_85">
+		<rus>Вертухай</rus>
+		<eng>Turnkey</eng>
+		<ukr>Вертухай</ukr>
+		<fra>Maton</fra>
+		<pln>Strażnik</pln>
+	</string>
+	<string id="sms_pogon_86">
+		<rus>Дипломат</rus>
+		<eng>Diplomat</eng>
+		<ukr>Дипломат</ukr>
+		<fra>Diplomate</fra>
+		<pln>Dyplomata</pln>
+	</string>
+	<string id="sms_pogon_87">
+		<rus>Дезертир</rus>
+		<eng>Deserter</eng>
+		<ukr>Дезертир</ukr>
+		<fra>Déserteur</fra>
+		<pln>Dezerter</pln>
+	</string>
+	<string id="sms_pogon_88">
+		<rus>Портье</rus>
+		<eng>Porter</eng>
+		<ukr>Портьє</ukr>
+		<fra>Portier</fra>
+		<pln>Portier</pln>
+	</string>
+	<string id="sms_pogon_89">
+		<rus>Гость</rus>
+		<eng>Guest</eng>
+		<ukr>Гість</ukr>
+		<fra>Visiteur</fra>
+		<pln>Gość</pln>
+	</string>
+	<string id="sms_pogon_90">
+		<rus>Батяр</rus>
+		<eng>Batyar</eng>
+		<ukr>Батяр</ukr>
+		<fra>Batyar</fra>
+		<pln>Batiar</pln>
+	</string>
+	<string id="sms_pogon_91">
+		<rus>Шоферюга</rus>
+		<eng>Chauffeur</eng>
+		<ukr>Шоферюга</ukr>
+		<fra>Chauffeur </fra>
+		<pln>Szoferak</pln>
+	</string>
+	<string id="sms_pogon_92">
+		<rus>Ведьмак</rus>
+		<eng>The Witcher</eng>
+		<ukr>Відьмак</ukr>
+		<fra>Le Sorceleur</fra>
+		<pln>Wiedźmak</pln>
+	</string>
+	<string id="sms_pogon_93">
+		<rus>Вандал</rus>
+		<eng>Vandal</eng>
+		<ukr>Вандал</ukr>
+		<fra>Vandale</fra>
+		<pln>Wandał</pln>
+	</string>
+	<string id="sms_pogon_94">
+		<rus>Варвар</rus>
+		<eng>Barbarian</eng>
+		<ukr>Варвар</ukr>
+		<fra>Barbare</fra>
+		<pln>Barbar</pln>
+	</string>
+	<string id="sms_pogon_95">
+		<rus>Буржуа</rus>
+		<eng>Bourgeois</eng>
+		<ukr>Буржуа</ukr>
+		<fra>Bourgeois</fra>
+		<pln>Burżuj</pln>
+	</string>
+	<string id="sms_pogon_96">
+		<rus>Рональдо</rus>
+		<eng>Ronaldo</eng>
+		<ukr>Рональдо</ukr>
+		<fra>Ronaldo</fra>
+		<pln>Ronaldo</pln>
+	</string>
+	<string id="sms_pogon_97">
+		<rus>Ветеринар</rus>
+		<eng>Veterinarian</eng>
+		<ukr>Ветеринар</ukr>
+		<fra>Vétérinaire</fra>
+		<pln>Weterynarz</pln>
+	</string>
+	<string id="sms_pogon_98">
+		<rus>Бабай</rus>
+		<eng>Babay</eng>
+		<ukr>Бабай</ukr>
+		<fra>Babai</fra>
+		<pln>Bobok</pln>
+	</string>
+	<string id="sms_pogon_99">
+		<rus>Герман</rus>
+		<eng>Herman</eng>
+		<ukr>Герман</ukr>
+		<fra>Herman</fra>
+		<pln>German</pln>
+	</string>
+	<string id="sms_pogon_100">
+		<rus>Дед Мороз</rus>
+		<eng>Father Christmas</eng>
+		<ukr>Дід Мороз</ukr>
+		<fra>Père Noël</fra>
+		<pln>Dziadek Mróz</pln>
+	</string>
+	<string id="sms_pogon_101">
+		<rus>Скаут</rus>
+		<eng>Scout</eng>
+		<ukr>Скаут</ukr>
+		<fra>Scout</fra>
+		<pln>Skaut</pln>
+	</string>
+	<string id="sms_pogon_102">
+		<rus>Старый</rus>
+		<eng>Elder</eng>
+		<ukr>Старий</ukr>
+		<fra>Vieux</fra>
+		<pln>Stary</pln>
+	</string>
+	<string id="sms_pogon_103">
+		<rus>Емеля</rus>
+		<eng>Emelya</eng>
+		<ukr>Ємєля</ukr>
+		<fra>Emelya</fra>
+		<pln>Amelia</pln>
+	</string>
+	<string id="sms_pogon_104">
+		<rus>Воин Ночи</rus>
+		<eng>Warrior of the Night</eng>
+		<ukr>Воїн Ночі</ukr>
+		<fra>Guerrier de la Nuit</fra>
+		<pln>Nocny Wojownik</pln>
+	</string>
+	<string id="sms_pogon_105">
+		<rus>Лях</rus>
+		<eng>Pole</eng>
+		<ukr>Лях</ukr>
+		<fra>Polak</fra>
+		<pln>Lech</pln>
+	</string>
+	<string id="sms_pogon_106">
+		<rus>Ариэль</rus>
+		<eng>Ariel</eng>
+		<ukr>Аріель</ukr>
+		<fra>Ariel</fra>
+		<pln>Ariel</pln>
+	</string>
+	<string id="sms_pogon_107">
+		<rus>Сосо</rus>
+		<eng>Soso</eng>
+		<ukr>Сосо</ukr>
+		<fra>Soso</fra>
+		<pln>Soso</pln>
+	</string>
+	<string id="sms_pogon_108">
+		<rus>Староста</rus>
+		<eng>Warden</eng>
+		<ukr>Староста</ukr>
+		<fra>Gardien</fra>
+		<pln>Starosta</pln>
+	</string>
+	<string id="sms_pogon_109">
+		<rus>Левко Дурко</rus>
+		<eng>Levko Durko</eng>
+		<ukr>Левко Дурко</ukr>
+		<fra>Levko Dourko</fra>
+		<pln>Lewko Durko</pln>
+	</string>
+	<string id="sms_pogon_110">
+		<rus>Дзидзьо</rus>
+		<eng>Dzidzio</eng>
+		<ukr>Дзідзьо</ukr>
+		<fra>Dzidzio</fra>
+		<pln>Dzidzio</pln>
+	</string>
+	<string id="sms_pogon_111">
+		<rus>Махно</rus>
+		<eng>Makhno</eng>
+		<ukr>Махно</ukr>
+		<fra>Makhno</fra>
+		<pln>Machno</pln>
+	</string>
+	<string id="sms_pogon_112">
+		<rus>Несси</rus>
+		<eng>Nessie</eng>
+		<ukr>Нессі</ukr>
+		<fra>Nessie</fra>
+		<pln>Nessie</pln>
+	</string>
+	<string id="sms_pogon_113">
+		<rus>Алекс Фримен</rus>
+		<eng>Alex Freeman</eng>
+		<ukr>Алекс Фрімен</ukr>
+		<fra>Alex Freeman</fra>
+		<pln>Aleks Freeman</pln>
+	</string>
+	<string id="sms_pogon_114">
+		<rus>Аква</rus>
+		<eng>Aqua</eng>
+		<ukr>Аква</ukr>
+		<fra>Aqua</fra>
+		<pln>Akwa</pln>
+	</string>
+	<string id="sms_pogon_115">
+		<rus>Феникс</rus>
+		<eng>Phoenix</eng>
+		<ukr>Фенікс</ukr>
+		<fra>Phénix</fra>
+		<pln>Feniks</pln>
+	</string>
+	<string id="sms_pogon_116">
+		<rus>Уотсон</rus>
+		<eng>Watson</eng>
+		<ukr>Уотсон</ukr>
+		<fra>Watson</fra>
+		<pln>Watson</pln>
+	</string>
+	<string id="sms_pogon_117">
+		<rus>Фреон</rus>
+		<eng>Freon</eng>
+		<ukr>Фреон</ukr>
+		<fra>Fréon</fra>
+		<pln>Freon</pln>
+	</string>
+	<string id="sms_pogon_118">
+		<rus>Дрой</rus>
+		<eng>Droy</eng>
+		<ukr>Дрой</ukr>
+		<fra>Droy</fra>
+		<pln>Droy</pln>
+	</string>
+	<string id="sms_pogon_119">
+		<rus>Мунлайт</rus>
+		<eng>Moonlight</eng>
+		<ukr>Мунлайт</ukr>
+		<fra>Moonlight</fra>
+		<pln>Moonlight</pln>
+	</string>
+	<string id="sms_pogon_120">
+		<rus>Цыган</rus>
+		<eng>Gypsy</eng>
+		<ukr>Циган</ukr>
+		<fra>Gitan</fra>
+		<pln>Cygan</pln>
+	</string>
+	<string id="sms_pogon_121">
+		<rus>Лабус</rus>
+		<eng>Labus</eng>
+		<ukr>Лабус</ukr>
+		<fra>Labus</fra>
+		<pln>Labus</pln>
+	</string>
+	<string id="sms_pogon_122">
+		<rus>Комбат</rus>
+		<eng>Kombat</eng>
+		<ukr>Комбат</ukr>
+		<fra>Combat</fra>
+		<pln>Kombat</pln>
+	</string>
+	<string id="sms_pogon_123">
+		<rus>Технарь</rus>
+		<eng>Techie</eng>
+		<ukr>Технар</ukr>
+		<fra>Tech</fra>
+		<pln>Technik</pln>
+	</string>
+	<string id="sms_pogon_124">
+		<rus>Орех</rus>
+		<eng>Nut</eng>
+		<ukr>Горіх</ukr>
+		<fra>Noyer</fra>
+		<pln>Orzech</pln>
+	</string>
+	<string id="sms_pogon_125">
+		<rus>Лунь</rus>
+		<eng>Harrier</eng>
+		<ukr>Лунь</ukr>
+		<fra>Busard</fra>
+		<pln>Lun</pln>
+	</string>
+	<string id="sms_pogon_126">
+		<rus>Донахью</rus>
+		<eng>Donahue</eng>
+		<ukr>Донахью</ukr>
+		<fra>Donahue</fra>
+		<pln>Donahue</pln>
+	</string>
+	<string id="sms_pogon_127">
+		<rus>Картридж</rus>
+		<eng>Cartridge</eng>
+		<ukr>Картридж</ukr>
+		<fra>Cartouche</fra>
+		<pln>Kaldridż</pln>
+	</string>
+	<string id="sms_pogon_128">
+		<rus>Борода</rus>
+		<eng>Beard</eng>
+		<ukr>Борода</ukr>
+		<fra>Barbe</fra>
+		<pln>Broda</pln>
+	</string>
+	<string id="sms_pogon_129">
+		<rus>Пчела</rus>
+		<eng>Bee</eng>
+		<ukr>Пчола</ukr>
+		<fra>Abeille</fra>
+		<pln>Pszczoła</pln>
+	</string>
+	<string id="sms_pogon_130">
+		<rus>Вольфсталкер</rus>
+		<eng>Wolfstalker</eng>
+		<ukr>Вольфсталкер</ukr>
+		<fra>Wolfstalker</fra>
+		<pln>Wolfstalker</pln>
+	</string>
+	<string id="sms_pogon_131">
+		<rus>Хемуль</rus>
+		<eng>Hemul</eng>
+		<ukr>Хемуль</ukr>
+		<fra>Hemul</fra>
+		<pln>Hemul</pln>
+	</string>
+	<string id="sms_pogon_132">
+		<rus>Мао</rus>
+		<eng>Mao</eng>
+		<ukr>Мао</ukr>
+		<fra>Mao</fra>
+		<pln>Mao</pln>
+	</string>
+	<string id="sms_pogon_133">
+		<rus>Кинг Конг</rus>
+		<eng>King Kong</eng>
+		<ukr>Кінг Конг</ukr>
+		<fra>King Kong</fra>
+		<pln>King Kong</pln>
+	</string>
+	<string id="sms_pogon_134">
+		<rus>Шурик</rus>
+		<eng>Shurik</eng>
+		<ukr>Шурик</ukr>
+		<fra>Chourik</fra>
+		<pln>Szurik</pln>
+	</string>
+	<string id="sms_pogon_135">
+		<rus>Гусар</rus>
+		<eng>Hussar</eng>
+		<ukr>Гусар</ukr>
+		<fra>Hussard</fra>
+		<pln>Huzar</pln>
+	</string>
+	<string id="sms_pogon_136">
+		<rus>Велес</rus>
+		<eng>Veles</eng>
+		<ukr>Велес</ukr>
+		<fra>Vélès</fra>
+		<pln>Weles</pln>
+	</string>
+	<string id="sms_pogon_137">
+		<rus>Сальцесон</rus>
+		<eng>Salceson</eng>
+		<ukr>Сальцесон</ukr>
+		<fra>Salceson</fra>
+		<pln>Salceson</pln>
+	</string>
+	<string id="sms_pogon_138">
+		<rus>Шопенгауер</rus>
+		<eng>Schopenhauer</eng>
+		<ukr>Шопенгауер</ukr>
+		<fra>Schopenhauer</fra>
+		<pln>Schopenhauer</pln>
+	</string>
+	<string id="sms_pogon_139">
+		<rus>Шопен</rus>
+		<eng>Chopin</eng>
+		<ukr>Шопен</ukr>
+		<fra>Chopin</fra>
+		<pln>Chopin</pln>
+	</string>
+	<string id="sms_pogon_140">
+		<rus>Похмелятор</rus>
+		<eng>The Hangover</eng>
+		<ukr>Похмелятор</ukr>
+		<fra>Pohmeator</fra>
+		<pln>Chmielarz</pln>
+	</string>
+	<string id="sms_pogon_141">
+		<rus>Колхозник</rus>
+		<eng>Collective Farmer</eng>
+		<ukr>Колгоспник</ukr>
+		<fra>Kolkhozien</fra>
+		<pln>Kołchoźnik</pln>
+	</string>
+	<string id="sms_pogon_142">
+		<rus>Трахторист</rus>
+		<eng>Tractor Driver</eng>
+		<ukr>Трахторист</ukr>
+		<fra>Tractoriste</fra>
+		<pln>Traktorzysta</pln>
+	</string>
+	<string id="sms_pogon_143">
+		<rus>Котовод</rus>
+		<eng>Cat breeder</eng>
+		<ukr>Котовод</ukr>
+		<fra>Éleveur de chats</fra>
+		<pln>Kotowód</pln>
+	</string>
+	<string id="sms_pogon_144">
+		<rus>Санчо</rus>
+		<eng>Sancho</eng>
+		<ukr>Санчо</ukr>
+		<fra>Sancho</fra>
+		<pln>Sanczo</pln>
+	</string>
+	<string id="sms_pogon_145">
+		<rus>Масажист</rus>
+		<eng>Masseur</eng>
+		<ukr>Масажист</ukr>
+		<fra>Masseur</fra>
+		<pln>Masażysta</pln>
+	</string>
+	<string id="sms_pogon_146">
+		<rus>Гомеопат</rus>
+		<eng>Homeopath</eng>
+		<ukr>Гомеопат</ukr>
+		<fra>Homéopathe</fra>
+		<pln>Homeopata</pln>
+	</string>
+	<string id="sms_pogon_147">
+		<rus>Тёща</rus>
+		<eng>Mother-in-Law</eng>
+		<ukr>Теща</ukr>
+		<fra>Belle-Mère</fra>
+		<pln>Teściowa</pln>
+	</string>
+	<string id="sms_pogon_148">
+		<rus>Холостяк</rus>
+		<eng>Celibate</eng>
+		<ukr>Холостяк</ukr>
+		<fra>Célibataire</fra>
+		<pln>Kawaler</pln>
+	</string>
+	<string id="sms_pogon_149">
+		<rus>Большой</rus>
+		<eng>Big</eng>
+		<ukr>Великий</ukr>
+		<fra>Grand</fra>
+		<pln>Wielki</pln>
+	</string>
+	<string id="sms_pogon_150">
+		<rus>Юра Босс</rus>
+		<eng>Jura Boss</eng>
+		<ukr>Юра Бос</ukr>
+		<fra>Yura Boss</fra>
+		<pln>Jura Boss</pln>
+	</string>
+	<string id="sms_pogon_151">
+		<rus>Нежданофф</rus>
+		<eng>Nezhdanoff</eng>
+		<ukr>Нєжданофф</ukr>
+		<fra>Nezhdanoff</fra>
+		<pln>Nierzdanoff</pln>
+	</string>
+	<string id="sms_pogon_152">
+		<rus>Клинкер</rus>
+		<eng>Clinker</eng>
+		<ukr>Клінкер</ukr>
+		<fra>Clinker</fra>
+		<pln>Klinkier</pln>
+	</string>
+	<string id="sms_pogon_153">
+		<rus>Макларен</rus>
+		<eng>McLaren</eng>
+		<ukr>Макларен</ukr>
+		<fra>MacLaren</fra>
+		<pln>McLaren</pln>
+	</string>
+	<string id="sms_pogon_154">
+		<rus>Юлиус</rus>
+		<eng>Julius</eng>
+		<ukr>Юлиус</ukr>
+		<fra>Julius</fra>
+		<pln>Juliusz</pln>
+	</string>
+	<string id="sms_pogon_155">
+		<rus>Кларк</rus>
+		<eng>Clark</eng>
+		<ukr>Кларк</ukr>
+		<fra>Clark</fra>
+		<pln>Clark</pln>
+	</string>
+	<string id="sms_pogon_156">
+		<rus>Солдафон</rus>
+		<eng>Martinet</eng>
+		<ukr>Солдафон</ukr>
+		<fra>Reître</fra>
+		<pln>Soldafon</pln>
+	</string>
+	<string id="sms_pogon_157">
+		<rus>Монах</rus>
+		<eng>Monk</eng>
+		<ukr>Монах</ukr>
+		<fra>Moine</fra>
+		<pln>Mnich</pln>
+	</string>
+	<string id="sms_pogon_158">
+		<rus>Ходжа Насреддин</rus>
+		<eng>Khoja Nasreddin</eng>
+		<ukr>Ходжа Насреддін</ukr>
+		<fra>Hodja Nasreddin</fra>
+		<pln>Hodża Nasreddin</pln>
+	</string>
+	<string id="sms_pogon_159">
+		<rus>Нафаня</rus>
+		<eng>Nafanya</eng>
+		<ukr>Нафаня</ukr>
+		<fra>Nafania</fra>
+		<pln>Nafania</pln>
+	</string>
+	<string id="sms_pogon_160">
+		<rus>Джованни</rus>
+		<eng>Giovanni</eng>
+		<ukr>Джованні</ukr>
+		<fra>Giovanni</fra>
+		<pln>Giovanni</pln>
+	</string>
+	<string id="sms_pogon_161">
+		<rus>Остап</rus>
+		<eng>Ostap</eng>
+		<ukr>Остап</ukr>
+		<fra>Ostap</fra>
+		<pln>Ostap</pln>
+	</string>
+	<string id="sms_pogon_162">
+		<rus>Подпольщик Кондрат</rus>
+		<eng>Kondrat the Undergrounder</eng>
+		<ukr>Підпільник Кіндрат</ukr>
+		<fra>Kondrat le Clandestin</fra>
+		<pln>Konspirator Kondrat</pln>
+	</string>
+	<string id="sms_pogon_163">
+		<rus>Хорив</rus>
+		<eng>Khoryv</eng>
+		<ukr>Хорив</ukr>
+		<fra>Khoryv</fra>
+		<pln>Choryw</pln>
+	</string>
+	<string id="sms_pogon_164">
+		<rus>Лейла</rus>
+		<eng>Leila</eng>
+		<ukr>Лейла</ukr>
+		<fra>Leila</fra>
+		<pln>Leila</pln>
+	</string>
+	<string id="sms_pogon_165">
+		<rus>Капонир</rus>
+		<eng>Caponier</eng>
+		<ukr>Капонір</ukr>
+		<fra>Сaponnière</fra>
+		<pln>Kaponiera</pln>
+	</string>
+	<string id="sms_pogon_166">
+		<rus>Авраам</rus>
+		<eng>Abraham</eng>
+		<ukr>Авраам</ukr>
+		<fra>Abraham</fra>
+		<pln>Abram</pln>
+	</string>
+	<string id="sms_pogon_167">
+		<rus>Зураб</rus>
+		<eng>Zurab</eng>
+		<ukr>Зураб</ukr>
+		<fra>Zourab</fra>
+		<pln>Zurab</pln>
+	</string>
+	<string id="sms_pogon_168">
+		<rus>Тамада</rus>
+		<eng>Toastmaster</eng>
+		<ukr>Тамада</ukr>
+		<fra>Tamada</fra>
+		<pln>Tamada</pln>
+	</string>
+	<string id="sms_pogon_169">
+		<rus>Вакула</rus>
+		<eng>Vakula</eng>
+		<ukr>Вакула</ukr>
+		<fra>Vakoula</fra>
+		<pln>Bakula</pln>
+	</string>
+	<string id="sms_pogon_170">
+		<rus>Властелин Колец</rus>
+		<eng>Lord of the Rings</eng>
+		<ukr>Володар Кілець</ukr>
+		<fra>Le Seigneur des Anneaux</fra>
+		<pln>Władca pierścieni</pln>
+	</string>
+	<string id="sms_pogon_171">
+		<rus>Серво</rus>
+		<eng>Servo</eng>
+		<ukr>Серво</ukr>
+		<fra>Servo</fra>
+		<pln>Serwo</pln>
+	</string>
+	<string id="sms_pogon_172">
+		<rus>Роберт</rus>
+		<eng>Robert</eng>
+		<ukr>Роберт</ukr>
+		<fra>Robert</fra>
+		<pln>Robert</pln>
+	</string>
+	<string id="sms_pogon_173">
+		<rus>Полковник Бибик</rus>
+		<eng>Colonel Bibik</eng>
+		<ukr>Полковник Бібік</ukr>
+		<fra>Colonel Bibik</fra>
+		<pln>Pułkownik Bibik</pln>
+	</string>
+	<string id="sms_pogon_174">
+		<rus>Злой Бука</rus>
+		<eng>Evil Bogeyman</eng>
+		<ukr>Злий Бука</ukr>
+		<fra>Croquemitaine</fra>
+		<pln>Zły Buka</pln>
+	</string>
+	<string id="sms_pogon_175">
+		<rus>Снейк</rus>
+		<eng>Snake</eng>
+		<ukr>Снейк</ukr>
+		<fra>Snake</fra>
+		<pln>Snake</pln>
+	</string>
+	<string id="sms_pogon_176">
+		<rus>ГОСТ</rus>
+		<eng>GOST</eng>
+		<ukr>ГОСТ</ukr>
+		<fra>Invité</fra>
+		<pln>GOST</pln>
+	</string>
+	<string id="sms_pogon_177">
+		<rus>Хе-Хе</rus>
+		<eng>Ha-Ha</eng>
+		<ukr>Хе-Хе</ukr>
+		<fra>Ha-Ha</fra>
+		<pln>He-He</pln>
+	</string>
+	<string id="sms_pogon_178">
+		<rus>Маркер</rus>
+		<eng>Marker</eng>
+		<ukr>Маркер</ukr>
+		<fra>Marqueur</fra>
+		<pln>Marker</pln>
+	</string>
+	<string id="sms_pogon_179">
+		<rus>Патогеныч</rus>
+		<eng>Pathogenych</eng>
+		<ukr>Патогенич</ukr>
+		<fra>Pathogènych</fra>
+		<pln>Patogenycz</pln>
+	</string>
+	<string id="sms_pogon_180">
+		<rus>Кальтер</rus>
+		<eng>Calter</eng>
+		<ukr>Кальтер</ukr>
+		<fra>Calter</fra>
+		<pln>Kalter</pln>
+	</string>
+	<string id="sms_pogon_181">
+		<rus>Джагер</rus>
+		<eng>Jager</eng>
+		<ukr>Джагер</ukr>
+		<fra>Jager</fra>
+		<pln>Jager</pln>
+	</string>
+	<string id="sms_pogon_182">
+		<rus>Марк</rus>
+		<eng>Mark</eng>
+		<ukr>Марк</ukr>
+		<fra>Mark</fra>
+		<pln>Mark</pln>
+	</string>
+	<string id="sms_pogon_183">
+		<rus>Курортник</rus>
+		<eng>Vacationer</eng>
+		<ukr>Курортник</ukr>
+		<fra>Vacancier</fra>
+		<pln>Wczasowicz</pln>
+	</string>
+	<string id="sms_pogon_184">
+		<rus>Эльф</rus>
+		<eng>Elf</eng>
+		<ukr>Ельф</ukr>
+		<fra>Elfe</fra>
+		<pln>Elf</pln>
+	</string>
+	<string id="sms_pogon_185">
+		<rus>Бергамот</rus>
+		<eng>Bergamot</eng>
+		<ukr>Бергамот</ukr>
+		<fra>Bergamote</fra>
+		<pln>Bergamot</pln>
+	</string>
+	<string id="sms_pogon_186">
+		<rus>Метла</rus>
+		<eng>Broom</eng>
+		<ukr>Мітла</ukr>
+		<fra>Balai</fra>
+		<pln>Miotła</pln>
+	</string>
+	<string id="sms_pogon_187">
+		<rus>Аспирин</rus>
+		<eng>Aspirin</eng>
+		<ukr>Аспірин</ukr>
+		<fra>Aspirine</fra>
+		<pln>Aspiryna</pln>
+	</string>
+	<string id="sms_pogon_188">
+		<rus>Ноообка</rus>
+		<eng>Nooobka</eng>
+		<ukr>Ноообка</ukr>
+		<fra>Noobka</fra>
+		<pln>Noobka</pln>
+	</string>
+	<string id="sms_pogon_189">
+		<rus>Саша Белый</rus>
+		<eng>Sasha the White</eng>
+		<ukr>Саша Бєлий</ukr>
+		<fra>Sacha le Blanc</fra>
+		<pln>Sasza Biały</pln>
+	</string>
+	<string id="sms_pogon_190">
+		<rus>Ричард</rus>
+		<eng>Richard</eng>
+		<ukr>Річард</ukr>
+		<fra>Richard</fra>
+		<pln>Richard</pln>
+	</string>
+	<string id="sms_pogon_191">
+		<rus>Гуппи</rus>
+		<eng>Guppy</eng>
+		<ukr>Гуппі</ukr>
+		<fra>Guppy</fra>
+		<pln>Gupik</pln>
+	</string>
+	<string id="sms_pogon_192">
+		<rus>Борланд</rus>
+		<eng>Borland</eng>
+		<ukr>Борланд</ukr>
+		<fra>Borland</fra>
+		<pln>Borland</pln>
+	</string>
+	<string id="sms_pogon_193">
+		<rus>Хватай-Муха</rus>
+		<eng>Grab-Fly</eng>
+		<ukr>Хватай-Муха</ukr>
+		<fra>Empoigne-la-Mouche</fra>
+		<pln>Muchołapka</pln>
+	</string>
+	<string id="sms_pogon_194">
+		<rus>Аяма</rus>
+		<eng>Ayama</eng>
+		<ukr>Аяма</ukr>
+		<fra>Ayama</fra>
+		<pln>Aama</pln>
+	</string>
+	<string id="sms_pogon_195">
+		<rus>Резидент</rus>
+		<eng>Resident</eng>
+		<ukr>Резидент</ukr>
+		<fra>Résident</fra>
+		<pln>Rezydent</pln>
+	</string>
+	<string id="sms_pogon_196">
+		<rus>Сальери</rus>
+		<eng>Salieri</eng>
+		<ukr>Сальєрі</ukr>
+		<fra>Salieri</fra>
+		<pln>Salieri</pln>
+	</string>
+	<string id="sms_pogon_197">
+		<rus>Похмелин</rus>
+		<eng>Hangover</eng>
+		<ukr>Похмелін</ukr>
+		<fra>Gueule de Bois</fra>
+		<pln>Pochmelin</pln>
+	</string>
+	<string id="sms_pogon_198">
+		<rus>Китаец</rus>
+		<eng>Chinese</eng>
+		<ukr>Китаєць</ukr>
+		<fra>Chinois</fra>
+		<pln>Kitajec</pln>
+	</string>
+	<string id="sms_pogon_199">
+		<rus>Якудза</rus>
+		<eng>Yakuza</eng>
+		<ukr>Якудза</ukr>
+		<fra>Yakuza</fra>
+		<pln>Yakuza</pln>
+	</string>
+	<string id="sms_pogon_200">
+		<rus>Дон Кихот</rus>
+		<eng>Don Quixote</eng>
+		<ukr>Дон Кіхот</ukr>
+		<fra>Don Quichotte</fra>
+		<pln>Don Kichot</pln>
+	</string>
+	<string id="sms_pogon_201">
+		<rus>Боевой Гном</rus>
+		<eng>Battle Gnome</eng>
+		<ukr>Бойовий Гном</ukr>
+		<fra>Gnome de Guerre</fra>
+		<pln>Bojowy Gnom</pln>
+	</string>
+	<string id="sms_pogon_202">
+		<rus>Магомед</rus>
+		<eng>Magomed</eng>
+		<ukr>Магомед</ukr>
+		<fra>Magomed</fra>
+		<pln>Magomed</pln>
+	</string>
+	<string id="sms_pogon_203">
+		<rus>Адмирал</rus>
+		<eng>Admiral</eng>
+		<ukr>Адмірал</ukr>
+		<fra>Amiral</fra>
+		<pln>Admirał</pln>
+	</string>
+	<string id="sms_pogon_204">
+		<rus>Роман</rus>
+		<eng>Roman</eng>
+		<ukr>Роман</ukr>
+		<fra>Roman</fra>
+		<pln>Roman</pln>
+	</string>
+	<string id="sms_pogon_205">
+		<rus>СМІТ</rus>
+		<eng>Smith</eng>
+		<ukr>СМІТ</ukr>
+		<fra>СМІТ</fra>
+		<pln>SMIT</pln>
+	</string>
+	<string id="sms_pogon_206">
+		<rus>Махмуд</rus>
+		<eng>Mahmud</eng>
+		<ukr>Махмуд</ukr>
+		<fra>Mahmoud</fra>
+		<pln>Mahmud</pln>
+	</string>
+	<string id="sms_pogon_207">
+		<rus>Малыш Каратист</rus>
+		<eng>Karate Kid</eng>
+		<ukr>Малюк Каратист</ukr>
+		<fra>Petit Karatéka</fra>
+		<pln>Mały Karateka</pln>
+	</string>
+	<string id="sms_pogon_208">
+		<rus>Клирик</rus>
+		<eng>Cleric</eng>
+		<ukr>Клерік</ukr>
+		<fra>Clerc</fra>
+		<pln>===Duchowny</pln>
+	</string>
+	<string id="sms_pogon_209">
+		<rus>Чукча</rus>
+		<eng>Chukchi</eng>
+		<ukr>Чукча</ukr>
+		<fra>Tchouktche</fra>
+		<pln>===Czukocki</pln>
+	</string>
+	<string id="sms_pogon_210">
+		<rus>Карамба</rus>
+		<eng>Caramba</eng>
+		<ukr>Карамба</ukr>
+		<fra>Karamba</fra>
+		<pln>Karamba</pln>
+	</string>
+	<string id="sms_pogon_211">
+		<rus>Джек Павлов</rus>
+		<eng>Jack Pavlov</eng>
+		<ukr>Джек Павлов</ukr>
+		<fra>Jack Pavlov</fra>
+		<pln>Jack Pawłow</pln>
+	</string>
+	<string id="sms_pogon_212">
+		<rus>Киборг</rus>
+		<eng>Cyborg</eng>
+		<ukr>Кіборг</ukr>
+		<fra>Cyborg</fra>
+		<pln>Cyborg</pln>
+	</string>
+	<string id="sms_pogon_213">
+		<rus>Эдвин</rus>
+		<eng>Edwin</eng>
+		<ukr>Едвін</ukr>
+		<fra>Edwin</fra>
+		<pln>Edwin</pln>
+	</string>
+	<string id="sms_pogon_214">
+		<rus>Мартын</rus>
+		<eng>Martyn</eng>
+		<ukr>Мартин</ukr>
+		<fra>Martyn</fra>
+		<pln>Martin</pln>
+	</string>
+	<string id="sms_pogon_215">
+		<rus>Гонта</rus>
+		<eng>Gonta</eng>
+		<ukr>Гонта</ukr>
+		<fra>Gonta</fra>
+		<pln>Gonta</pln>
+	</string>
+	<string id="sms_pogon_216">
+		<rus>Тарас Бульба</rus>
+		<eng>Taras Bulba</eng>
+		<ukr>Тарас Бульба</ukr>
+		<fra>Tarass Boulba</fra>
+		<pln>Taras Bulba</pln>
+	</string>
+	<string id="sms_pogon_217">
+		<rus>Дед Петро</rus>
+		<eng>Grandfather Petro</eng>
+		<ukr>Дід Петро</ukr>
+		<fra>Pépère Petro</fra>
+		<pln>Dziadek Petro</pln>
+	</string>
+	<string id="sms_pogon_218">
+		<rus>Лысый-Босый</rus>
+		<eng>Bald and Barefoot</eng>
+		<ukr>Лисий-Босий</ukr>
+		<fra>Chauve-et-Déchaussé</fra>
+		<pln>===Łysy</pln>
+	</string>
+	<string id="sms_pogon_219">
+		<rus>Щек</rus>
+		<eng>Schek</eng>
+		<ukr>Щек</ukr>
+		<fra>Chtchek</fra>
+		<pln>Szczek</pln>
+	</string>
+	<string id="sms_pogon_220">
+		<rus>Изя</rus>
+		<eng>Izya</eng>
+		<ukr>Ізя</ukr>
+		<fra>Izya</fra>
+		<pln>Iza</pln>
+	</string>
+	<string id="sms_pogon_221">
+		<rus>Гога</rus>
+		<eng>Goga</eng>
+		<ukr>Гога</ukr>
+		<fra>Goga</fra>
+		<pln>Goga</pln>
+	</string>
+	<string id="sms_pogon_222">
+		<rus>Адам</rus>
+		<eng>Adam</eng>
+		<ukr>Адам</ukr>
+		<fra>Adam</fra>
+		<pln>Adam</pln>
+	</string>
+	<string id="sms_pogon_223">
+		<rus>Хьюг</rus>
+		<eng>Hughes</eng>
+		<ukr>Х'юг</ukr>
+		<fra>Hugues</fra>
+		<pln>Hugo</pln>
+	</string>
+	<string id="sms_pogon_224">
+		<rus>Шкрек</rus>
+		<eng>Shkrek</eng>
+		<ukr>Шкрек</ukr>
+		<fra>Chkrek</fra>
+		<pln>Szkrek</pln>
+	</string>
+	<string id="sms_pogon_225">
+		<rus>Иво Бобул</rus>
+		<eng>Ivo Bobul</eng>
+		<ukr>Іво Бобул</ukr>
+		<fra>Ivo Boboul</fra>
+		<pln>Iwo Bobul</pln>
+	</string>
+	<string id="sms_pogon_226">
+		<rus>Попандопуло</rus>
+		<eng>Popandopalo</eng>
+		<ukr>Попандопуло</ukr>
+		<fra>Papandopulo</fra>
+		<pln>Popandopulo</pln>
+	</string>
+	<string id="sms_pogon_227">
+		<rus>Тамерлан</rus>
+		<eng>Tamerlane</eng>
+		<ukr>Тамерлан</ukr>
+		<fra>Tamerlan</fra>
+		<pln>Tamerlan</pln>
+	</string>
+	<string id="sms_pogon_228">
+		<rus>Гурон</rus>
+		<eng>Huron</eng>
+		<ukr>Гурон</ukr>
+		<fra>Huron</fra>
+		<pln>Huron</pln>
+	</string>
+	<string id="sms_pogon_229">
+		<rus>Буль</rus>
+		<eng>Boole</eng>
+		<ukr>Буль</ukr>
+		<fra>Boules</fra>
+		<pln>Bul</pln>
+	</string>
+	<string id="sms_pogon_230">
+		<rus>Фартинг</rus>
+		<eng>Farthing</eng>
+		<ukr>Фартинг</ukr>
+		<fra>Farthing</fra>
+		<pln>Ćwiartka</pln>
+	</string>
+	<string id="sms_pogon_231">
+		<rus>Добрый Бука</rus>
+		<eng>Kind Bogeyman</eng>
+		<ukr>Добрий Бука</ukr>
+		<fra>Bon Croquemitaine</fra>
+		<pln>Dobry Buka</pln>
+	</string>
+	<string id="sms_pogon_232">
+		<rus>Глок</rus>
+		<eng>Glock</eng>
+		<ukr>Глок</ukr>
+		<fra>Glock</fra>
+		<pln>Glock</pln>
+	</string>
+	<string id="sms_pogon_233">
+		<rus>Сэм Галлахер</rus>
+		<eng>Sam Gallagher</eng>
+		<ukr>Сем Галлахер</ukr>
+		<fra>Sam Gallagher</fra>
+		<pln>Sam Gallagher</pln>
+	</string>
+	<string id="sms_pogon_234">
+		<rus>Блэйд</rus>
+		<eng>Blade</eng>
+		<ukr>Блейд</ukr>
+		<fra>Lame</fra>
+		<pln>Blade</pln>
+	</string>
+	<string id="sms_pogon_235">
+		<rus>Хип</rus>
+		<eng>Hippie</eng>
+		<ukr>Хіп</ukr>
+		<fra>Hanche</fra>
+		<pln>Czip</pln>
+	</string>
+	<string id="sms_pogon_236">
+		<rus>Макс Болотник</rus>
+		<eng>Max Bolotnik</eng>
+		<ukr>Макс Болотник</ukr>
+		<fra>Max le Uligineux</fra>
+		<pln>Maks Bagiennik</pln>
+	</string>
+	<string id="sms_pogon_237">
+		<rus>Швед</rus>
+		<eng>Swede</eng>
+		<ukr>Швед</ukr>
+		<fra>Suédois</fra>
+		<pln>Szwed</pln>
+	</string>
+	<string id="sms_pogon_238">
+		<rus>Японец</rus>
+		<eng>Japanese</eng>
+		<ukr>Японець</ukr>
+		<fra>Japonais</fra>
+		<pln>Japoniec</pln>
+	</string>
+	<string id="sms_pogon_239">
+		<rus>Гурген</rus>
+		<eng>Gurgen</eng>
+		<ukr>Гурген</ukr>
+		<fra>Gurgen</fra>
+		<pln>Gurgen</pln>
+	</string>
+	<string id="sms_pogon_240">
+		<rus>Бенито</rus>
+		<eng>Benito</eng>
+		<ukr>Беніто</ukr>
+		<fra>Benito</fra>
+		<pln>Benito</pln>
+	</string>
+	<string id="sms_pogon_241">
+		<rus>Лемур</rus>
+		<eng>Lemur</eng>
+		<ukr>Лемур</ukr>
+		<fra>Lémur</fra>
+		<pln>Lemur</pln>
+	</string>
+	<string id="sms_pogon_242">
+		<rus>Мумба-Юмба</rus>
+		<eng>Mumbo-Jumbo</eng>
+		<ukr>Мумба-Юмба</ukr>
+		<fra>Mumba-Yumba</fra>
+		<pln>Mumba-Jumba</pln>
+	</string>
+	<string id="sms_pogon_243">
+		<rus>Дядя Том</rus>
+		<eng>Uncle Tom</eng>
+		<ukr>Дядько Том</ukr>
+		<fra>Oncle Tom</fra>
+		<pln>Wujek Tom</pln>
+	</string>
+	<string id="sms_pogon_244">
+		<rus>Моцарт</rus>
+		<eng>Mozart</eng>
+		<ukr>Моцарт</ukr>
+		<fra>Mozart</fra>
+		<pln>Mocart</pln>
+	</string>
+	<string id="sms_pogon_245">
+		<rus>Солидат</rus>
+		<eng>Soledad</eng>
+		<ukr>Солідат</ukr>
+		<fra>Solidarité</fra>
+		<pln>Solidat</pln>
+	</string>
+	<string id="sms_pogon_246">
+		<rus>Ивги</rus>
+		<eng>Ivgy</eng>
+		<ukr>Івгі</ukr>
+		<fra>Ivgi</fra>
+		<pln>Iwgi</pln>
+	</string>
+	<string id="sms_pogon_247">
+		<rus>Шорен</rus>
+		<eng>Shorin</eng>
+		<ukr>Шорен</ukr>
+		<fra>Chorin</fra>
+		<pln>Szoren</pln>
+	</string>
+	<string id="sms_pogon_248">
+		<rus>Марц</rus>
+		<eng>Marz</eng>
+		<ukr>Марц</ukr>
+		<fra>Marz</fra>
+		<pln>===Marzec</pln>
+	</string>
+	<string id="sms_pogon_249">
+		<rus>Винзор</rus>
+		<eng>Winsor</eng>
+		<ukr>Вінзор</ukr>
+		<fra>Winsor</fra>
+		<pln>Winsor</pln>
+	</string>
+	<string id="sms_pogon_250">
+		<rus>Ромеро</rus>
+		<eng>Romero</eng>
+		<ukr>Ромеро</ukr>
+		<fra>Romero</fra>
+		<pln>Romero</pln>
+	</string>
+	<string id="sms_pogon_251">
+		<rus>Юрчик</rus>
+		<eng>Yurchik</eng>
+		<ukr>Юрчик</ukr>
+		<fra>Yurtchik</fra>
+		<pln>Jurczyk</pln>
+	</string>
+	<string id="sms_pogon_252">
+		<rus>Вендетта</rus>
+		<eng>Vendetta</eng>
+		<ukr>Вендетта</ukr>
+		<fra>Vendetta</fra>
+		<pln>Vendetta</pln>
+	</string>
+	<string id="sms_pogon_253">
+		<rus>Карпов</rus>
+		<eng>Karpov</eng>
+		<ukr>Карпов</ukr>
+		<fra>Karpov</fra>
+		<pln>Karpow</pln>
+	</string>
+	<string id="sms_pogon_254">
+		<rus>Шейкер</rus>
+		<eng>Shaker</eng>
+		<ukr>Шейкер</ukr>
+		<fra>Shaker</fra>
+		<pln>Shaker</pln>
+	</string>
+	<string id="sms_pogon_255">
+		<rus>Рафаэль</rus>
+		<eng>Raphael</eng>
+		<ukr>Рафаель</ukr>
+		<fra>Raphaël</fra>
+		<pln>Rafael</pln>
+	</string>
+	<string id="sms_pogon_256">
+		<rus>Хитрый Лис</rus>
+		<eng>Sly Fox</eng>
+		<ukr>Хитрий Лис</ukr>
+		<fra>Renard Rusé</fra>
+		<pln>Sprytny Lis</pln>
+	</string>
+	<string id="sms_pogon_257">
+		<rus>Дедо-Баба</rus>
+		<eng>Dedo-Baba</eng>
+		<ukr>Дідо-Баба</ukr>
+		<fra>Grand-Dab</fra>
+		<pln>Babochłop</pln>
+	</string>
+	<string id="sms_pogon_258">
+		<rus>Кондрат</rus>
+		<eng>Kondrat</eng>
+		<ukr>Кіндрат</ukr>
+		<fra>Kondrat</fra>
+		<pln>Kondrat</pln>
+	</string>
+	<string id="sms_pogon_259">
+		<rus>Кий</rus>
+		<eng>Cue</eng>
+		<ukr>Кий</ukr>
+		<fra>Kyi</fra>
+		<pln>Kij</pln>
+	</string>
+	<string id="sms_pogon_260">
+		<rus>Зозо</rus>
+		<eng>Zozo</eng>
+		<ukr>Зозо</ukr>
+		<fra>Zozo</fra>
+		<pln>Zozo</pln>
+	</string>
+	<string id="sms_pogon_261">
+		<rus>Сенатор</rus>
+		<eng>Senator</eng>
+		<ukr>Сенатор</ukr>
+		<fra>Sénateur</fra>
+		<pln>Senator</pln>
+	</string>
+	<string id="sms_pogon_262">
+		<rus>Харон</rus>
+		<eng>Charon</eng>
+		<ukr>Харон</ukr>
+		<fra>Charon</fra>
+		<pln>Charon</pln>
+	</string>
+	<string id="sms_pogon_263">
+		<rus>Химик</rus>
+		<eng>Chemist</eng>
+		<ukr>Хімік</ukr>
+		<fra>Chimiste</fra>
+		<pln>Chemik</pln>
+	</string>
+	<string id="sms_pogon_264">
+		<rus>Ниндзя</rus>
+		<eng>Ninja</eng>
+		<ukr>Ніндзя</ukr>
+		<fra>Ninja</fra>
+		<pln>Ninja</pln>
+	</string>
+	<string id="sms_pogon_265">
+		<rus>Крёстный Отец</rus>
+		<eng>The Godfather</eng>
+		<ukr>Хресний Батько</ukr>
+		<fra>Parrain</fra>
+		<pln>Ojciec chrzestny</pln>
+	</string>
+	<string id="sms_pogon_266">
+		<rus>Буржуй</rus>
+		<eng>Bourgeois</eng>
+		<ukr>Буржуй</ukr>
+		<fra>Bourgeois</fra>
+		<pln>Burzuj</pln>
+	</string>
+	<string id="sms_pogon_267">
+		<rus>Мавр</rus>
+		<eng>Moor</eng>
+		<ukr>Мавр</ukr>
+		<fra>More</fra>
+		<pln>Mawr</pln>
+	</string>
+	<string id="sms_pogon_268">
+		<rus>Иванушка-дурачок</rus>
+		<eng>Ivan the Fool</eng>
+		<ukr>Іванко-дурник</ukr>
+		<fra>Ivan le Nigaud</fra>
+		<pln>Wania Durak</pln>
+	</string>
+	<string id="sms_pogon_269">
+		<rus>Чингиз</rus>
+		<eng>Genghis</eng>
+		<ukr>Чингиз</ukr>
+		<fra>Gengis</fra>
+		<pln>Czyngis</pln>
+	</string>
+	<string id="sms_pogon_270">
+		<rus>Рембо</rus>
+		<eng>Rambo</eng>
+		<ukr>Рембо</ukr>
+		<fra>Rambo</fra>
+		<pln>Rambo</pln>
+	</string>
+	<string id="sms_pogon_271">
+		<rus>Лапоть</rus>
+		<eng>Bumpkin</eng>
+		<ukr>Івасик-Телесик</ukr>
+		<fra>Péquenaud</fra>
+		<pln>Wiejski Prostak</pln>
+	</string>
+	<string id="sms_pogon_272">
+		<rus>Вий</rus>
+		<eng>Viy</eng>
+		<ukr>Вій</ukr>
+		<fra>Viy</fra>
+		<pln>Wij</pln>
+	</string>
+	<string id="sms_pogon_273">
+		<rus>Командор</rus>
+		<eng>Commander</eng>
+		<ukr>Командор</ukr>
+		<fra>Commandant</fra>
+		<pln>Komandor</pln>
+	</string>
+	<string id="sms_pogon_274">
+		<rus>Кум</rus>
+		<eng>Compadre</eng>
+		<ukr>Кум</ukr>
+		<fra>Compère</fra>
+		<pln>Kum</pln>
+	</string>
+	<string id="sms_pogon_275">
+		<rus>Гремлин</rus>
+		<eng>Gremlin</eng>
+		<ukr>Гремлін</ukr>
+		<fra>Gremlin</fra>
+		<pln>Gremlin</pln>
+	</string>
+	<string id="sms_pogon_276">
+		<rus>Фейк</rus>
+		<eng>Fake</eng>
+		<ukr>Фейк</ukr>
+		<fra>Intox</fra>
+		<pln>Fejk</pln>
+	</string>
+	<string id="sms_pogon_277">
+		<rus>Штирлиц</rus>
+		<eng>Stierlitz</eng>
+		<ukr>Штірліц</ukr>
+		<fra>Stierlitz</fra>
+		<pln>Stierlitz</pln>
+	</string>
+	<string id="sms_pogon_278">
+		<rus>Чупа-Чупс</rus>
+		<eng>Chupa Chups</eng>
+		<ukr>Чупа-Чупс</ukr>
+		<fra>Chupa Chups</fra>
+		<pln>Chupa Chups</pln>
+	</string>
+	<string id="sms_pogon_279">
+		<rus>Чебурек</rus>
+		<eng>Cheburek</eng>
+		<ukr>Чебурек</ukr>
+		<fra>Tchebourek</fra>
+		<pln>Czeburek</pln>
+	</string>
+	<string id="sms_pogon_280">
+		<rus>Чингачгук</rus>
+		<eng>Chingachgook</eng>
+		<ukr>Чингачгук</ukr>
+		<fra>Chingachgook</fra>
+		<pln>Chingachgook</pln>
+	</string>
+	<string id="sms_pogon_281">
+		<rus>Шериф</rus>
+		<eng>Sheriff</eng>
+		<ukr>Шериф</ukr>
+		<fra>Shérif</fra>
+		<pln>Szeryf</pln>
+	</string>
+	<string id="sms_pogon_282">
+		<rus>Автохтон</rus>
+		<eng>Autochthon</eng>
+		<ukr>Автохтон</ukr>
+		<fra>Autochtone</fra>
+		<pln>Autochton</pln>
+	</string>
+	<string id="sms_pogon_283">
+		<rus>Судья</rus>
+		<eng>Judge</eng>
+		<ukr>Суддя</ukr>
+		<fra>Juge</fra>
+		<pln>Sędzia</pln>
+	</string>
+	<string id="sms_pogon_284">
+		<rus>Скиф</rus>
+		<eng>Scythian</eng>
+		<ukr>Скіф</ukr>
+		<fra>Scythe</fra>
+		<pln>===Scytov</pln>
+	</string>
+	<string id="sms_pogon_285">
+		<rus>Самурай</rus>
+		<eng>Samurai</eng>
+		<ukr>Самурай</ukr>
+		<fra>Samuraï</fra>
+		<pln>Samuraj</pln>
+	</string>
+	<string id="sms_pogon_286">
+		<rus>Дед</rus>
+		<eng>Grandpa</eng>
+		<ukr>Дідо</ukr>
+		<fra>Grand-père</fra>
+		<pln>Dziad</pln>
+	</string>
+	<string id="sms_pogon_287">
+		<rus>Шмаровоз</rus>
+		<eng>Pimp</eng>
+		<ukr>Шмаровоз</ukr>
+		<fra>Cocher de Pétasses</fra>
+		<pln>Brudas</pln>
+	</string>
+	<string id="sms_pogon_288">
+		<rus>Пан</rus>
+		<eng>Pan</eng>
+		<ukr>Пан</ukr>
+		<fra>Pan</fra>
+		<pln>Pan</pln>
+	</string>
+	<string id="sms_pogon_289">
+		<rus>Игнат</rus>
+		<eng>Ignat</eng>
+		<ukr>Гнат</ukr>
+		<fra>Ignat</fra>
+		<pln>Ignacy</pln>
+	</string>
+	<string id="sms_pogon_290">
+		<rus>Жорж</rus>
+		<eng>Georges</eng>
+		<ukr>Жорж</ukr>
+		<fra>Georges</fra>
+		<pln>George</pln>
+	</string>
+	<string id="sms_pogon_291">
+		<rus>Тесть</rus>
+		<eng>Father-in-law</eng>
+		<ukr>Тесть</ukr>
+		<fra>Beau-père</fra>
+		<pln>Teść</pln>
+	</string>
+	<string id="sms_pogon_292">
+		<rus>Шершень</rus>
+		<eng>Hornet</eng>
+		<ukr>Шершень</ukr>
+		<fra>Frelon</fra>
+		<pln>Szerszeń</pln>
+	</string>
+	<string id="sms_pogon_293">
+		<rus>Штопор</rus>
+		<eng>Corkscrew</eng>
+		<ukr>Штопор</ukr>
+		<fra>Tire-bouchon</fra>
+		<pln>Korkociąg</pln>
+	</string>
+	<string id="sms_pogon_294">
+		<rus>Сеньор</rus>
+		<eng>Seigneur</eng>
+		<ukr>Сеньйор</ukr>
+		<fra>Seigneur</fra>
+		<pln>===Senor</pln>
+	</string>
+</string_table>
