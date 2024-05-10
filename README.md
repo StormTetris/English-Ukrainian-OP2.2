@@ -8,6 +8,7 @@
 1. Write an issue with the title format and a brief description of the problem
 
     Format:
+    
     [(LANG) Mistranslation], which LANG represents your current game language.
 
     [New Quests] for new quests added by the OP 2.2 developers.
