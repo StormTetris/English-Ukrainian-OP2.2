@@ -2681,7 +2681,7 @@ Czytaj, Striełok... A jak chcesz to zaśpiewaj. To moja ulubiona piosenka z dzi
 <string id="chess_jour_name_21">
     <rus>Ноутбук...</rus>
 	<eng>Notebook...</eng>
-	<ukr></ukr>
+	<ukr>Ноутбук...</ukr>
 </string>
 <string id="str_chess_jour_21">
     <rus>Теперь все ясно! Свиблов и есть Затворник! Хамелеон... перевёртыш... предатель, в конце концов! Ну держись, гадёныш! Я тебя выведу на чистую воду!</rus>
@@ -4896,7 +4896,7 @@ Czytaj, Striełok... A jak chcesz to zaśpiewaj. To moja ulubiona piosenka z dzi
 <string id="family_relics_5_spot">
 	    <rus>Строительный вагончик</rus>
 		<eng>Construction trailer</eng>
-		<ukr></ukr>
+		<ukr>Будівельний вагончик</ukr>
     </string>
 <string id="family_relics_6_spot">
 	    <rus>Тёмная лошадка</rus>
