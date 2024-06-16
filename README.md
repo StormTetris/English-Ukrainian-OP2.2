@@ -27,4 +27,4 @@ A: I used ChatGPT for Chess Player dialogues and Google Translate for the rest.
 
 Q: How often do you change this repository?
 
-A: I will roll out weekly patches for mistranslations, and immediate patches for new quests. 
+A: I will roll out weekly patches for mistranslations, and immediate patches for new quests and any crashes. 
