@@ -1,0 +1,3378 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<string_table>
+	<string id="aes_Soldier_specnaz_aes_name">
+		<rus>Василь Невезучий</rus>
+		<eng>Vasil the Unlucky</eng>
+		<ukr>Василь Нещасливець</ukr>
+		<fra>Vassil le Malchanceux</fra>
+		<pln>Wasyl Pechowiec</pln>
+	</string>
+	<string id="agr_krot_name">
+		<rus>Крот</rus>
+		<eng>Mole</eng>
+		<ukr>Кріт</ukr>
+		<fra>Taupe</fra>
+		<pln>Kret</pln>
+	</string>
+	<string id="bar_arny_name">
+		<rus>Арни</rus>
+		<eng>Arnie</eng>
+		<ukr>Арні</ukr>
+		<fra>Arnie</fra>
+		<pln>Arni</pln>
+	</string>
+	<string id="bar_bar_guard_name">
+		<rus>Гарик</rus>
+		<eng>Garik</eng>
+		<ukr>Гарік</ukr>
+		<fra>Garik</fra>
+		<pln>Garik</pln>
+	</string>
+	<string id="bar_bar_guard2_name">
+		<rus>Жорик</rus>
+		<eng>Zhorik</eng>
+		<ukr>Жорік</ukr>
+		<fra>Zhorik</fra>
+		<pln>Żorik</pln>
+	</string>
+	<string id="bar_barmen_name">
+		<rus>Бармен</rus>
+		<eng>Barkeep</eng>
+		<ukr>Бармен</ukr>
+		<fra>Barman</fra>
+		<pln>Barman</pln>
+	</string>
+	<string id="bar_beast_name">
+		<rus>Зверь</rus>
+		<eng>Beast</eng>
+		<ukr>Звір</ukr>
+		<fra>Animal</fra>
+		<pln>Zwierz</pln>
+	</string>
+	<string id="bar_drunk_name">
+		<rus>Бром</rus>
+		<eng>Brome</eng>
+		<ukr>Бром</ukr>
+		<fra>Brome</fra>
+		<pln>Brom</pln>
+	</string>
+	<string id="bar_hunter_name">
+		<rus>Охотник</rus>
+		<eng>Hunter</eng>
+		<ukr>Мисливець</ukr>
+		<fra>Chasseur</fra>
+		<pln>Łowca</pln>
+	</string>
+	<string id="bar_informer_name">
+		<rus>Осведомитель</rus>
+		<eng>Informant</eng>
+		<ukr>Інформатор</ukr>
+		<fra>Informateur</fra>
+		<pln>Informator</pln>
+	</string>
+	<string id="bar_ivancov_name">
+		<rus>Капитан Иванцов</rus>
+		<eng>Captain Ivantsov</eng>
+		<ukr>Капітан Іванцов</ukr>
+		<fra>Capitaine Ivantsov</fra>
+		<pln>Kapitan Iwancow</pln>
+	</string>
+	<string id="bar_kicenko_name">
+		<rus>Сержант Киценко</rus>
+		<eng>Segeant Kitsenko</eng>
+		<ukr>Сержант Куценко</ukr>
+		<fra>Sergent Kitsenko</fra>
+		<pln>Sierżant Kicenko</pln>
+	</string>
+	<string id="bar_lelik_name">
+		<rus>Лёлик</rus>
+		<eng>Lyolik</eng>
+		<ukr>Льолік</ukr>
+		<fra>Liolik</fra>
+		<pln>Lelik</pln>
+	</string>
+	<string id="bar_lisiy_name">
+		<rus>Лысый</rus>
+		<eng>Baldy</eng>
+		<ukr>Лисий</ukr>
+		<fra>Chauve</fra>
+		<pln>Łysy</pln>
+	</string>
+	<string id="bar_petrenko_name">
+		<rus>Полковник Петренко</rus>
+		<eng>Colonel Petrenko</eng>
+		<ukr>Полковник Петренко</ukr>
+		<fra>Colonel Petrenko</fra>
+		<pln>Pułkownik Pietrenko</pln>
+	</string>
+	<string id="bar_plichko_name">
+		<rus>Сержант Пличко</rus>
+		<eng>Sergeant Plichko</eng>
+		<ukr>Сержант Плічко</ukr>
+		<fra>Sergent Plichko</fra>
+		<pln>Sierżant Pliczko</pln>
+	</string>
+	<string id="bar_ryaboy_name">
+		<rus>Рябой</rus>
+		<eng>Pockmarked</eng>
+		<ukr>Рябий</ukr>
+		<fra>Grêlé</fra>
+		<pln>Krosta</pln>
+	</string>
+	<string id="bar_voronin_name">
+		<rus>Генерал Воронин</rus>
+		<eng>General Voronin</eng>
+		<ukr>Генерал Воронін</ukr>
+		<fra>Général Voronine</fra>
+		<pln>Generał Woronin</pln>
+	</string>
+	<string id="dar_kalugin_name">
+		<rus>Профессор Калугин</rus>
+		<eng>Professor Kalugin</eng>
+		<ukr>Профессор Калугін</ukr>
+		<fra>Professeur Kalougin</fra>
+		<pln>Profesor Kaługin</pln>
+	</string>
+	<string id="cit_doctor_name">
+		<rus>Доктор</rus>
+		<eng>Doctor</eng>
+		<ukr>Доктор</ukr>
+		<fra>Docteur</fra>
+		<pln>Doktor</pln>
+	</string>
+	<string id="esc_fanat_name">
+		<rus>Фанат</rus>
+		<eng>Devotee</eng>
+		<ukr>Фанат</ukr>
+		<fra>Accro</fra>
+		<pln>Fanat</pln>
+	</string>
+	<string id="esc_fox_name">
+		<rus>Лис</rus>
+		<eng>Fox</eng>
+		<ukr>Лис</ukr>
+		<fra>Renard</fra>
+		<pln>Lis</pln>
+	</string>
+	<string id="esc_petruha_name">
+		<rus>Петруха</rus>
+		<eng>Petrukha</eng>
+		<ukr>Петруха</ukr>
+		<fra>Petroukha</fra>
+		<pln>Pietrucha</pln>
+	</string>
+	<string id="esc_provodnik_name">
+		<rus>Проводник</rus>
+		<eng>Guide</eng>
+		<ukr>Провідник</ukr>
+		<fra>Guide</fra>
+		<pln>Przewodnik</pln>
+	</string>
+	<string id="esc_shustryi_name">
+		<rus>Шустрый</rus>
+		<eng>Nimble</eng>
+		<ukr>Спритний</ukr>
+		<fra>Agile</fra>
+		<pln>Żwawy</pln>
+	</string>
+	<string id="esc_soldier_commander_name">
+		<rus>Майор Кузнецов</rus>
+		<eng>Major Kuznetsov</eng>
+		<ukr>Майор Кузнєцов</ukr>
+		<fra>Major Kouznetsov</fra>
+		<pln>Major Kuźniecow</pln>
+	</string>
+	<string id="esc_tolik_name">
+		<rus>Толик</rus>
+		<eng>Tolik</eng>
+		<ukr>Толік</ukr>
+		<fra>Tolik</fra>
+		<pln>Tolik</pln>
+	</string>
+	<string id="esc_wolf_name">
+		<rus>Волк</rus>
+		<eng>Wolf</eng>
+		<ukr>Вовк</ukr>
+		<fra>Loup</fra>
+		<pln>Wilk</pln>
+	</string>
+	<string id="escape_trader_name">
+		<rus>Сидорович</rus>
+		<eng>Sidorovich</eng>
+		<ukr>Сидорович</ukr>
+		<fra>Sidorovitch</fra>
+		<pln>Sidorowicz</pln>
+	</string>
+	<string id="gar_bandit_leader_name">
+		<rus>Вася Кабан</rus>
+		<eng>Vasya the Boar</eng>
+		<ukr>Вася Кабан</ukr>
+		<fra>Vasia le Sanglier</fra>
+		<pln>Wasia Kaban</pln>
+	</string>
+	<string id="gar_dolg_blokpost_leader_name">
+		<rus>Прапор</rus>
+		<eng>Prapor</eng>
+		<ukr>Прапор</ukr>
+		<fra>Prapor</fra>
+		<pln>Prapor</pln>
+	</string>
+	<string id="gar_dram_novice_name">
+		<rus>Юрик</rus>
+		<eng>Yurik</eng>
+		<ukr>Юрко</ukr>
+		<fra>Yurik</fra>
+		<pln>Jurik</pln>
+	</string>
+	<string id="gar_hellcar_name">
+		<rus>Бес</rus>
+		<eng>Fiend</eng>
+		<ukr>Біс</ukr>
+		<fra>Démon</fra>
+		<pln>Bies</pln>
+	</string>
+	<string id="gar_seryi_name">
+		<rus>Серый</rus>
+		<eng>Grey</eng>
+		<ukr>Сірий</ukr>
+		<fra>Gris</fra>
+		<pln>Sieryj</pln>
+	</string>
+	<string id="mil_Dolg_specnaz_cherep_name">
+		<rus>Череп</rus>
+		<eng>Cherep</eng>
+		<ukr>Череп</ukr>
+		<fra>Tcherep</fra>
+		<pln>Czacha</pln>
+	</string>
+	<string id="mil_Killer_informator_name">
+		<rus>Ара</rus>
+		<eng>Ara</eng>
+		<ukr>Ара</ukr>
+		<fra>Ara</fra>
+		<pln>Ara</pln>
+	</string>
+	<string id="mil_Svoboda_blockpost_leader_name">
+		<rus>Кэп</rus>
+		<eng>Cap</eng>
+		<ukr>Кеп</ukr>
+		<fra>Casquette</fra>
+		<pln>Czapa</pln>
+	</string>
+	<string id="mil_Svoboda_cook_name">
+		<rus>Повар</rus>
+		<eng>Chef</eng>
+		<ukr>Кухар</ukr>
+		<fra>Cuistot</fra>
+		<pln>Kucharz</pln>
+	</string>
+	<string id="mil_Svoboda_engineer_name">
+		<rus>Шуруп</rus>
+		<eng>Screw</eng>
+		<ukr>Шуруп</ukr>
+		<fra>Vis</fra>
+		<pln>Wkręt</pln>
+	</string>
+	<string id="mil_Svoboda_leader_name">
+		<rus>Лукаш</rus>
+		<eng>Lukash</eng>
+		<ukr>Лукаш</ukr>
+		<fra>Loukache</fra>
+		<pln>Łukasz</pln>
+	</string>
+	<string id="mil_Svoboda_master_Max_name">
+		<rus>Макс</rus>
+		<eng>Max</eng>
+		<ukr>Макс</ukr>
+		<fra>Max</fra>
+		<pln>Maks</pln>
+	</string>
+	<string id="mil_Svoboda_master_Ugrumiy_name">
+		<rus>Угрюмый</rus>
+		<eng>Morose</eng>
+		<ukr>Похмурий</ukr>
+		<fra>Grimaud</fra>
+		<pln>Mruk</pln>
+	</string>
+	<string id="mil_Svoboda_stukach_name">
+		<rus>Павлик</rus>
+		<eng>Pavlik</eng>
+		<ukr>Павлусь</ukr>
+		<fra>Pavlik</fra>
+		<pln>Pawlik</pln>
+	</string>
+	<string id="mil_Svoboda_trader_name">
+		<rus>Скряга</rus>
+		<eng>Skinflint</eng>
+		<ukr>Скнара</ukr>
+		<fra>Avare</fra>
+		<pln>Kutwa</pln>
+	</string>
+	<string id="mil_Svoboda_zombi_stalker_name">
+		<rus>Сумасшедший сталкер</rus>
+		<eng>Сrazy stalker</eng>
+		<ukr>Божевільний cталкер</ukr>
+		<fra>Stalker fou</fra>
+		<pln>Szalony stalker</pln>
+	</string>
+	<string id="pri_followers_bomber_name">
+		<rus>Саша Белый</rus>
+		<eng>Sasha the White</eng>
+		<ukr>Саша Білий</ukr>
+		<fra>Sacha le Blanc</fra>
+		<pln>Sasza Bieły</pln>
+	</string>
+	<string id="pri_monolith_leader_name">
+		<rus>Харон</rus>
+		<eng>Charon</eng>
+		<ukr>Харон</ukr>
+		<fra>Charon</fra>
+		<pln>Charon</pln>
+	</string>
+	<string id="pri_zombied_soldier_name">
+		<rus>Зомбированный</rus>
+		<eng>Zombified</eng>
+		<ukr>Зомбований</ukr>
+		<fra>Zombifié</fra>
+		<pln>Zzombifikowany</pln>
+	</string>
+	<string id="pri_zombied_stalker_name">
+		<rus>Зомбированный</rus>
+		<eng>Zombified</eng>
+		<ukr>Зомбований</ukr>
+		<fra>Zzombifié</fra>
+		<pln>Zzombifikowany</pln>
+	</string>
+	<string id="rad_ecolog_guard_name">
+		<rus>Ассистент</rus>
+		<eng>Assistant</eng>
+		<ukr>Асистент</ukr>
+		<fra>Assistant</fra>
+		<pln>Asystent</pln>
+	</string>
+	<string id="rad_ecolog_name">
+		<rus>Ассистент</rus>
+		<eng>Assistant</eng>
+		<ukr>Асистент</ukr>
+		<fra>Assistant</fra>
+		<pln>Asystent</pln>
+	</string>
+	<string id="ros_freeman_name">
+		<rus>Фримен</rus>
+		<eng>Freeman</eng>
+		<ukr>Фрімен</ukr>
+		<fra>Freeman</fra>
+		<pln>Freeman</pln>
+	</string>
+	<string id="ros_happy_name">
+		<rus>Счастливчик</rus>
+		<eng>Lucky Devil</eng>
+		<ukr>Щасливчик</ukr>
+		<fra>Chançard</fra>
+		<pln>Farciarz</pln>
+	</string>
+	<string id="ros_kruglov_name">
+		<rus>Профессор Круглов</rus>
+		<eng>Professor Kruglov</eng>
+		<ukr>Професор Круглов</ukr>
+		<fra>Professeur Krouglov</fra>
+		<pln>Profesor Krugłow</pln>
+	</string>
+	<string id="ros_tiran_name">
+		<rus>Тиран</rus>
+		<eng>Tyrant</eng>
+		<ukr>Тиран</ukr>
+		<fra>Tyran</fra>
+		<pln>Tyran</pln>
+	</string>
+	<string id="ros_volkodav_name">
+		<rus>Волкодав</rus>
+		<eng>Wolfhound</eng>
+		<ukr>Вовкодав</ukr>
+		<fra>Volkodav</fra>
+		<pln>Wilczarz</pln>
+	</string>
+	<string id="borov_name">
+		<rus>Боров</rus>
+		<eng>Hog</eng>
+		<ukr>Кабан</ukr>
+		<fra>Ragot</fra>
+		<pln>Borow</pln>
+	</string>
+	<string id="val_prisoner_name">
+		<rus>Сергей Лохматый</rus>
+		<eng>Sergey the Shaggy</eng>
+		<ukr>Сергій Кошлатий</ukr>
+		<fra>Sergey l'Hirsute</fra>
+		<pln>Siergiej Kudłaty</pln>
+	</string>
+	<string id="val_pulia_name">
+		<rus>Пуля</rus>
+		<eng>Bullet</eng>
+		<ukr>Куля</ukr>
+		<fra>Balle</fra>
+		<pln>Nabój</pln>
+	</string>
+	<string id="yan_ghost_name">
+		<rus>Призрак</rus>
+		<eng>Ghost</eng>
+		<ukr>Привид</ukr>
+		<fra>Spectre</fra>
+		<pln>Duch</pln>
+	</string>
+	<string id="yan_saharov_name">
+		<rus>Сахаров</rus>
+		<eng>Sakharov</eng>
+		<ukr>Сахаров</ukr>
+		<fra>Sakharov</fra>
+		<pln>Sacharow</pln>
+	</string>
+	<string id="yan_semenov_name">
+		<rus>Семёнов</rus>
+		<eng>Semyonov</eng>
+		<ukr>Семенов</ukr>
+		<fra>Semyonov</fra>
+		<pln>Semenow</pln>
+	</string>
+	<string id="yan_vasilyev_name">
+		<rus>Васильев</rus>
+		<eng>Vasiliev</eng>
+		<ukr>Васильєв</ukr>
+		<fra>Vassiliev</fra>
+		<pln>Wasiliew</pln>
+	</string>
+	<string id="zombie_name">
+		<rus>Зомбированный</rus>
+		<eng>Zombified</eng>
+		<ukr>Зомбований</ukr>
+		<fra>Zombifié</fra>
+		<pln>Zzombifikowany</pln>
+	</string>
+	<string id="actor_name">
+		<rus>Меченый</rus>
+		<eng>Marked One</eng>
+		<ukr>Мічений</ukr>
+		<fra>Le Marqué</fra>
+		<pln>Naznaczony</pln>
+	</string>
+	<string id="sim_bandit_master_fraer_name">
+		<rus>Фраер</rus>
+		<eng>Frayer</eng>
+		<ukr>Фраєр</ukr>
+		<fra>Frayer</fra>
+		<pln>Frajer</pln>
+	</string>
+	<string id="sim_bandit_master_kocherga_name">
+		<rus>Кочерга</rus>
+		<eng>Poker</eng>
+		<ukr>Кочерга</ukr>
+		<fra>Tisonnier</fra>
+		<pln>Pogrzebacz</pln>
+	</string>
+	<string id="sim_dolg_veteran_barin_name">
+		<rus>Барин</rus>
+		<eng>Barin</eng>
+		<ukr>Пан</ukr>
+		<fra>Barin</fra>
+		<pln>Barin</pln>
+	</string>
+	<string id="sim_dolg_veteran_prapor_name">
+		<rus>Клоп</rus>
+		<eng>Bedbug</eng>
+		<ukr>Клоп</ukr>
+		<fra>Punaise</fra>
+		<pln>Pluskwa</pln>
+	</string>
+	<string id="sim_ecolog_zob_name">
+		<rus>Зоб</rus>
+		<eng>Gorge</eng>
+		<ukr>Зоб</ukr>
+		<fra>Gésier</fra>
+		<pln>Plon</pln>
+	</string>
+	<string id="sim_stalker_general_upir_name">
+		<rus>Упырь</rus>
+		<eng>Upir</eng>
+		<ukr>Упир</ukr>
+		<fra>Upyr</fra>
+		<pln>Wampir</pln>
+	</string>
+	<string id="sim_stalker_master_chuchelo_name">
+		<rus>Чучело</rus>
+		<eng>Scarecrow</eng>
+		<ukr>Опудало</ukr>
+		<fra>Épouvantail</fra>
+		<pln>Strach</pln>
+	</string>
+	<string id="sim_stalker_master_diador_name">
+		<rus>Отец Диодор</rus>
+		<eng>Father Diodor</eng>
+		<ukr>Панотець Діодор</ukr>
+		<fra>Père Diodore</fra>
+		<pln>Ojciec Diodor</pln>
+	</string>
+	<string id="sim_stalker_master_master_name">
+		<rus>Мастер</rus>
+		<eng>Master</eng>
+		<ukr>Майстер</ukr>
+		<fra>Maître</fra>
+		<pln>Mistrz</pln>
+	</string>
+	<string id="sim_stalker_master_polkan_name">
+		<rus>Полкан</rus>
+		<eng>Polkan</eng>
+		<ukr>Полкан</ukr>
+		<fra>Polkan</fra>
+		<pln>Połkan</pln>
+	</string>
+	<string id="sim_stalker_novice_neumeha_name">
+		<rus>Неумеха</rus>
+		<eng>Butterfingers</eng>
+		<ukr>Нездара</ukr>
+		<fra>Gaffeur</fra>
+		<pln>Fujara</pln>
+	</string>
+	<string id="sim_stalker_veteran_gusarov_name">
+		<rus>Олег "Демон" Гусаров</rus>
+		<eng>Oleg "Demon" Gussarov</eng>
+		<ukr>Олег "Демон" Гусаров</ukr>
+		<fra>Oleg "Démon" Goussarov</fra>
+		<pln>Oleg "Demon" Gusarow</pln>
+	</string>
+	<string id="sim_stalker_veteran_umnik_name">
+		<rus>Умник</rus>
+		<eng>Smartass</eng>
+		<ukr>Розумака</ukr>
+		<fra>Malin</fra>
+		<pln>Mądrala</pln>
+	</string>
+	<string id="sim_stalker_veteran_vorobey_name">
+		<rus>Воробей</rus>
+		<eng>Sparrow</eng>
+		<ukr>Горобець</ukr>
+		<fra>Moineau</fra>
+		<pln>Wróbel</pln>
+	</string>
+	<string id="sim_Svoboda_specnaz_leshii_name">
+		<rus>Спрут</rus>
+		<eng>Kraken</eng>
+		<ukr>Спрут</ukr>
+		<fra>Poulpe</fra>
+		<pln>Leszy</pln>
+	</string>
+	<string id="sim_svoboda_specnaz_prut_name">
+		<rus>Прут</rus>
+		<eng>Twig</eng>
+		<ukr>Прут</ukr>
+		<fra>Barreau</fra>
+		<pln>Gałązka</pln>
+	</string>
+	<string id="kulinar_name">
+		<rus>Артём Кулинар</rus>
+		<eng>Artyom the Cook</eng>
+		<ukr>Артем Кулінар</ukr>
+		<fra>Artyom le Cuisinier</fra>
+		<pln>Artiom Kulinar</pln>
+	</string>
+	<string id="crest_name">
+		<rus>Крест</rus>
+		<eng>Cross</eng>
+		<ukr>Хрест</ukr>
+		<fra>Croix</fra>
+		<pln>Krzyż</pln>
+	</string>
+	<string id="zahar_name">
+		<rus>Захар</rus>
+		<eng>Zakhar</eng>
+		<ukr>Захар</ukr>
+		<fra>Zakhar</fra>
+		<pln>Zachar</pln>
+	</string>
+	<string id="voron_name">
+		<rus>Витёк Ворон</rus>
+		<eng>Vityok the Raven</eng>
+		<ukr>Вітьок Ворон</ukr>
+		<fra>Vityok le Corbeau</fra>
+		<pln>Witek Woron</pln>
+	</string>
+	<string id="dan_name">
+		<rus>Дэн</rus>
+		<eng>Dan</eng>
+		<ukr>Ден</ukr>
+		<fra>Dan</fra>
+		<pln>Dan</pln>
+	</string>
+	<string id="dyak_name">
+		<rus>Дьяк</rus>
+		<eng>Deacon</eng>
+		<ukr>Дяк</ukr>
+		<fra>Sacristain</fra>
+		<pln>Diakon</pln>
+	</string>
+	<string id="marsh_remont_name">
+		<rus>Василий</rus>
+		<eng>Vasily</eng>
+		<ukr>Василь</ukr>
+		<fra>Vassili</fra>
+		<pln>Wasyli</pln>
+	</string>
+	<string id="sviblov_name">
+		<rus>Свиблов</rus>
+		<eng>Sviblov</eng>
+		<ukr>Свиблов</ukr>
+		<fra>Sviblov</fra>
+		<pln>Swibłow</pln>
+	</string>
+	<string id="atp_kalinin_name">
+		<rus>Калинин</rus>
+		<eng>Kalinin</eng>
+		<ukr>Калинін</ukr>
+		<fra>Kalinine</fra>
+		<pln>Kalinin</pln>
+	</string>
+	<string id="land_medik_name">
+		<rus>Шура Гинеколог</rus>
+		<eng>Shura the Gynecologist</eng>
+		<ukr>Сашко Гінеколог</ukr>
+		<fra>Choura le Gynécologue</fra>
+		<pln>Szura Ginekolog</pln>
+	</string>
+	<string id="dragunof_name">
+		<rus>Драгунов</rus>
+		<eng>Dragunov</eng>
+		<ukr>Драгунов</ukr>
+		<fra>Dragounov</fra>
+		<pln>Dragunow</pln>
+	</string>
+	<string id="fotograf_name">
+		<rus>Фотограф</rus>
+		<eng>Photographer</eng>
+		<ukr>Фотограф</ukr>
+		<fra>Photographe</fra>
+		<pln>Fotograf</pln>
+	</string>
+	<string id="akill_name">
+		<rus>Акилл</rus>
+		<eng>Akill</eng>
+		<ukr>Акілл</ukr>
+		<fra>Akill</fra>
+		<pln>Akill</pln>
+	</string>
+	<string id="aaz_name">
+		<rus>Ааз</rus>
+		<eng>Aaz</eng>
+		<ukr>Ааз</ukr>
+		<fra>Aaz</fra>
+		<pln>Aaz</pln>
+	</string>
+	<string id="sak_name">
+		<rus>Сяк</rus>
+		<eng>Syak</eng>
+		<ukr>Сяк</ukr>
+		<fra>Siak</fra>
+		<pln>Siak</pln>
+	</string>
+	<string id="kalmyak_name">
+		<rus>Калмык</rus>
+		<eng>Kalmyk</eng>
+		<ukr>Калмик</ukr>
+		<fra>Kalmouk</fra>
+		<pln>Kałmuk</pln>
+	</string>
+	<string id="grom_name">
+		<rus>Гром</rus>
+		<eng>Thunder</eng>
+		<ukr>Гром</ukr>
+		<fra>Tonnerre</fra>
+		<pln>Grom</pln>
+	</string>
+	<string id="kostya_name">
+		<rus>Костя</rus>
+		<eng>Kostya</eng>
+		<ukr>Костя</ukr>
+		<fra>Kostia</fra>
+		<pln>Kostia</pln>
+	</string>
+	<string id="noi_name">
+		<rus>Ной</rus>
+		<eng>Noah</eng>
+		<ukr>Ной</ukr>
+		<fra>Noé</fra>
+		<pln>Noe</pln>
+	</string>
+	<string id="buusty_name">
+		<rus>Басти</rus>
+		<eng>Buusty</eng>
+		<ukr>Басті</ukr>
+		<fra>Buusty</fra>
+		<pln>Buusty</pln>
+	</string>
+	<string id="mercaushiy_name">
+		<rus>Мерцающий</rus>
+		<eng>Glimmer Man</eng>
+		<ukr>Мерехтливий</ukr>
+		<fra>Glimmer Man</fra>
+		<pln>Nieuchwytny</pln>
+	</string>
+	<string id="dimak_name">
+		<rus>Димак</rus>
+		<eng>Dimak</eng>
+		<ukr>Дімак</ukr>
+		<fra>Dimak</fra>
+		<pln>Dimak</pln>
+	</string>
+	<string id="nazar_name">
+		<rus>Назар</rus>
+		<eng>Nazar</eng>
+		<ukr>Назар</ukr>
+		<fra>Nazar</fra>
+		<pln>Nazar</pln>
+	</string>
+	<string id="marsh_barman_name">
+		<rus>Холод</rus>
+		<eng>Kholod</eng>
+		<ukr>Холод</ukr>
+		<fra>Kholod</fra>
+		<pln>Zimny</pln>
+	</string>
+	<string id="korshun_name">
+		<rus>Коршун</rus>
+		<eng>Milvus</eng>
+		<ukr>Коршун</ukr>
+		<fra>Milan</fra>
+		<pln>Kania</pln>
+	</string>
+	<string id="fenix_name">
+		<rus>Феникс</rus>
+		<eng>Phoenix</eng>
+		<ukr>Фенікс</ukr>
+		<fra>Phénix</fra>
+		<pln>Feniks</pln>
+	</string>
+	<string id="borman_name">
+		<rus>Борман</rus>
+		<eng>Bormann</eng>
+		<ukr>Борман</ukr>
+		<fra>Bormann</fra>
+		<pln>Bormann</pln>
+	</string>
+	<string id="forest_lesnik_name">
+		<rus>Лесник</rus>
+		<eng>Forester</eng>
+		<ukr>Лісник</ukr>
+		<fra>Forestier</fra>
+		<pln>Leśnik</pln>
+	</string>
+	<string id="val_sos_stalker_name">
+		<rus>Мессер</rus>
+		<eng>Messer</eng>
+		<ukr>Мессер</ukr>
+		<fra>Messer</fra>
+		<pln>Messer</pln>
+	</string>
+	<string id="agr_ratcatcher_name">
+		<rus>Дезертир</rus>
+		<eng>Deserter</eng>
+		<ukr>Дезертир</ukr>
+		<fra>Déserteur</fra>
+		<pln>Dezerter</pln>
+	</string>
+	<string id="tm_brother_name">
+		<rus>Брат Тени Монолита</rus>
+		<eng>Brother of the Shadow of the Monolith</eng>
+		<ukr>Брат Тіні Моноліту</ukr>
+		<fra>Frère de l'Ombre du Monolithe</fra>
+		<pln>Brat Cienia Monolitu</pln>
+	</string>
+	<string id="yakut_name">
+		<rus>Якут</rus>
+		<eng>Yakut</eng>
+		<ukr>Якут</ukr>
+		<fra>Yakoute</fra>
+		<pln>Jakut</pln>
+	</string>
+	<string id="mil_Svoboda_zoneguard_name">
+		<rus>Сэр Бармалей</rus>
+		<eng>Sir Barmaley</eng>
+		<ukr>Сер Бармалей</ukr>
+		<fra>Sir Barmaley</fra>
+		<pln>Sir Barmaley</pln>
+	</string>
+	<string id="shaxter_name">
+		<rus>Шахтёр</rus>
+		<eng>Miner</eng>
+		<ukr>Шахтар</ukr>
+		<fra>Mineur</fra>
+		<pln>Górnik</pln>
+	</string>
+	<string id="xabaruch_name">
+		<rus>Хабарыч</rus>
+		<eng>Lootoholic</eng>
+		<ukr>Хабарич</ukr>
+		<fra>Lootoholic</fra>
+		<pln>Chabarycz</pln>
+	</string>
+	<string id="stahanov_name">
+		<rus>Вадя Стаханов</rus>
+		<eng>Vadya Stakhanov</eng>
+		<ukr>Вадя Стаханов</ukr>
+		<fra>Vadya Stakhanov</fra>
+		<pln>Wadia Stachanow</pln>
+	</string>
+	<string id="peshera_plennyi_name">
+		<rus>Фима Уголь</rus>
+		<eng>Fima the Charcoal</eng>
+		<ukr>Фима Вугілля</ukr>
+		<fra>Fima le Charbon</fra>
+		<pln>Fima Koks</pln>
+	</string>
+	<string id="otshelnik_name">
+		<rus>Отшельник</rus>
+		<eng>Hermit</eng>
+		<ukr>Відлюдник</ukr>
+		<fra>Ermite</fra>
+		<pln>Pustelnik</pln>
+	</string>
+	<string id="gora_anomalia_name">
+		<rus>Жора Аномалия</rus>
+		<eng>Zhora the Anomaly</eng>
+		<ukr>Жора Аномалія</ukr>
+		<fra>Zhora l'Anomalie</fra>
+		<pln>Żora Anomalia</pln>
+	</string>
+	<string id="starik_name">
+		<rus>Старик</rus>
+		<eng>Graybeard</eng>
+		<ukr>Старий</ukr>
+		<fra>Vieillard</fra>
+		<pln>Starzec</pln>
+	</string>
+	<string id="piligrim_name">
+		<rus>Пилигрим</rus>
+		<eng>Pilgrim</eng>
+		<ukr>Пілігрим</ukr>
+		<fra>Pèlerin</fra>
+		<pln>Pielgrzym</pln>
+	</string>
+	<string id="vitya_golograma_name">
+		<rus>Витя Голограмма</rus>
+		<eng>Vitya the Hologram</eng>
+		<ukr>Вітя Голограма</ukr>
+		<fra>Vitya l'Hologramme</fra>
+		<pln>Witia Hologram</pln>
+	</string>
+	<string id="chimaera_name">
+		<rus>Химера</rus>
+		<eng>Chimera</eng>
+		<ukr>Химера</ukr>
+		<fra>Chimère</fra>
+		<pln>Chimera</pln>
+	</string>
+	<string id="aver_filin_name">
+		<rus>Филин</rus>
+		<eng>Eagle-Owl</eng>
+		<ukr>Сова</ukr>
+		<fra>Hibou</fra>
+		<pln>Puchacz</pln>
+	</string>
+	<string id="kluk_name">
+		<rus>Клык</rus>
+		<eng>Fang</eng>
+		<ukr>Клик</ukr>
+		<fra>Croc</fra>
+		<pln>Kieł</pln>
+	</string>
+	<string id="vitamin_name">
+		<rus>Витамин</rus>
+		<eng>Vitamin</eng>
+		<ukr>Вітамін</ukr>
+		<fra>Vitamine</fra>
+		<pln>Witamina</pln>
+	</string>
+	<string id="pantera_name">
+		<rus>Пантера</rus>
+		<eng>Panther</eng>
+		<ukr>Пантера</ukr>
+		<fra>Panthère</fra>
+		<pln>Pantera</pln>
+	</string>
+	<string id="bodi_pantera1_name">
+		<rus>Дембель</rus>
+		<eng>Demobee</eng>
+		<ukr>Дембель</ukr>
+		<fra>Quille</fra>
+		<pln>Demobil</pln>
+	</string>
+	<string id="bodi_pantera2_name">
+		<rus>Монорох</rus>
+		<eng>Monoroch</eng>
+		<ukr>Монорох</ukr>
+		<fra>Monroe</fra>
+		<pln>Monoroch</pln>
+	</string>
+	<string id="warlab_stalker_oso_name">
+		<rus>О-Сознание Клёнов</rus>
+		<eng>C-Consciousness Klyonov</eng>
+		<ukr>Усвідомлення Кльонов</ukr>
+		<fra>Conscience-C Klyonov</fra>
+		<pln>Świadomość-Z Klonow</pln>
+	</string>
+	<string id="esc_kidalo_name">
+		<rus>Санёк Разбойник</rus>
+		<eng>Sanyok the Brigand</eng>
+		<ukr>Сашко Розбійник</ukr>
+		<fra>Saniok le Brigand</fra>
+		<pln>Sania Rozbójnik</pln>
+	</string>
+	<string id="kolmogor_name">
+		<rus>Колмогор</rus>
+		<eng>Kolmogor</eng>
+		<ukr>Колмогор</ukr>
+		<fra>Kolmogor</fra>
+		<pln>Kołmogor</pln>
+	</string>
+	<string id="boloto_provodnik_name">
+		<rus>Знаток болот</rus>
+		<eng>Swamps Connoisseur</eng>
+		<ukr>Знавець боліт</ukr>
+		<fra>Connaisseur des Marais</fra>
+		<pln>Znawca Bagien</pln>
+	</string>
+	<string id="zemlyk_name">
+		<rus>Земляк</rus>
+		<eng>Compatriot</eng>
+		<ukr>Земляк</ukr>
+		<fra>Compatriote</fra>
+		<pln>Rodak</pln>
+	</string>
+	<string id="udav_name">
+		<rus>Боцман</rus>
+		<eng>Boatswain</eng>
+		<ukr>Боцман</ukr>
+		<fra>Bosco</fra>
+		<pln>Bosman</pln>
+	</string>
+	<string id="andersen_name">
+		<rus>Андерсен</rus>
+		<eng>Andersen</eng>
+		<ukr>Андерсен</ukr>
+		<fra>Andersen</fra>
+		<pln>Andersen</pln>
+	</string>
+	<string id="devchonka_name">
+		<rus>Муха</rus>
+		<eng>Fly</eng>
+		<ukr>Муха</ukr>
+		<fra>Mouche</fra>
+		<pln>Mucha</pln>
+	</string>
+	<string id="odnonogiy_stalk_name">
+		<rus>Максимилиан</rus>
+		<eng>Maximilian</eng>
+		<ukr>Максиміліан</ukr>
+		<fra>Maximilien</fra>
+		<pln>Maksymilian</pln>
+	</string>
+	<string id="svalka_plot_stalk_name">
+		<rus>Хог</rus>
+		<eng>Hog</eng>
+		<ukr>Хог</ukr>
+		<fra>Hog</fra>
+		<pln>===Wieprz</pln>
+	</string>
+	<string id="city_starshoy_name">
+		<rus>Саня Тюменский</rus>
+		<eng>Sanya Tyumensky</eng>
+		<ukr>Саня Тюменський</ukr>
+		<fra>Sania Tioumensky</fra>
+		<pln>Sania Tiumeński</pln>
+	</string>
+	<string id="ariadna_name">
+		<rus>Ариадна</rus>
+		<eng>Ariadne</eng>
+		<ukr>Аріадна</ukr>
+		<fra>Ariane</fra>
+		<pln>Ariadna</pln>
+	</string>
+	<string id="alexandrych_name">
+		<rus>Александрыч</rus>
+		<eng>Alexandrych</eng>
+		<ukr>Александрич</ukr>
+		<fra>Alexandrytch</fra>
+		<pln>Aleksandrycz</pln>
+	</string>
+	<string id="baty_name">
+		<rus>Батя</rus>
+		<eng>Full-bird</eng>
+		<ukr>Батя</ukr>
+		<fra>Daron</fra>
+		<pln>Batia</pln>
+	</string>
+	<string id="bolt_name">
+		<rus>Болт</rus>
+		<eng>Bolt</eng>
+		<ukr>Болт</ukr>
+		<fra>Boulon</fra>
+		<pln>Śruba</pln>
+	</string>
+	<string id="gavr_name">
+		<rus>Гавр</rus>
+		<eng>Gavr</eng>
+		<ukr>Гавр</ukr>
+		<fra>Gavr</fra>
+		<pln>Gawr</pln>
+	</string>
+	<string id="freeman_name">
+		<rus>Фримен</rus>
+		<eng>Freeman</eng>
+		<ukr>Фрімен</ukr>
+		<fra>Freeman</fra>
+		<pln>Freeman</pln>
+	</string>
+	<string id="james_name">
+		<rus>Джеймс</rus>
+		<eng>James</eng>
+		<ukr>Джеймс</ukr>
+		<fra>James</fra>
+		<pln>James</pln>
+	</string>
+	<string id="bland_name">
+		<rus>Бленд</rus>
+		<eng>Blend</eng>
+		<ukr>Бленд</ukr>
+		<fra>Blend</fra>
+		<pln>Blenda</pln>
+	</string>
+	<string id="yakut_agro_name">
+		<rus>Архара</rus>
+		<eng>Arkhara</eng>
+		<ukr>Архара</ukr>
+		<fra>Arkhara</fra>
+		<pln>Arhara</pln>
+	</string>
+	<string id="military_ecolog_agro1_name">
+		<rus>Иващенко</rus>
+		<eng>Ivashchenko</eng>
+		<ukr>Іващенко</ukr>
+		<fra>Ivachtchenko</fra>
+		<pln>Iwaszczenko</pln>
+	</string>
+	<string id="zver_name">
+		<rus>Зверь</rus>
+		<eng>Beast</eng>
+		<ukr>Звір</ukr>
+		<fra>Animal</fra>
+		<pln>Zwierz</pln>
+	</string>
+	<string id="esc_hunter_zaschita_2_name">
+		<rus>Сепатор</rus>
+		<eng>Sepator</eng>
+		<ukr>Сепатор</ukr>
+		<fra>Sepator</fra>
+		<pln>Sepator</pln>
+	</string>
+	<string id="kot_name">
+		<rus>Кот</rus>
+		<eng>Cat</eng>
+		<ukr>Кіт</ukr>
+		<fra>Chat</fra>
+		<pln>Kot</pln>
+	</string>
+	<string id="shadowman_name">
+		<rus>Шедоумен</rus>
+		<eng>Shadowman</eng>
+		<ukr>Шедоумен</ukr>
+		<fra>Shadowman</fra>
+		<pln>Shadowman</pln>
+	</string>
+	<string id="kotobegemot_name">
+		<rus>Котобегемот</rus>
+		<eng>Catbehemoth</eng>
+		<ukr>Котобегемот</ukr>
+		<fra>Chatbéhémoth</fra>
+		<pln>Kotobehemot</pln>
+	</string>
+	<string id="fenrir_name">
+		<rus>Фенрир</rus>
+		<eng>Fenrir</eng>
+		<ukr>Фенрір</ukr>
+		<fra>Fenrir</fra>
+		<pln>Fenrir</pln>
+	</string>
+	<string id="proper70_name">
+		<rus>Пропер 70ый</rus>
+		<eng>Proper70</eng>
+		<ukr>Пропер Сімдесятий</ukr>
+		<fra>Proper70</fra>
+		<pln>Proper</pln>
+	</string>
+	<string id="bubulyka_name">
+		<rus>Сталкер Бубулюка</rus>
+		<eng>Stalker Bubulyuka</eng>
+		<ukr>Сталкер Бубулюка</ukr>
+		<fra>Stalker Boubouliouka</fra>
+		<pln>Stalker Bubuluka</pln>
+	</string>
+	<string id="ludmila_name">
+		<rus>Людмила</rus>
+		<eng>Ludmila</eng>
+		<ukr>Людмила</ukr>
+		<fra>Ludmila</fra>
+		<pln>Ludmiła</pln>
+	</string>
+	<string id="resident_evil_name">
+		<rus>Обитель Зла</rus>
+		<eng>Resident Evil</eng>
+		<ukr>Обитель Зла</ukr>
+		<fra>Resident Evil</fra>
+		<pln>Resident Evil</pln>
+	</string>
+	<string id="wolffrend_name">
+		<rus>Вожак</rus>
+		<eng>Chieftain</eng>
+		<ukr>Ватажок</ukr>
+		<fra>Le Chef</fra>
+		<pln>Watażka</pln>
+	</string>
+	<string id="maria_name">
+		<rus>Мария</rus>
+		<eng>Maria</eng>
+		<ukr>Марія</ukr>
+		<fra>Maria</fra>
+		<pln>Maria</pln>
+	</string>
+	<string id="warlab_sekret_ekolog1_name">
+		<rus>Лентяй</rus>
+		<eng>Bum</eng>
+		<ukr>Ледар</ukr>
+		<fra>Fainéant</fra>
+		<pln>Leniuch</pln>
+	</string>
+	<string id="land_lazaret_stalker1_name">
+		<rus>Циклоп</rus>
+		<eng>Cyclop</eng>
+		<ukr>Циклоп</ukr>
+		<fra>Cyclope</fra>
+		<pln>Cyklop</pln>
+	</string>
+	<string id="val_halfdead">
+		<rus>Монгол</rus>
+		<eng>Mongol</eng>
+		<ukr>Монгол</ukr>
+		<fra>Mongol</fra>
+		<pln>Mongoł</pln>
+	</string>
+	<string id="val_bandit_trader">
+		<rus>Жила</rus>
+		<eng>Skimpy</eng>
+		<ukr>Жила</ukr>
+		<fra>Grigou</fra>
+		<pln>Żyła</pln>
+	</string>
+	<string id="dolgovazyi_name">
+		<rus>Долговязый</rus>
+		<eng>Lanky</eng>
+		<ukr>Довгань</ukr>
+		<fra>Longiligne</fra>
+		<pln>Chudy</pln>
+	</string>
+	<string id="bar_docent_name">
+		<rus>Доцент</rus>
+		<eng>Docent</eng>
+		<ukr>Доцент</ukr>
+		<fra>Maître de conférences</fra>
+		<pln>Docent</pln>
+	</string>
+	<string id="sak_military_stalker">
+		<rus>Прапорщик Шерстюк</rus>
+		<eng>Warrant officer Sherstyuk</eng>
+		<ukr>Прапорщик Шерстюк</ukr>
+		<fra>Adjudant Cherstiouk</fra>
+		<pln>Chorąży Szerstiuk</pln>
+	</string>
+	<string id="val_escort_captive_name">
+		<rus>Макс Любер</rus>
+		<eng>Max Lyuber</eng>
+		<ukr>Макс Любер</ukr>
+		<fra>Max Liouber</fra>
+		<pln>Maks Luber</pln>
+	</string>
+	<string id="esc_akim">
+		<rus>Аким</rus>
+		<eng>Akim</eng>
+		<ukr>Яким</ukr>
+		<fra>Akim</fra>
+		<pln>Akim</pln>
+	</string>
+	<string id="agro_adrenalin">
+		<rus>Адреналин</rus>
+		<eng>Adrenaline</eng>
+		<ukr>Адреналін</ukr>
+		<fra>Adrénaline</fra>
+		<pln>Adrenalina</pln>
+	</string>
+	<string id="arhara_ecolog_guard1_name">
+		<rus>Лёнька Эйнштейн</rus>
+		<eng>Lyonya Einstein</eng>
+		<ukr>Льонька Ейнштейн</ukr>
+		<fra>Lyonya Einstein</fra>
+		<pln>Lońka Einstein</pln>
+	</string>
+	<string id="arhara_ecolog_guard2_name">
+		<rus>Витя Астроном</rus>
+		<eng>Vitya the Astronomer</eng>
+		<ukr>Вітя Астроном</ukr>
+		<fra>Vitya l'Astronome</fra>
+		<pln>Witia Astronom</pln>
+	</string>
+	<string id="korchagin_name">
+		<rus>Корчагин</rus>
+		<eng>Korchagin</eng>
+		<ukr>Корчагін</ukr>
+		<fra>Kortchaguine</fra>
+		<pln>Korczagin</pln>
+	</string>
+	<string id="gorb_name">
+		<rus>Горб</rus>
+		<eng>Hump</eng>
+		<ukr>Горб</ukr>
+		<fra>Bosse</fra>
+		<pln>Garb</pln>
+	</string>
+	<string id="duh_name">
+		<rus>Дух</rus>
+		<eng>Ghost</eng>
+		<ukr>Дух</ukr>
+		<fra>Esprit</fra>
+		<pln>Zjawa</pln>
+	</string>
+	<string id="atp_gonets_name">
+		<rus>Гонец</rus>
+		<eng>Messenger</eng>
+		<ukr>Гонець</ukr>
+		<fra>Messager</fra>
+		<pln>Goniec</pln>
+	</string>
+	<string id="atp_bandit_shnura_name">
+		<rus>Шныра</rus>
+		<eng>Slick</eng>
+		<ukr>Шнира</ukr>
+		<fra>Fouineur</fra>
+		<pln>Sznyra</pln>
+	</string>
+	<string id="zvezdochet_name">
+		<rus>Звездочёт</rus>
+		<eng>Skygazer</eng>
+		<ukr>Звіздар</ukr>
+		<fra>Astrologue</fra>
+		<pln>Astronom</pln>
+	</string>
+	<string id="arhara_atp_voyka_name">
+		<rus>Прощайсолянкин</rus>
+		<eng>Proschaysolyankin</eng>
+		<ukr>Прощавайсолянкін</ukr>
+		<fra>Prochaysolyankine</fra>
+		<pln>Soliankin</pln>
+	</string>
+	<string id="shade_monolit_name">
+		<rus>Тень Монолита</rus>
+		<eng>Shadow of the Monolith</eng>
+		<ukr>Тінь Моноліту</ukr>
+		<fra>Ombre du Monolithe</fra>
+		<pln>Cień Monolitu</pln>
+	</string>
+	<string id="chasovoi_monolit_name">
+		<rus>Часовой</rus>
+		<eng>Watchman</eng>
+		<ukr>Вартовий</ukr>
+		<fra>Veilleur</fra>
+		<pln>Wartownik</pln>
+	</string>
+	<string id="dead_mono_labirint_name">
+		<rus>Нежить</rus>
+		<eng>Undead</eng>
+		<ukr>Нежить</ukr>
+		<fra>Mort-vivant</fra>
+		<pln>Nieumarły</pln>
+	</string>
+	<string id="kostolom_name">
+		<rus>Костолом</rus>
+		<eng>Goon</eng>
+		<ukr>Костолом</ukr>
+		<fra>Écraseur</fra>
+		<pln>Łamignat</pln>
+	</string>
+	<string id="pauk_name">
+		<rus>Паук</rus>
+		<eng>Spider</eng>
+		<ukr>Павук</ukr>
+		<fra>Araignée</fra>
+		<pln>Pająk</pln>
+	</string>
+	<string id="kostylnoga_name">
+		<rus>Сержант Костыльнога</rus>
+		<eng>Sergeant Crutchleg</eng>
+		<ukr>Сержант Костильнога</ukr>
+		<fra>Sergent Béquillejambe</fra>
+		<pln>Sierżant Kostylnoga</pln>
+	</string>
+	<string id="boss_name">
+		<rus>Босс</rus>
+		<eng>Boss</eng>
+		<ukr>Бос</ukr>
+		<fra>Boss</fra>
+		<pln>Boss</pln>
+	</string>
+	<string id="village_kapatel1_name">
+		<rus>Прапорщик Сидоренко</rus>
+		<eng>Warrant officer Sidorenko</eng>
+		<ukr>Прапорщик Сидоренко</ukr>
+		<fra>Adjudant Sidorenko</fra>
+		<pln>Chorąży Sidorenko</pln>
+	</string>
+	<string id="village_xolm_kapatel1_name">
+		<rus>Лейтенант Ветроплюев</rus>
+		<eng>Lieutenant Whirlybirdson</eng>
+		<ukr>Лейтенант Вітроплюєв</ukr>
+		<fra>Lieutenant Hélico</fra>
+		<pln>Porucznik Wiatroplujew</pln>
+	</string>
+	<string id="village_xolm_kapatel2_name">
+		<rus>Сержант Мародёров</rus>
+		<eng>Sergeant Prowler</eng>
+		<ukr>Сержант Мародеров</ukr>
+		<fra>Sergent Pillard</fra>
+		<pln>Sierżant Maruderow</pln>
+	</string>
+	<string id="village_xolm_kapatel4_name">
+		<rus>Лейтенант Борода</rus>
+		<eng>Lieutenant Whiskers</eng>
+		<ukr>Лейтенант Борода</ukr>
+		<fra>Lieutenant Barbu</fra>
+		<pln>Porucznik Broda</pln>
+	</string>
+	<string id="village_attaks_komander_name">
+		<rus>Капитан Гнус</rus>
+		<eng>Captain Gnats</eng>
+		<ukr>Капітан Гнус</ukr>
+		<fra>Capitaine Vilain</fra>
+		<pln>Kapitan Gnus</pln>
+	</string>
+	<string id="sedoy_name">
+		<rus>Седой</rus>
+		<eng>Grizzled</eng>
+		<ukr>Сивий</ukr>
+		<fra>Grison</fra>
+		<pln>Szary</pln>
+	</string>
+	<string id="frits_name">
+		<rus>Фриц</rus>
+		<eng>Fritz</eng>
+		<ukr>Фріц</ukr>
+		<fra>Fritz</fra>
+		<pln>Fryc</pln>
+	</string>
+	<string id="solvador_name">
+		<rus>Сальвадор</rus>
+		<eng>Salvador</eng>
+		<ukr>Сальвадор</ukr>
+		<fra>Salvador</fra>
+		<pln>Salwador</pln>
+	</string>
+	<string id="gener_dok_stalk2_name">
+		<rus>Некто</rus>
+		<eng>John Doe</eng>
+		<ukr>Хтось</ukr>
+		<fra>Quidam</fra>
+		<pln>Ktoś</pln>
+	</string>
+	<string id="black_dok_name">
+		<rus>Чёрный Доктор</rus>
+		<eng>Black Doctor</eng>
+		<ukr>Чорний Доктор</ukr>
+		<fra>Docteur Noir</fra>
+		<pln>Czarny Doktor</pln>
+	</string>
+	<string id="esc_trupak_antenna_name">
+		<rus>Федя Ловиглюк</rus>
+		<eng>Fedya the Acid Tripper</eng>
+		<ukr>Федя Ловиглюк</ukr>
+		<fra>Fedya le Défoncé</fra>
+		<pln>Fiedia Zbugowany</pln>
+	</string>
+	<string id="sapsan_name">
+		<rus>Сапсан</rus>
+		<eng>Sapsan</eng>
+		<ukr>Сапсан</ukr>
+		<fra>Sapsan</fra>
+		<pln>Sapsan</pln>
+	</string>
+	<string id="trupak_vert_krusha_name">
+		<rus>Поручик Голицын</rus>
+		<eng>Poruchik Golitsyn</eng>
+		<ukr>Поручик Голіцин</ukr>
+		<fra>Lieutenant Golitsyn</fra>
+		<pln>Porucznik Golicyn</pln>
+	</string>
+	<string id="pantera_father_name">
+		<rus>Отец Пантеры</rus>
+		<eng>Panther's father</eng>
+		<ukr>Батько Пантери</ukr>
+		<fra>Père de Panthère</fra>
+		<pln>Ojciec Pantery</pln>
+	</string>
+	<string id="valerius_name">
+		<rus>Валериус</rus>
+		<eng>Valerius</eng>
+		<ukr>Валеріус</ukr>
+		<fra>Valérius</fra>
+		<pln>Walerius</pln>
+	</string>
+	<string id="hos_black_niz_left_name">
+		<rus>Сталкер Нест</rus>
+		<eng>Stalker Nest</eng>
+		<ukr>Сталкер Нест</ukr>
+		<fra>Stalker Nest</fra>
+		<pln>Stalker Nest</pln>
+	</string>
+	<string id="esc_hunter_zaschita_1_name">
+		<rus>Корн</rus>
+		<eng>Korn</eng>
+		<ukr>Корн</ukr>
+		<fra>Korn</fra>
+		<pln>Korn</pln>
+	</string>
+	<string id="esc_hunter_zaschita_3_name">
+		<rus>Кальтер</rus>
+		<eng>Kalter</eng>
+		<ukr>Кальтер</ukr>
+		<fra>Calter</fra>
+		<pln>Kalter</pln>
+	</string>
+	<string id="molniy_name">
+		<rus>Молния</rus>
+		<eng>Lightning</eng>
+		<ukr>Блискавка</ukr>
+		<fra>Foudre</fra>
+		<pln>Błyskawica</pln>
+	</string>
+	<string id="strannik_name">
+		<rus>Странник</rus>
+		<eng>Wanderer</eng>
+		<ukr>Мандрівник</ukr>
+		<fra>Voyageur</fra>
+		<pln>Wędrowiec</pln>
+	</string>
+	<string id="stalk_semetskiy_name">
+		<rus>Юрий Семецкий</rus>
+		<eng>Yuri Semetsky</eng>
+		<ukr>Юрій Семецький</ukr>
+		<fra>Yuri Semetsky</fra>
+		<pln>Jurij Siemiecki</pln>
+	</string>
+	<string id="radist_name">
+		<rus>Корн</rus>
+		<eng>Korn</eng>
+		<ukr>Корн</ukr>
+		<fra>Korn</fra>
+		<pln>Korn</pln>
+	</string>
+	<string id="chernomor_name">
+		<rus>Черномор</rus>
+		<eng>Chernomor</eng>
+		<ukr>Чорномор</ukr>
+		<fra>Tchernomor</fra>
+		<pln>Czarnomor</pln>
+	</string>
+	<string id="piyan_kapitan_name">
+		<rus>Капитан Сраламазалынский</rus>
+		<eng>Captain Botcher</eng>
+		<ukr>Капітан Сравмазавський</ukr>
+		<fra>Capitaine Sralamazalynsky</fra>
+		<pln>Kapitan Sralamazgaliński</pln>
+	</string>
+	<string id="esc_stalk_shuher_name">
+		<rus>Шухер</rus>
+		<eng>Scram</eng>
+		<ukr>Шухер</ukr>
+		<fra>Pétard</fra>
+		<pln>Szacher</pln>
+	</string>
+	<string id="stalker_kisluy_name">
+		<rus>Кислый</rus>
+		<eng>Sullen</eng>
+		<ukr>Кислий</ukr>
+		<fra>Aigre</fra>
+		<pln>Kwaśny</pln>
+	</string>
+	<string id="aver_zlobnuy_name">
+		<rus>Злобный</rus>
+		<eng>Vicious</eng>
+		<ukr>Злісний</ukr>
+		<fra>Malicieux</fra>
+		<pln>Złośliwy</pln>
+	</string>
+	<string id="parfumer_name">
+		<rus>Парфюмер</rus>
+		<eng>Perfumer</eng>
+		<ukr>Парфюмер</ukr>
+		<fra>Parfumeur</fra>
+		<pln>Perfumiarz</pln>
+	</string>
+	<string id="tema_likvidator_name">
+		<rus>Тёма Ликвидатор</rus>
+		<eng>Tyoma the Liquidator</eng>
+		<ukr>Тьома Ліквідатор</ukr>
+		<fra>Tioma le Liquidateur</fra>
+		<pln>Tioma Likwidator</pln>
+	</string>
+	<string id="dozor_stalk_name">
+		<rus>Хаммер</rus>
+		<eng>Hammer</eng>
+		<ukr>Хаммер</ukr>
+		<fra>Hammer</fra>
+		<pln>Hammer</pln>
+	</string>
+	<string id="kontrol_stalk_name">
+		<rus>Норман</rus>
+		<eng>Norman</eng>
+		<ukr>Норман</ukr>
+		<fra>Norman</fra>
+		<pln>Norman</pln>
+	</string>
+	<string id="obmorok_name">
+		<rus>Обморок</rus>
+		<eng>Faint</eng>
+		<ukr>Непритомність</ukr>
+		<fra>Pâmoison</fra>
+		<pln>Omdlały</pln>
+	</string>
+	<string id="bodyguard_obmorok_name">
+		<rus>Янис</rus>
+		<eng>Janis</eng>
+		<ukr>Яніс</ukr>
+		<fra>Janis</fra>
+		<pln>Janis</pln>
+	</string>
+	<string id="dcity_nach_oxran_name">
+		<rus>Начальник охраны площади</rus>
+		<eng>Plaza securiry chief</eng>
+		<ukr>Начальник охорони площі</ukr>
+		<fra>Chef de la garde de la place</fra>
+		<pln>Naczelnik ochrony placu</pln>
+	</string>
+	<string id="duda_name">
+		<rus>Дуда</rus>
+		<eng>Duda</eng>
+		<ukr>Дуда</ukr>
+		<fra>Douda</fra>
+		<pln>Duda</pln>
+	</string>
+	<string id="crazy_doctor_name">
+		<rus>Сумасшедший доктор</rus>
+		<eng>Crazy doctor</eng>
+		<ukr>Божевільний доктор</ukr>
+		<fra>Docteur fou</fra>
+		<pln>Szalony doktor</pln>
+	</string>
+	<string id="leshyi_name">
+		<rus>Леший</rus>
+		<eng>Leshy</eng>
+		<ukr>Лісовик</ukr>
+		<fra>Léchy</fra>
+		<pln>Leszy</pln>
+	</string>
+	<string id="sledopyt_name">
+		<rus>Следопыт</rus>
+		<eng>Pathfinder</eng>
+		<ukr>Слідопит</ukr>
+		<fra>Pisteur</fra>
+		<pln>Tropiciel</pln>
+	</string>
+	<string id="partizan_name">
+		<rus>Партизан</rus>
+		<eng>Partisan</eng>
+		<ukr>Партизан</ukr>
+		<fra>Partisan</fra>
+		<pln>Partyzant</pln>
+	</string>
+	<string id="phantom_name">
+		<rus>Фантом</rus>
+		<eng>Phantom</eng>
+		<ukr>Фантом</ukr>
+		<fra>Fantôme</fra>
+		<pln>Fantom</pln>
+	</string>
+	<string id="bw_killers_name">
+		<rus>Наёмник из Блэквотер</rus>
+		<eng>Blackwater mercenary</eng>
+		<ukr>Найманець з "Блеквотер"</ukr>
+		<fra>Mercenaire de Blackwater</fra>
+		<pln>Najemnik z "Blackwater"</pln>
+	</string>
+	<string id="bw_killers_commander_name">
+		<rus>Командир Блэквотер</rus>
+		<eng>"Blackwater" commander</eng>
+		<ukr>Командир "Блеквотер"</ukr>
+		<fra>Commandant de "Blackwater"</fra>
+		<pln>Dowódca "Blackwater"</pln>
+	</string>
+	<string id="bw_snipers_name">
+		<rus>Снайпер из Блэквотер</rus>
+		<eng>Blackwater sniper</eng>
+		<ukr>Снайпер з Блеквотер</ukr>
+		<fra>Blackwater Sniper</fra>
+		<pln>Snajper z Blackwater</pln>
+	</string>
+	<string id="klesh_name">
+		<rus>Клещ</rus>
+		<eng>Tick</eng>
+		<ukr>Кліщ</ukr>
+		<fra>Acare</fra>
+		<pln>Kleszcz</pln>
+	</string>
+	<string id="hameleon_name">
+		<rus>Хамелеон</rus>
+		<eng>Chameleon</eng>
+		<ukr>Хамелеон</ukr>
+		<fra>Caméléon</fra>
+		<pln>Kameleon</pln>
+	</string>
+	<string id="baron_name">
+		<rus>Барон</rus>
+		<eng>Baron</eng>
+		<ukr>Барон</ukr>
+		<fra>Baron</fra>
+		<pln>Baron</pln>
+	</string>
+	<string id="kogot_name">
+		<rus>Коготь</rus>
+		<eng>Claw</eng>
+		<ukr>Кіготь</ukr>
+		<fra>Griffe</fra>
+		<pln>Pazur</pln>
+	</string>
+	<string id="hlist_name">
+		<rus>Хлыст</rus>
+		<eng>Whip</eng>
+		<ukr>Батіг</ukr>
+		<fra>Cravache</fra>
+		<pln>Pejcz</pln>
+	</string>
+	<string id="chudak_name">
+		<rus>Чудак</rus>
+		<eng>Crank</eng>
+		<ukr>Дивак</ukr>
+		<fra>Jojo</fra>
+		<pln>Cudak</pln>
+	</string>
+	<string id="masha_name">
+		<rus>Маша</rus>
+		<eng>Masha</eng>
+		<ukr>Маша</ukr>
+		<fra>Macha</fra>
+		<pln>Masza</pln>
+	</string>
+	<string id="dasha_name">
+		<rus>Даша</rus>
+		<eng>Dasha</eng>
+		<ukr>Даша</ukr>
+		<fra>Dacha</fra>
+		<pln>Dasza</pln>
+	</string>
+	<string id="pes_name">
+		<rus>Пёс</rus>
+		<eng>Mongrel</eng>
+		<ukr>Пес</ukr>
+		<fra>Clébard</fra>
+		<pln>Pies</pln>
+	</string>
+	<string id="gonta_name">
+		<rus>Перегар</rus>
+		<eng>Booze Breath</eng>
+		<ukr>Перегар</ukr>
+		<fra>Déboire</fra>
+		<pln>Palacz</pln>
+	</string>
+	<string id="gluhar_name">
+		<rus>Гризли</rus>
+		<eng>Grizzly</eng>
+		<ukr>Грізлі</ukr>
+		<fra>Grizzli</fra>
+		<pln>Grizzly</pln>
+	</string>
+	<string id="medved_name">
+		<rus>Медведь</rus>
+		<eng>Bear</eng>
+		<ukr>Ведмідь</ukr>
+		<fra>Ours</fra>
+		<pln>Niedźwiedź</pln>
+	</string>
+	<string id="elbrus_name">
+		<rus>Эльбрус</rus>
+		<eng>Elbrus</eng>
+		<ukr>Ельбрус</ukr>
+		<fra>Elbrous</fra>
+		<pln>Elbrus</pln>
+	</string>
+	<string id="locman_name">
+		<rus>Чарси</rus>
+		<eng>Charsy</eng>
+		<ukr>Чарсі</ukr>
+		<fra>Charsy</fra>
+		<pln>Charisse</pln>
+	</string>
+	<string id="gromoboi_name">
+		<rus>Громобой</rus>
+		<eng>Stormbreaker</eng>
+		<ukr>Громобій</ukr>
+		<fra>Stormbreaker</fra>
+		<pln>Grom</pln>
+	</string>
+	<string id="grif_name">
+		<rus>Гриф</rus>
+		<eng>Vulture</eng>
+		<ukr>Гриф</ukr>
+		<fra>Vautour</fra>
+		<pln>Gryf</pln>
+	</string>
+	<string id="zat_doc_name">
+		<rus>Доктор Новиков</rus>
+		<eng>Doctor Novikov</eng>
+		<ukr>Доктор Новіков</ukr>
+		<fra>Docteur Novikov</fra>
+		<pln>Doktor Nowikow</pln>
+	</string>
+	<string id="slavka_name">
+		<rus>Славка</rus>
+		<eng>Slavka</eng>
+		<ukr>Славко</ukr>
+		<fra>Slavka</fra>
+		<pln>Sławka</pln>
+	</string>
+	<string id="slavka_volna_name">
+		<rus>Славка Антизомбин</rus>
+		<eng>Slavka the Antizombine</eng>
+		<ukr>Славко Антизомбін</ukr>
+		<fra>Slavka l'Antizombine</fra>
+		<pln>Sławka Antyzombin</pln>
+	</string>
+	<string id="saper_name">
+		<rus>Генка Сапёр</rus>
+		<eng>Genka the Sapper</eng>
+		<ukr>Женя Сапер</ukr>
+		<fra>Genka le Sapeur</fra>
+		<pln>Genia Saper</pln>
+	</string>
+	<string id="kruk_name">
+		<rus>Крюк</rus>
+		<eng>Hook</eng>
+		<ukr>Гак</ukr>
+		<fra>Crochet</fra>
+		<pln>Hak</pln>
+	</string>
+	<string id="viking_name">
+		<rus>Викинг</rus>
+		<eng>Viking </eng>
+		<ukr>Вікінг</ukr>
+		<fra>Viking</fra>
+		<pln>Wiking</pln>
+	</string>
+	<string id="golem_name">
+		<rus>Голем</rus>
+		<eng>Golem</eng>
+		<ukr>Голем</ukr>
+		<fra>Golem</fra>
+		<pln>Golem</pln>
+	</string>
+	<string id="major_akulov_name">
+		<rus>Майор Акулов</rus>
+		<eng>Major Akulov</eng>
+		<ukr>Майор Акулов</ukr>
+		<fra>Major Akoulov</fra>
+		<pln>Major Akułow</pln>
+	</string>
+	<string id="capitan_filatov_name">
+		<rus>Капитан Филатов</rus>
+		<eng>Captain Filatov</eng>
+		<ukr>Капітан Філатов</ukr>
+		<fra>Capitaine Filatov</fra>
+		<pln>Kapitan Fiłatow</pln>
+	</string>
+	<string id="hmuryi_name">
+		<rus>Хмурый</rus>
+		<eng>Murky</eng>
+		<ukr>Похмурий</ukr>
+		<fra>Bourru</fra>
+		<pln>Chmurny</pln>
+	</string>
+	<string id="tank_zasada_name">
+		<rus>Соколиный Глаз</rus>
+		<eng>Hawkeye</eng>
+		<ukr>Соколине Око</ukr>
+		<fra>Œil-de-Faucon</fra>
+		<pln>Sokole Oko</pln>
+	</string>
+	<string id="journalist_name">
+		<rus>Сеня Журналист</rus>
+		<eng>Senya the Journalist</eng>
+		<ukr>Сеня Журналіст</ukr>
+		<fra>Senia le Journaliste</fra>
+		<pln>Sienia Dziennikarz</pln>
+	</string>
+	<string id="hor_name">
+		<rus>Хорь</rus>
+		<eng>Polecat</eng>
+		<ukr>Тхір</ukr>
+		<fra>Putois</fra>
+		<pln>Tchórz</pln>
+	</string>
+	<string id="koiot_name">
+		<rus>Койот</rus>
+		<eng>Coyote</eng>
+		<ukr>Койот</ukr>
+		<fra>Coyote</fra>
+		<pln>Kojot</pln>
+	</string>
+	<string id="predator_name">
+		<rus>...</rus>
+		<eng>...</eng>
+		<ukr>...</ukr>
+		<fra>...</fra>
+		<pln>...</pln>
+	</string>
+	<string id="trofim_name">
+		<rus>Трофим</rus>
+		<eng>Trofim</eng>
+		<ukr>Трохим</ukr>
+		<fra>Trofim</fra>
+		<pln>Trofim</pln>
+	</string>
+	<string id="varg_name">
+		<rus>Варг</rus>
+		<eng>Warg</eng>
+		<ukr>Варг</ukr>
+		<fra>Warg</fra>
+		<pln>Warg</pln>
+	</string>
+	<string id="greshnik_name">
+		<rus>Грешник</rus>
+		<eng>Sinner</eng>
+		<ukr>Грішник</ukr>
+		<fra>Pécheur</fra>
+		<pln>Grzesznik</pln>
+	</string>
+	<string id="tihon_name">
+		<rus>Тихон Соловей</rus>
+		<eng>Tikhon the Nightingale</eng>
+		<ukr>Тихон Соловей</ukr>
+		<fra>Tikhon le Rossignol</fra>
+		<pln>Tichon Sołowiej</pln>
+	</string>
+	<string id="laperuz_name">
+		<rus>Лаперуз</rus>
+		<eng>Laperouse</eng>
+		<ukr>Лаперуз</ukr>
+		<fra>Lapérouse</fra>
+		<pln>Laperus</pln>
+	</string>
+	<string id="ystinov_name">
+		<rus>Профессор Устинов</rus>
+		<eng>Professor Ustinov</eng>
+		<ukr>Професор Устинов</ukr>
+		<fra>Professeur Ustinov</fra>
+		<pln>Profesor Ustinow</pln>
+	</string>
+	<string id="vzn_stalker_kontrik_name">
+		<rus>Сталкер Петров</rus>
+		<eng>Stalker Petrov</eng>
+		<ukr>Сталкер Петров</ukr>
+		<fra>Stalker Petrov</fra>
+		<pln>Stalker Pietrow</pln>
+	</string>
+	<string id="kapitan_agro_name">
+		<rus>Капитан с Агропрома</rus>
+		<eng>Captain from Agroprom</eng>
+		<ukr>Капітан з Агропрома</ukr>
+		<fra>Capitaine d'Agroprom</fra>
+		<pln>Kapitan z Agropromu</pln>
+	</string>
+	<string id="gar_stalker_flame_quest_name">
+		<rus>Лёха Тамбовский</rus>
+		<eng>Lyokha Tambovsky</eng>
+		<ukr>Льоха Тамбовський</ukr>
+		<fra>Lyokha Tambovsky</fra>
+		<pln>Lech Tambowski</pln>
+	</string>
+	<string id="sysh_name">
+		<rus>Сыч</rus>
+		<eng>Owl</eng>
+		<ukr>Сич</ukr>
+		<fra>Chevêche</fra>
+		<pln>Sowa</pln>
+	</string>
+	<string id="kosoi_name">
+		<rus>Косой</rus>
+		<eng>Squint</eng>
+		<ukr>Косий</ukr>
+		<fra>Bigleur</fra>
+		<pln>Krzywy</pln>
+	</string>
+	<string id="zondr_name">
+		<rus>Зондр</rus>
+		<eng>Sonder</eng>
+		<ukr>Зондр</ukr>
+		<fra>Sonder</fra>
+		<pln>Zonder</pln>
+	</string>
+	<string id="banderos_name">
+		<rus>Саня Бандерос</rus>
+		<eng>Sanya Banderos</eng>
+		<ukr>Саня Бандерос</ukr>
+		<fra>Sania Banderos</fra>
+		<pln>Sania Banderos</pln>
+	</string>
+	<string id="dimorin_name">
+		<rus>Дед</rus>
+		<eng>Grandfather</eng>
+		<ukr>Дід</ukr>
+		<fra>Aïeul</fra>
+		<pln>Dziad</pln>
+	</string>
+	<string id="n6260_name">
+		<rus>Дрыка</rus>
+		<eng>Dryka</eng>
+		<ukr>Дрика</ukr>
+		<fra>Dryka</fra>
+		<pln>Dryka</pln>
+	</string>
+	<string id="vergas_name">
+		<rus>Вовка Тирекс</rus>
+		<eng>Vovka the T-Rex</eng>
+		<ukr>Вовка Тірекс</ukr>
+		<fra>Vovka le T-Rex</fra>
+		<pln>Wowka T-Rex</pln>
+	</string>
+	<string id="tirex_name">
+		<rus>АРФ-Мен</rus>
+		<eng>ARF-man</eng>
+		<ukr>АРФ-Мен</ukr>
+		<fra>ARF-Man</fra>
+		<pln>ARF-Man</pln>
+	</string>
+	<string id="wawka_name">
+		<rus>Джордж</rus>
+		<eng>George</eng>
+		<ukr>Джордж</ukr>
+		<fra>George</fra>
+		<pln>George</pln>
+	</string>
+	<string id="dead_military_esc_name">
+		<rus>Андрей</rus>
+		<eng>Andrey</eng>
+		<ukr>Андрій</ukr>
+		<fra>Andreï</fra>
+		<pln>Andriej</pln>
+	</string>
+	<string id="siv_name">
+		<rus>Сивый</rus>
+		<eng>Ashen</eng>
+		<ukr>Сивочолий</ukr>
+		<fra>Rubican</fra>
+		<pln>Siwy</pln>
+	</string>
+	<string id="ecolog_wound_bunker_name">
+		<rus>Ерофеев</rus>
+		<eng>Erofeyev</eng>
+		<ukr>Єрофєєв</ukr>
+		<fra>Erofeïev</fra>
+		<pln>Jerofiejew</pln>
+	</string>
+	<string id="tamaz_name">
+		<rus>Тамаз</rus>
+		<eng>Tamaz</eng>
+		<ukr>Тамаз</ukr>
+		<fra>Tamaz</fra>
+		<pln>Tamaz</pln>
+	</string>
+	<string id="saha_name">
+		<rus>Сохатый</rus>
+		<eng>Elk</eng>
+		<ukr>Сохатий</ukr>
+		<fra>Élan</fra>
+		<pln>Sochaty</pln>
+	</string>
+	<string id="kashei_name">
+		<rus>Кощей</rus>
+		<eng>Koshchei</eng>
+		<ukr>Кощей</ukr>
+		<fra>Kochtcheï</fra>
+		<pln>Kościej</pln>
+	</string>
+	<string id="brat_luis_name">
+		<rus>Брат Луис</rus>
+		<eng>Brother Luis</eng>
+		<ukr>Брат Луїс</ukr>
+		<fra>Frère Louis</fra>
+		<pln>Brat Louis</pln>
+	</string>
+	<string id="francuz_name">
+		<rus>Француз</rus>
+		<eng>Frenchman</eng>
+		<ukr>Француз</ukr>
+		<fra>Franchouillard</fra>
+		<pln>Francuz</pln>
+	</string>
+	<string id="xalyava_name">
+		<rus>Халява</rus>
+		<eng>Freebie</eng>
+		<ukr>Халява</ukr>
+		<fra>Resquilleur</fra>
+		<pln>Chalawa</pln>
+	</string>
+	<string id="chuk_name">
+		<rus>Чук</rus>
+		<eng>Chuk</eng>
+		<ukr>Чук</ukr>
+		<fra>Tchouk</fra>
+		<pln>Pat</pln>
+	</string>
+	<string id="gek_name">
+		<rus>Гек</rus>
+		<eng>Gek</eng>
+		<ukr>Гек</ukr>
+		<fra>Guek</fra>
+		<pln>Pataszon</pln>
+	</string>
+	<string id="djoker_name">
+		<rus>Джокер</rus>
+		<eng>Joker</eng>
+		<ukr>Джокер</ukr>
+		<fra>Joker</fra>
+		<pln>Dżoker</pln>
+	</string>
+	<string id="gambit_name">
+		<rus>Гамбит</rus>
+		<eng>Gambit</eng>
+		<ukr>Гамбіт</ukr>
+		<fra>Gambit</fra>
+		<pln>Gambit</pln>
+	</string>
+	<string id="scromnyi_name">
+		<rus>Скромный</rus>
+		<eng>Humble</eng>
+		<ukr>Скромний</ukr>
+		<fra>Discret</fra>
+		<pln>Skromny</pln>
+	</string>
+	<string id="rabi_name">
+		<rus>Рабинович</rus>
+		<eng>Rabinovich</eng>
+		<ukr>Рабинович</ukr>
+		<fra>Rabinovitch</fra>
+		<pln>Rabinowicz</pln>
+	</string>
+	<string id="mitya_name">
+		<rus>Митяй</rus>
+		<eng>Mityai</eng>
+		<ukr>Митяй</ukr>
+		<fra>Mityay</fra>
+		<pln>Mitaj</pln>
+	</string>
+	<string id="forest_wound_name">
+		<rus>Денис</rus>
+		<eng>Denis</eng>
+		<ukr>Денис</ukr>
+		<fra>Denis</fra>
+		<pln>Denis</pln>
+	</string>
+	<string id="izverg_name">
+		<rus>Изверг</rus>
+		<eng>Crudface</eng>
+		<ukr>Нелюд</ukr>
+		<fra>Monstre</fra>
+		<pln>Potwór</pln>
+	</string>
+	<string id="girl_zombied_name">
+		<rus>Манька Облигация</rus>
+		<eng>Manka the Bond</eng>
+		<ukr>Манька Облігація</ukr>
+		<fra>Manka l'Obligation</fra>
+		<pln>===Mańka</pln>
+	</string>
+	<string id="girl_zombied_1_name">
+		<rus>Жужа Зажмуренная</rus>
+		<eng>Zhuzha the Stiff</eng>
+		<ukr>Жужа Зажмурена</ukr>
+		<fra>Zhouzha le Macab</fra>
+		<pln>===Zuza</pln>
+	</string>
+	<string id="girl_zombied_2_name">
+		<rus>Нинка Картинка</rus>
+		<eng>Ninka the Pin-up</eng>
+		<ukr>Нінка Картинка</ukr>
+		<fra>Ninka la Fille Canon</fra>
+		<pln>===Ninka</pln>
+	</string>
+	<string id="girl_zombied_3_name">
+		<rus>Чужая</rus>
+		<eng>Alien</eng>
+		<ukr>Чужа</ukr>
+		<fra>Étrangère</fra>
+		<pln>===Marusia</pln>
+	</string>
+	<string id="girl_zombied_4_name">
+		<rus>Илонка Мятая</rus>
+		<eng>Ilonka the Felt Up</eng>
+		<ukr>Ілонка М'ята</ukr>
+		<fra>Ilonka la Paluché</fra>
+		<pln>===Ilonka</pln>
+	</string>
+	<string id="girl_zombied_5_name">
+		<rus>Ритка Беспредельщица</rus>
+		<eng>Ritka the Griefer</eng>
+		<ukr>Ритка Беспредельщиця</ukr>
+		<fra>Ritka la Débridée</fra>
+		<pln>===Ritka</pln>
+	</string>
+	<string id="girl_zombied_6_name">
+		<rus>Дуська Клофелинщица</rus>
+		<eng>Dusska the Drink Spiker</eng>
+		<ukr>Параска Клофелінщиця</ukr>
+		<fra>Dousska la Clonidine</fra>
+		<pln>===Duszka</pln>
+	</string>
+	<string id="girl_zombied_7_name">
+		<rus>Нюрка Бармалеиха</rus>
+		<eng>Nyurka the Bogey Woman</eng>
+		<ukr>Нюрка Бармалеїха</ukr>
+		<fra>Nurka le Croquemitaine</fra>
+		<pln>===Kasia</pln>
+	</string>
+	<string id="girl_zombied_8_name">
+		<rus>Валька Попудрю Носик</rus>
+		<eng>Valka the Nose Powderer</eng>
+		<ukr>Валька Попудрю Носик</ukr>
+		<fra>Valka la Poudreuse de nez</fra>
+		<pln>===Wala</pln>
+	</string>
+	<string id="girl_zombied_9_name">
+		<rus>Светка Ведро-со-свистом</rus>
+		<eng>Svetka the Town Bike</eng>
+		<ukr>Свєтка Відро-зі-свистом</ukr>
+		<fra>Svetka la Baisodrome</fra>
+		<pln>===Swietka</pln>
+	</string>
+	<string id="girl_zombied_10_name">
+		<rus>Валька Бревно-Бревном</rus>
+		<eng>Valka the Cadaverous Lay</eng>
+		<ukr>Валька Колода-Колодою</ukr>
+		<fra>Valka le Rondin à troncher</fra>
+		<pln>===Misia</pln>
+	</string>
+	<string id="girl_zombied_11_name">
+		<rus>Полинка Косячница</rus>
+		<eng>Polinka the Fuckup</eng>
+		<ukr>Павлінка Косячниця</ukr>
+		<fra>Polinka la Loupeuse</fra>
+		<pln>===Polina</pln>
+	</string>
+	<string id="girl_zombied_12_name">
+		<rus>Юлька Обломщица</rus>
+		<eng>Yulka the Buzzkill</eng>
+		<ukr>Юлька Обломщиця</ukr>
+		<fra>Julka la Doubleuse</fra>
+		<pln>===Julka</pln>
+	</string>
+	<string id="girl_zombied_13_name">
+		<rus>Гулька Косая</rus>
+		<eng>Gulka the Cockeyed</eng>
+		<ukr>Гулька Коса</ukr>
+		<fra>Goulka la Bigleuse</fra>
+		<pln>===Anastazja</pln>
+	</string>
+	<string id="girl_zombied_14_name">
+		<rus>Ульянка Мутная</rus>
+		<eng>Ulianka the Sketchy</eng>
+		<ukr>Ульянка Мутна</ukr>
+		<fra>Ulyanka la Louche</fra>
+		<pln>===Ksenia</pln>
+	</string>
+	<string id="zaton_general_name">
+		<rus>Группенфюрер Пауль Хауссер</rus>
+		<eng>Gruppenführer Paul Hausser</eng>
+		<ukr>Группенфюрер Пауль Хауссер</ukr>
+		<fra>Gruppenführer Paul Hausser</fra>
+		<pln>Gruppenführer Paul Hausser</pln>
+	</string>
+	<string id="zaton_oficer_vittman_name">
+		<rus>Гауптштурмфюрер Михаэль Виттман</rus>
+		<eng>Hauptsturmführer Michael Wittman</eng>
+		<ukr>Гауптштурмфюрер Міхаель Віттман</ukr>
+		<fra>Hauptsturmführer Michael Wittmann</fra>
+		<pln>Hauptsturmführer Michael Wittmann</pln>
+	</string>
+	<string id="zaton_oficer_hirt_name">
+		<rus>Гауптштурмфюрер Август Хирт</rus>
+		<eng>Hauptsturmführer Augusto Hirt</eng>
+		<ukr>Гауптштурмфюрер Август Хірт</ukr>
+		<fra>Hauptsturmführer August Hirt</fra>
+		<pln>Hauptsturmführer August Hirt</pln>
+	</string>
+	<string id="zaton_oficer_mengele_name">
+		<rus>Гауптштурмфюрер Йозеф Менгеле</rus>
+		<eng>Hauptsturmführer Joseph Mengele</eng>
+		<ukr>Гауптштурмфюрер Йозеф Менгеле</ukr>
+		<fra>Hauptsturmführer Josef Mengele</fra>
+		<pln>Hauptsturmführer Josef Mengele</pln>
+	</string>
+	<string id="buusty_team_2_name">
+		<rus>ВДВ-5549</rus>
+		<eng>VDV-5549</eng>
+		<ukr>ВДВ-5549</ukr>
+		<fra>VDV-5549</fra>
+		<pln>WDW-5549</pln>
+	</string>
+	<string id="buusty_team_3_name">
+		<rus>Пивкабы</rus>
+		<eng>Brewsky</eng>
+		<ukr>Пивкаби</ukr>
+		<fra>Binouze</fra>
+		<pln>Piwosz</pln>
+	</string>
+	<string id="buusty_team_4_name">
+		<rus>Кузьма Мастер</rus>
+		<eng>Kuzma the Master</eng>
+		<ukr>Кузьма Майстер</ukr>
+		<fra>Kouzma le Maître</fra>
+		<pln>Kuźma Mistrz</pln>
+	</string>
+	<string id="buusty_team_5_name">
+		<rus>Андевил</rus>
+		<eng>Andevil</eng>
+		<ukr>Андевіл</ukr>
+		<fra>Andevil</fra>
+		<pln>Andevil</pln>
+	</string>
+	<string id="buusty_team_6_name">
+		<rus>Йоджи</rus>
+		<eng>Yohji</eng>
+		<ukr>Йоджи</ukr>
+		<fra>Yohji</fra>
+		<pln>Yohji</pln>
+	</string>
+	<string id="buusty_team_7_name">
+		<rus>Санче Пуг</rus>
+		<eng>Sancho Pug</eng>
+		<ukr>Санче Пуг</ukr>
+		<fra>Sanche Pug</fra>
+		<pln>Sancho Pug</pln>
+	</string>
+	<string id="buusty_team_8_name">
+		<rus>Святослав</rus>
+		<eng>Svyatoslav</eng>
+		<ukr>Святослав</ukr>
+		<fra>Sviatoslav</fra>
+		<pln>Światosław</pln>
+	</string>
+	<string id="buusty_team_9_name">
+		<rus>Айзимди</rus>
+		<eng>Izimdi</eng>
+		<ukr>Айзимді</ukr>
+		<fra>Izimdi</fra>
+		<pln>Izimdi</pln>
+	</string>
+	<string id="buusty_team_10_name">
+		<rus>Юра Босс</rus>
+		<eng>Yura the Boss</eng>
+		<ukr>Юра Бос</ukr>
+		<fra>Youra le Boss</fra>
+		<pln>Jura Boss</pln>
+	</string>
+	<string id="buusty_team_11_name">
+		<rus>Олдман</rus>
+		<eng>Oldman</eng>
+		<ukr>Олдман</ukr>
+		<fra>Oldman</fra>
+		<pln>Oldman</pln>
+	</string>
+	<string id="buusty_team_12_name">
+		<rus>Тринадцатый пророк</rus>
+		<eng>Thirteenth Prophet</eng>
+		<ukr>Тринадцятий пророк</ukr>
+		<fra>Treizième prophète</fra>
+		<pln>Trzynasty prorok</pln>
+	</string>
+	<string id="buusty_team_13_name">
+		<rus>Витя Нафанька</rus>
+		<eng>Vitya Nafanya</eng>
+		<ukr>Віктор Нафанька</ukr>
+		<fra>Vitya Nafanya</fra>
+		<pln>===Витя Нафанька</pln>
+	</string>
+	<string id="buusty_team_14_name">
+		<rus>Виктор Причёсочка</rus>
+		<eng>Victor the Hairdo</eng>
+		<ukr>Віктор Прічосочка</ukr>
+		<fra>Victor la Coiffure</fra>
+		<pln>Wiktor Fryzura</pln>
+	</string>
+	<string id="buusty_team_15_name">
+		<rus>Константин 69</rus>
+		<eng>Constantine 69</eng>
+		<ukr>Константин 69</ukr>
+		<fra>Konstantin 69</fra>
+		<pln>Konstantin 69</pln>
+	</string>
+	<string id="buusty_team_17_name">
+		<rus>Лёня ПРО</rus>
+		<eng>Lyonya the Missile-Defence</eng>
+		<ukr>Льоня ПРО</ukr>
+		<fra>Lyonya la Défense Antimissile</fra>
+		<pln>Lonia PRO</pln>
+	</string>
+	<string id="kuzmat_name">
+		<rus>Кузькина Мать</rus>
+		<eng>Kuzka's Mother</eng>
+		<ukr>Кузькіна Мать</ukr>
+		<fra>Mère de Kuzma</fra>
+		<pln>Matka Kuźkina</pln>
+	</string>
+	<string id="himik_name">
+		<rus>Химик</rus>
+		<eng>Chemist</eng>
+		<ukr>Хімік</ukr>
+		<fra>Chimiste</fra>
+		<pln>Chemik</pln>
+	</string>
+	<string id="prigorshnya_name">
+		<rus>Пригоршня</rus>
+		<eng>Fistful</eng>
+		<ukr>Жменя</ukr>
+		<fra>Poignée</fra>
+		<pln>Garstka</pln>
+	</string>
+	<string id="babuin_name">
+		<rus>Бабуин</rus>
+		<eng>Baboon</eng>
+		<ukr>Бабуїн</ukr>
+		<fra>Babouin</fra>
+		<pln>Pawian</pln>
+	</string>
+	<string id="petrovich_name">
+		<rus>Петрович</rus>
+		<eng>Petrovich</eng>
+		<ukr>Петрович</ukr>
+		<fra>Petrovitch</fra>
+		<pln>Pietrowicz</pln>
+	</string>
+	<string id="sashko_name">
+		<rus>Гришко</rus>
+		<eng>Grishko</eng>
+		<ukr>Гришко</ukr>
+		<fra>Grichko</fra>
+		<pln>Griszko</pln>
+	</string>
+	<string id="ivanych_name">
+		<rus>Иваныч</rus>
+		<eng>Ivanych</eng>
+		<ukr>Іванович</ukr>
+		<fra>Ivanych</fra>
+		<pln>Iwanycz</pln>
+	</string>
+	<string id="palych_name">
+		<rus>Палыч</rus>
+		<eng>Palych</eng>
+		<ukr>Палич</ukr>
+		<fra>Palytch</fra>
+		<pln>Pałycz</pln>
+	</string>
+	<string id="romale_name">
+		<rus>Рома Ромале</rus>
+		<eng>Roma Romale</eng>
+		<ukr>Рома Ромале</ukr>
+		<fra>Roma Romale</fra>
+		<pln>Roma Romale</pln>
+	</string>
+	<string id="stalker_krayloki_name">
+		<rus>Ши3</rus>
+		<eng>Shi3</eng>
+		<ukr>Ши3</ukr>
+		<fra>Chi3</fra>
+		<pln>Shi3</pln>
+	</string>
+	<string id="stalker_krayloki1_name">
+		<rus>Артём К</rus>
+		<eng>Artyom K</eng>
+		<ukr>Артем К</ukr>
+		<fra>Artyom K</fra>
+		<pln>Artiom K</pln>
+	</string>
+	<string id="upi_sdelka_ekolog3_name">
+		<rus>Шмуэль Либерман</rus>
+		<eng>Shmuel Liberman</eng>
+		<ukr>Шмуель Ліберман</ukr>
+		<fra>Shmouel Lieberman</fra>
+		<pln>Szmuel Liberman</pln>
+	</string>
+	<string id="upi_mayor_padla_name">
+		<rus>Майор Падликов</rus>
+		<eng>Major Assholov</eng>
+		<ukr>Майор Падликов</ukr>
+		<fra>Major Salaudiet</fra>
+		<pln>Major Padlikow</pln>
+	</string>
+	<string id="leteha_morozko_name">
+		<rus>Лейтенант Морозко</rus>
+		<eng>Lieutenant Morozko</eng>
+		<ukr>Лейтенант Морозко</ukr>
+		<fra>Lieutenant Morozko</fra>
+		<pln>Porucznik Morozko</pln>
+	</string>
+	<string id="major_brazhnikov_name">
+		<rus>Майор Бражников</rus>
+		<eng>Major Brazhnikov</eng>
+		<ukr>Майор Бражников</ukr>
+		<fra>Major Brazhnikov</fra>
+		<pln>Major Brażnikow</pln>
+	</string>
+	<string id="hiko_name">
+		<rus>Хико</rus>
+		<eng>Hiko</eng>
+		<ukr>Хіко</ukr>
+		<fra>Hiko</fra>
+		<pln>Hiko</pln>
+	</string>
+	<string id="kuryer_name">
+		<rus>Курьер</rus>
+		<eng>Courier</eng>
+		<ukr>Кур'єр</ukr>
+		<fra>Courrier</fra>
+		<pln>Kurier</pln>
+	</string>
+	<string id="zoozoo_name">
+		<rus>Зузу</rus>
+		<eng>Zuzu</eng>
+		<ukr>Зузу</ukr>
+		<fra>Zouzou</fra>
+		<pln>Zuzu</pln>
+	</string>
+	<string id="marafonec_name">
+		<rus>Витя Марафонец</rus>
+		<eng>Vitya the Marathoner</eng>
+		<ukr>Вітя Марафонець</ukr>
+		<fra>Vitya le Marathonien</fra>
+		<pln>Witia Marafonec</pln>
+	</string>
+	<string id="royalguard_name">
+		<rus>Рома Страж</rus>
+		<eng>Roma the Sentinel</eng>
+		<ukr>Рома Страж</ukr>
+		<fra>Roma le Gardien</fra>
+		<pln>Roma Straż</pln>
+	</string>
+	<string id="shaker_name">
+		<rus>Шейкер</rus>
+		<eng>Shaker</eng>
+		<ukr>Шейкер</ukr>
+		<fra>Shaker</fra>
+		<pln>Shaker</pln>
+	</string>
+	<string id="chookchapisatel_name">
+		<rus>Чукчаписатель</rus>
+		<eng>Chukchiwriter</eng>
+		<ukr>Чукчаписатель</ukr>
+		<fra>Tchouktchécrivain</fra>
+		<pln>Czukcza Pisarz</pln>
+	</string>
+	<string id="winsor_name">
+		<rus>Винзор</rus>
+		<eng>Winsor</eng>
+		<ukr>Вінзор</ukr>
+		<fra>Winsor</fra>
+		<pln>Winsor</pln>
+	</string>
+	<string id="malek_name">
+		<rus>Саня Романов</rus>
+		<eng>Sanya Romanov</eng>
+		<ukr>Саня Романов</ukr>
+		<fra>Sania Romanov</fra>
+		<pln>Sania Romanow</pln>
+	</string>
+	<string id="anna_name">
+		<rus>Анна</rus>
+		<eng>Anna</eng>
+		<ukr>Анна</ukr>
+		<fra>Anna</fra>
+		<pln>Anna</pln>
+	</string>
+	<string id="elsa_name">
+		<rus>Эльза</rus>
+		<eng>Elsa</eng>
+		<ukr>Ельза</ukr>
+		<fra>Elsa</fra>
+		<pln>Elza</pln>
+	</string>
+	<string id="snegir_name">
+		<rus>Славик Снегирь</rus>
+		<eng>Slavik the Bullfinch</eng>
+		<ukr>Славік Снігур</ukr>
+		<fra>Slavik le Bouvreuil</fra>
+		<pln>Sławik Gil</pln>
+	</string>
+	<string id="lobsang_name">
+		<rus>Лобсанг</rus>
+		<eng>Lobsang</eng>
+		<ukr>Лобсанг</ukr>
+		<fra>Lobsang</fra>
+		<pln>Lobcang</pln>
+	</string>
+	<string id="brodaga_name">
+		<rus>Бродяга</rus>
+		<eng>Vagabond</eng>
+		<ukr>Волоцюга</ukr>
+		<fra>Vagabond</fra>
+		<pln>Włóczęga</pln>
+	</string>
+	<string id="boroda_name">
+		<rus>Борода</rus>
+		<eng>Beard</eng>
+		<ukr>Борода</ukr>
+		<fra>Barbe</fra>
+		<pln>Broda</pln>
+	</string>
+	<string id="vesker_name">
+		<rus>Вескер</rus>
+		<eng>Wesker</eng>
+		<ukr>Вескер</ukr>
+		<fra>Wesker</fra>
+		<pln>Wesker</pln>
+	</string>
+	<string id="bibliofrend_talk_name">
+		<rus>Прайм</rus>
+		<eng>Prime</eng>
+		<ukr>Прайм</ukr>
+		<fra>Prime</fra>
+		<pln>Prime</pln>
+	</string>
+	<string id="suslov_name">
+		<rus>Суслов</rus>
+		<eng>Suslov</eng>
+		<ukr>Суслов</ukr>
+		<fra>Souslov</fra>
+		<pln>Susłow</pln>
+	</string>
+	<string id="nolik_name">
+		<rus>Нолик</rus>
+		<eng>Nil</eng>
+		<ukr>Нолик</ukr>
+		<fra>Zéro</fra>
+		<pln>Nolik</pln>
+	</string>
+	<string id="kardan_name">
+		<rus>Кардан</rus>
+		<eng>Cardan</eng>
+		<ukr>Кардан</ukr>
+		<fra>Cardan</fra>
+		<pln>Kardan</pln>
+	</string>
+	<string id="lotsman_name">
+		<rus>Лоцман</rus>
+		<eng>Marine Pilot</eng>
+		<ukr>Лоцман</ukr>
+		<fra>Lamaneur</fra>
+		<pln>Locman</pln>
+	</string>
+	<string id="vano_name">
+		<rus>Вано</rus>
+		<eng>Vano</eng>
+		<ukr>Вано</ukr>
+		<fra>Vano</fra>
+		<pln>Wano</pln>
+	</string>
+	<string id="german_name">
+		<rus>Герман</rus>
+		<eng>Herman</eng>
+		<ukr>Герман</ukr>
+		<fra>Herman</fra>
+		<pln>German</pln>
+	</string>
+	<string id="azot_name">
+		<rus>Азот</rus>
+		<eng>Nitrogen</eng>
+		<ukr>Азот</ukr>
+		<fra>Azote</fra>
+		<pln>Azot</pln>
+	</string>
+	<string id="novikov_name">
+		<rus>Новиков</rus>
+		<eng>Novikov</eng>
+		<ukr>Новиков</ukr>
+		<fra>Novikov</fra>
+		<pln>Nowikow</pln>
+	</string>
+	<string id="gavaec_name">
+		<rus>Гаваец</rus>
+		<eng>Hawaiian</eng>
+		<ukr>Гаваєць</ukr>
+		<fra>Hawaïen</fra>
+		<pln>Hawajczyk</pln>
+	</string>
+	<string id="loki_name">
+		<rus>Локи</rus>
+		<eng>Loki</eng>
+		<ukr>Локі</ukr>
+		<fra>Loki</fra>
+		<pln>Loki</pln>
+	</string>
+	<string id="chehov_name">
+		<rus>Чехов</rus>
+		<eng>Chekhov</eng>
+		<ukr>Чехов</ukr>
+		<fra>Tchekhov</fra>
+		<pln>Czechow</pln>
+	</string>
+	<string id="valerian_name">
+		<rus>Отец Валерьян</rus>
+		<eng>Father Valerian</eng>
+		<ukr>Отець Валер'ян</ukr>
+		<fra>Père Valérian</fra>
+		<pln>Ojciec Walerian</pln>
+	</string>
+	<string id="kalancha_name">
+		<rus>Каланча</rus>
+		<eng>Kalancha</eng>
+		<ukr>Каланча</ukr>
+		<fra>Kalantcha</fra>
+		<pln>Kałańcza</pln>
+	</string>
+	<string id="borovikov_name">
+		<rus>Боровиков</rus>
+		<eng>Borovikov</eng>
+		<ukr>Боровиков</ukr>
+		<fra>Borovikov</fra>
+		<pln>Borowikow</pln>
+	</string>
+	<string id="nato_enginer_name">
+		<rus>Марио Бенелли</rus>
+		<eng>Mario Benelli</eng>
+		<ukr>Маріо Бенеллі</ukr>
+		<fra>Mario Benelli</fra>
+		<pln>Mario Benelii</pln>
+	</string>
+	<string id="brigadir_name">
+		<rus>Бригадир</rus>
+		<eng>Foreman</eng>
+		<ukr>Бригадир</ukr>
+		<fra>Brigadier</fra>
+		<pln>Brygadier</pln>
+	</string>
+	<string id="dron_name">
+		<rus>Дрон</rus>
+		<eng>Dron</eng>
+		<ukr>Дрон</ukr>
+		<fra>Drone</fra>
+		<pln>Dron</pln>
+	</string>
+	<string id="veles_name">
+		<rus>Велес</rus>
+		<eng>Veles</eng>
+		<ukr>Велес</ukr>
+		<fra>Vélès</fra>
+		<pln>Weles</pln>
+	</string>
+	<string id="sin_trader_name">
+		<rus>Пончик</rus>
+		<eng>Donut</eng>
+		<ukr>Пончик</ukr>
+		<fra>Beignet</fra>
+		<pln>Pączek</pln>
+	</string>
+	<string id="brown_name">
+		<rus>Полковник Браун</rus>
+		<eng>Colonel Brown</eng>
+		<ukr>Полковник Браун</ukr>
+		<fra>Colonel Brown</fra>
+		<pln>Pułkownik Braun</pln>
+	</string>
+	<string id="smith_name">
+		<rus>Генерал Смит</rus>
+		<eng>General Smith</eng>
+		<ukr>Генерал Сміт</ukr>
+		<fra>Général Smith</fra>
+		<pln>Generał Smith</pln>
+	</string>
+	<string id="milstalk_nato_name">
+		<rus>Иностранец</rus>
+		<eng>Foreigner</eng>
+		<ukr>Іноземець</ukr>
+		<fra>Étranger</fra>
+		<pln>Obcokrajowiec</pln>
+	</string>
+	<string id="foster_name">
+		<rus>Капрал Фостер</rus>
+		<eng>Corporal Foster</eng>
+		<ukr>Капрал Фостер</ukr>
+		<fra>Caporal Foster</fra>
+		<pln>Kaprak Foster</pln>
+	</string>
+	<string id="stariy_name">
+		<rus>Старый</rus>
+		<eng>Elder</eng>
+		<ukr>Старий</ukr>
+		<fra>Vieux</fra>
+		<pln>Stary</pln>
+	</string>
+	<string id="kopcheniy_name">
+		<rus>Копчёный</rus>
+		<eng>Smoky</eng>
+		<ukr>Копчений</ukr>
+		<fra>Fumé</fra>
+		<pln>Uwędzony</pln>
+	</string>
+	<string id="benito_name">
+		<rus>Бенито</rus>
+		<eng>Benito</eng>
+		<ukr>Беніто</ukr>
+		<fra>Benito</fra>
+		<pln>Benito</pln>
+	</string>
+	<string id="jup_a6_duty_leader">
+		<rus>Шульга</rus>
+		<eng>Lefty</eng>
+		<ukr>Шульга</ukr>
+		<fra>Gaucher</fra>
+		<pln>Szulga</pln>
+	</string>
+	<string id="shalyi_name">
+		<rus>Шалый</rus>
+		<eng>Cranky</eng>
+		<ukr>Шалий</ukr>
+		<fra>Dératé</fra>
+		<pln>Szajba</pln>
+	</string>
+	<string id="kraga_name">
+		<rus>Крага</rus>
+		<eng>Gaiter</eng>
+		<ukr>Крага</ukr>
+		<fra>Guêtre</fra>
+		<pln>Kraga</pln>
+	</string>
+	<string id="docent_zagorsky_name">
+		<rus>Доцент Загорский</rus>
+		<eng>Docent Zagorsky</eng>
+		<ukr>Доцент Загорський</ukr>
+		<fra>Maître de conférences Zagorsky</fra>
+		<pln>Docent Zagorski</pln>
+	</string>
+	<string id="surgeon_name">
+		<rus>Хирург</rus>
+		<eng>Surgeon</eng>
+		<ukr>Хірург</ukr>
+		<fra>Chirurgien</fra>
+		<pln>Chirurg</pln>
+	</string>
+	<string id="lev_igrok_name">
+		<rus>Лёва Игрок</rus>
+		<eng>Lyova the Gambler</eng>
+		<ukr>Льова Ігрок</ukr>
+		<fra>Liova le Joueur</fra>
+		<pln>Lowa Gracz</pln>
+	</string>
+	<string id="shakal_name">
+		<rus>Шакал</rus>
+		<eng>Jackal</eng>
+		<ukr>Шакал</ukr>
+		<fra>Chacal</fra>
+		<pln>Szakal</pln>
+	</string>
+		<string id="iskra_name">
+		<rus>Искра</rus>
+		<eng>Sparkle</eng>
+		<ukr>Іскра</ukr>
+		<fra>Étincelle</fra>
+		<pln>Iskra</pln>
+	</string>
+	<string id="shakal_name_small">
+		<rus>шакал</rus>
+		<eng>jackal</eng>
+		<ukr>шакал</ukr>
+		<fra>chacal</fra>
+		<pln>szakal</pln>
+	</string>
+	<string id="kapitan_savickiy_name">
+		<rus>Капитан Савицкий</rus>
+		<eng>Captain Savitsky</eng>
+		<ukr>Капітан Савицький</ukr>
+		<fra>Capitaine Savitsky</fra>
+		<pln>Kapitan Sawicki</pln>
+	</string>
+	<string id="name_savickiy_small">
+		<rus>капитан Савицкий</rus>
+		<eng>captain Savitsky</eng>
+		<ukr>капітан Савицький</ukr>
+		<fra>capitaine Savitsky</fra>
+		<pln>kapitan Sawicki</pln>
+	</string>
+	<string id="topol_name">
+		<rus>Тополь</rus>
+		<eng>Poplar</eng>
+		<ukr>Тополя</ukr>
+		<fra>Peuplier</fra>
+		<pln>Topol</pln>
+	</string>
+	<string id="borodach_name">
+		<rus>Бородач</rus>
+		<eng>Beardy</eng>
+		<ukr>Бородач</ukr>
+		<fra>Barbu</fra>
+		<pln>Brodacz</pln>
+	</string>
+	<string id="bill_name">
+		<rus>Билл</rus>
+		<eng>Bill</eng>
+		<ukr>Білл</ukr>
+		<fra>Bill</fra>
+		<pln>Bill</pln>
+	</string>
+	<string id="dolg_wounded_name">
+		<rus>Демьян Айвенго</rus>
+		<eng>Demyan Ivanhoe</eng>
+		<ukr>Дем'ян Айвенго</ukr>
+		<fra>Demian Ivanhoé</fra>
+		<pln>Demian Ivanhoe</pln>
+	</string>
+	<string id="katana_name">
+		<rus>Катана</rus>
+		<eng>Katana</eng>
+		<ukr>Катана</ukr>
+		<fra>Katana</fra>
+		<pln>Katana</pln>
+	</string>
+	<string id="vanga_name">
+		<rus>Ванга</rus>
+		<eng>Vanga</eng>
+		<ukr>Ванга</ukr>
+		<fra>Vanga</fra>
+		<pln>Wanga</pln>
+	</string>
+	<string id="arina_name">
+		<rus>Карина Лютая</rus>
+		<eng>Karina the Fierce</eng>
+		<ukr>Каріна Люта</ukr>
+		<fra>Karina la Féroce</fra>
+		<pln>Karina Lutaja</pln>
+</string>
+	<string id="name_lucenko">
+		<rus>Профессор Луценко</rus>
+		<eng>Professor Lutsenko</eng>
+		<ukr>Професор Луценко</ukr>
+		<fra>Professeur Loutsenko</fra>
+		<pln>Profesor Łucenko</pln>
+	</string>
+	<string id="name_tokarev">
+		<rus>Профессор Токарев</rus>
+		<eng>Professor Tokarev</eng>
+		<ukr>Професор Токарєв</ukr>
+		<fra>Professeur Tokarev</fra>
+		<pln>Profesor Tokariew</pln>
+	</string>
+	<string id="assistent_gumilev_name">
+		<rus>Ассистент Гумилёв</rus>
+		<eng>Assistant Gumilyov</eng>
+		<ukr>Асистент Гумільов</ukr>
+		<fra>Assistant Goumiliov</fra>
+		<pln>Asystent Gumilow</pln>
+	</string>
+	<string id="pri_burbon_name">
+		<rus>Бурбон</rus>
+		<eng>Bourbon</eng>
+		<ukr>Бурбон</ukr>
+		<fra>Bourbon</fra>
+		<pln>Bourbon</pln>
+	</string>
+	<string id="name_cap_nemcov">
+		<rus>Капитан Немцов</rus>
+		<eng>Captain Nemtsov</eng>
+		<ukr>Капітан Нємцов</ukr>
+		<fra>Capitaine Nemtsov</fra>
+		<pln>Kapitan Niemcow</pln>
+	</string>
+	<string id="name_krom">
+		<rus>Кром</rus>
+		<eng>Krom</eng>
+		<ukr>Кром</ukr>
+		<fra>Krom</fra>
+		<pln>Krom</pln>
+	</string>
+	<string id="name_rvaniy">
+		<rus>Рваный</rus>
+		<eng>Ragged</eng>
+		<ukr>Рваний</ukr>
+		<fra>Lacéré</fra>
+		<pln>Zdarty</pln>
+	</string>	
+	<string id="pred_st_prapor_nikolaev_name">
+		<rus>Старший прапорщик Николаев</rus>
+		<eng>Chief warrant officer Nikolaev</eng>
+		<ukr>Старший прапорщик Николаєв</ukr>
+		<fra>Adjudant-chef Nikolaïev</fra>
+		<pln>Starszy chorąży Nikołajew</pln>
+	</string>
+	<string id="pred_polkovnik_bibik_name">
+		<rus>Полковник Бибик</rus>
+		<eng>Colonel Bibik</eng>
+		<ukr>Полковник Бібік</ukr>
+		<fra>Colonel Bibik</fra>
+		<pln>Pułkownik Bibik</pln>
+	</string>
+	<string id="swa_docent_yuriev_name">
+		<rus>Доцент Юрьев</rus>
+		<eng>Docent Yuriev</eng>
+		<ukr>Доцент Юр'єв</ukr>
+		<fra>Maître de conférences Yuriev</fra>
+		<pln>Docent Juriew</pln>
+	</string>
+	<string id="anom_major_vorobiev_name">
+		<rus>Майор Воробьёв</rus>
+		<eng>Major Vorobyov</eng>
+		<ukr>Майор Воробйов</ukr>
+		<fra>Major Vorobyov</fra>
+		<pln>Major Wróblew</pln>
+	</string>
+	<string id="for_leytenant_aksenov_name">
+		<rus>Лейтенант Аксёнов</rus>
+		<eng>Lieutenant Aksyonov</eng>
+		<ukr>Лейтенант Аксьонов</ukr>
+		<fra>Lieutenant Aksyonov</fra>
+		<pln>Porucznik Aksjonow</pln>
+	</string>
+	<string id="docent_vasserman_name">
+		<rus>Доцент Вассерман</rus>
+		<eng>Docent Wasserman</eng>
+		<ukr>Доцент Вассерман</ukr>
+		<fra>Maître de conférences Wasserman</fra>
+		<pln>Docent Wasserman</pln>
+	</string>
+	<string id="out_sergant_name">
+		<rus>Сержант</rus>
+		<eng>Seargent</eng>
+		<ukr>Сержант</ukr>
+		<fra>Sergent</fra>
+		<pln>Sierżant</pln>
+	</string>
+	<string id="mestniy_name">
+		<rus>Местный</rus>
+		<eng>Native</eng>
+		<ukr>Місцевий</ukr>
+		<fra>Indigène</fra>
+		<pln>Miejscowy</pln>
+	</string>
+	<string id="forg_alex_name">
+		<rus>Алекс</rus>
+		<eng>Alex</eng>
+		<ukr>Алекс</ukr>
+		<fra>Alex</fra>
+		<pln>Aleks</pln>
+	</string>
+	<string id="forg_komandor_name">
+		<rus>Командор</rus>
+		<eng>Commodore</eng>
+		<ukr>Командор</ukr>
+		<fra>Commandeur</fra>
+		<pln>Komandor</pln>
+	</string>
+	<string id="cor_pes_name">
+		<rus>Пёс</rus>
+		<eng>Mongrel</eng>
+		<ukr>Пес</ukr>
+		<fra>Clébard</fra>
+		<pln>Pies</pln>
+	</string>
+	<string id="cor_starshoy_name">
+		<rus>Старшой</rus>
+		<eng>Head Honcho</eng>
+		<ukr>Старшой</ukr>
+		<fra>Supérieur</fra>
+		<pln>Starszy</pln>
+	</string>
+	<string id="cor_major_fomin_name">
+		<rus>Майор Фомин</rus>
+		<eng>Major Fomin</eng>
+		<ukr>Майор Фомін</ukr>
+		<fra>Major Fomine</fra>
+		<pln>Major Fomin</pln>
+	</string>
+	<string id="pol_doctor_zaycev_name">
+		<rus>Доктор Зайцев</rus>
+		<eng>Doctor Zaytsev</eng>
+		<ukr>Доктор Зайцев</ukr>
+		<fra>Docteur Zaytsev</fra>
+		<pln>Doktor Zajcew</pln>
+	</string>
+	<string id="pol_docent_gront_name">
+		<rus>Доцент Гронт</rus>
+		<eng>Docent Gront</eng>
+		<ukr>Доцент Гронт</ukr>
+		<fra>Maître de conférences Gront</fra>
+		<pln>Docent Gront</pln>
+	</string>
+	<string id="pol_professor_merkulov_name">
+		<rus>Профессор Меркулов</rus>
+		<eng>Professor Merkulov</eng>
+		<ukr>Професор Меркулов</ukr>
+		<fra>Professeur Merkoulov</fra>
+		<pln>Profesor Merkułow</pln>
+	</string>
+	<string id="pol_doctor_tompson_name">
+		<rus>Доктор Томпсон</rus>
+		<eng>Doctor Thompson</eng>
+		<ukr>Доктор Томпсон</ukr>
+		<fra>Docteur Thompson</fra>
+		<pln>Doktor Thompson</pln>
+	</string>
+	<string id="pol_laborant_mihailov_name">
+		<rus>Лаборант Михайлов</rus>
+		<eng>Lab assistant Mikhaylov</eng>
+		<ukr>Лаборант Михайлов</ukr>
+		<fra>Assistant de laboratoire Mikhaïlov</fra>
+		<pln>Laborant Michajłow</pln>
+	</string>
+	<string id="cor_evrei_name">
+		<rus>Еврей</rus>
+		<eng>Jew</eng>
+		<ukr>Єврей</ukr>
+		<fra>Juif</fra>
+		<pln>Jewriej</pln>
+	</string>
+	<string id="dshor_dima_name">
+		<rus>Дима</rus>
+		<eng>Dima</eng>
+		<ukr>Діма</ukr>
+		<fra>Dima</fra>
+		<pln>Dima</pln>
+	</string>
+	<string id="han_name">
+		<rus>Хан</rus>
+		<eng>Khan</eng>
+		<ukr>Хан</ukr>
+		<fra>Khan</fra>
+		<pln>Chan</pln>
+	</string>
+	<string id="dana_name">
+		<rus>Дана</rus>
+		<eng>Dana</eng>
+		<ukr>Дана</ukr>
+		<fra>Dana</fra>
+		<pln>Dana</pln>
+	</string>
+	<string id="pred_snowbordist_name">
+		<rus>Сноубордист</rus>
+		<eng>Snowboarder</eng>
+		<ukr>Сноубордист</ukr>
+		<fra>Snowboarder</fra>
+		<pln>Snowboardzista</pln>
+	</string>
+	<string id="per_baiker_name">
+		<rus>Байкер</rus>
+		<eng>Biker</eng>
+		<ukr>Байкер</ukr>
+		<fra>Motard</fra>
+		<pln>Biker</pln>
+	</string>
+	<string id="pred_professor_ray_name">
+		<rus>Профессор Рэй</rus>
+		<eng>Professor Ray</eng>
+		<ukr>Професор Рей</ukr>
+		<fra>Professeur Ray</fra>
+		<pln>Profesor Rej</pln>
+	</string>
+	<string id="prm_brin_name">
+		<rus>Брин</rus>
+		<eng>Breen</eng>
+		<ukr>Брін</ukr>
+		<fra>Breen</fra>
+		<pln>Brin</pln>
+	</string>
+	<string id="pred_prapor_name">
+		<rus>Прапор</rus>
+		<eng>Prapor</eng>
+		<ukr>Прапор</ukr>
+		<fra>Prapor</fra>
+		<pln>Chorąży</pln>
+	</string>
+	<string id="pred_major_haletsky_name">
+		<rus>Майор Халецкий</rus>
+		<eng>Major Khaletsky</eng>
+		<ukr>Майор Халецький</ukr>
+		<fra>Major Khaletsky</fra>
+		<pln>Major Halecki</pln>
+	</string>
+	<string id="name_leon">
+		<rus>Леон</rus>
+		<eng>Leon</eng>
+		<ukr>Леон</ukr>
+		<fra>Léon</fra>
+		<pln>===Леон</pln>
+	</string>
+		<string id="homa_name">
+		<rus>Хома</rus>
+		<eng>Khoma</eng>
+		<ukr>Хома</ukr>
+		<fra>Khoma</fra>
+		<pln>===Хома</pln>
+	</string>
+	<string id="chingis_name">
+		<rus>Чингиз</rus>
+		<eng>Genghis</eng>
+		<ukr>Чингіз</ukr>
+		<fra>Genghis</fra>
+		<pln>Czyngis</pln>
+	</string>
+	<string id="sutuluy_name">
+		<rus>Сутулый</rus>
+		<eng>Bow-backed</eng>
+		<ukr>Сутулий</ukr>
+		<fra>Déjeté</fra>
+		<pln>Przygarbiony</pln>
+	</string>
+	<string id="sipluy_name">
+		<rus>Сиплый</rus>
+		<eng>Gruff</eng>
+		<ukr>Сиплий</ukr>
+		<fra>Rauque</fra>
+		<pln>===Сиплый</pln>
+	</string>
+	<string id="pirogov_name">
+		<rus>Пирогов</rus>
+		<eng>Pirogov</eng>
+		<ukr>Пірогов</ukr>
+		<fra>Pirogov</fra>
+		<pln>===Пирогов</pln>
+	</string>
+	<string id="dshor_leila_name">
+		<rus>Гульнара</rus>
+		<eng>Gulnara</eng>
+		<ukr>Гульнара</ukr>
+		<fra>Goulnara</fra>
+		<pln>===Гульнара</pln>
+	</string>
+	<string id="hornet_name">
+		<rus>Шершень</rus>
+		<eng>Hornet</eng>
+		<ukr>Шершень</ukr>
+		<fra>Frelon</fra>
+		<pln>Szerszeń</pln>
+	</string>
+	<!-- Новые персонажи по Шахматисту2 -->
+	<string id="dolg_blokpost_duh_name">
+		<rus>Павлик Духан</rus>
+		<eng>Pavlik the Grunt</eng>
+		<ukr>Павлік Духан</ukr>
+		<fra>Pavlik le Bleubite</fra>
+		<pln>===Павлик Духан</pln>
+	</string>
+	<string id="commando_seriy_name">
+		<rus>Серёга Десантник</rus>
+		<eng>Seryoga the Paratrooper</eng>
+		<ukr>Сергій Десантник</ukr>
+		<fra>Seryoga l'Aéroporté</fra>
+		<pln>===Серега Десантник</pln>
+	</string>
+	<string id="stalker_kalancha_name">
+		<rus>Поставщик Каланчи</rus>
+		<eng>Kalancha's supplier</eng>
+		<ukr>Постачальник Каланчі</ukr>
+		<fra>Fournisseur de Kalantcha</fra>
+		<pln>===Поставщик Каланчи</pln>
+	</string>
+	<string id="ecolog_ozerskiy_name">
+		<rus>Озеров</rus>
+		<eng>Ozerov</eng>
+		<ukr>Озеров</ukr>
+		<fra>Ozerov</fra>
+		<pln>===Озеров</pln>
+	</string>
+	<string id="bar_killer_attacker_name">
+		<rus>Гроб</rus>
+		<eng>Coffin</eng>
+		<ukr>Могила</ukr>
+		<fra>Cercueil</fra>
+		<pln>===Гроб</pln>
+	</string>
+	<string id="soldat_blockpost_name">
+		<rus>Лейтенант Бродко</rus>
+		<eng>Lieutenant Brodko</eng>
+		<ukr>Лейтенант Бродко</ukr>
+		<fra>Lieutenant Brodko</fra>
+		<pln>===Лейтенант Бродко</pln>
+	</string>
+	<string id="ataker_bandit_name">
+		<rus>Гера Фраерок</rus>
+		<eng>Gera the Mug</eng>
+		<ukr>Гера Фраєрок</ukr>
+		<fra>Guéra le Petit Frayer</fra>
+		<pln>===Гера Фраерок</pln>
+	</string>
+	<string id="mil_killer_attacker_name">
+		<rus>Вован Фонтан</rus>
+		<eng>Vovan the Fountain</eng>
+		<ukr>Вован Фонтан</ukr>
+		<fra>Vovan la Fontaine</fra>
+		<pln>===Вован Фонтан</pln>
+	</string>
+	<string id="anarhist_freedom_name">
+		<rus>Жора Анархист</rus>
+		<eng>Zhora the Anarchist</eng>
+		<ukr>Жора Анархіст</ukr>
+		<fra>Zhora l'Anarchiste</fra>
+		<pln>===Жора Анархист</pln>
+	</string>
+	<string id="waite_resident_name">
+		<rus>Резидент</rus>
+		<eng>Resident</eng>
+		<ukr>Резидент</ukr>
+		<fra>Résident</fra>
+		<pln>===Резидент</pln>
+	</string>
+	<string id="backwater_journalist_name">
+		<rus>Журналист</rus>
+		<eng>Journalist</eng>
+		<ukr>Журналіст</ukr>
+		<fra>Journaliste</fra>
+		<pln>===Журналист</pln>
+	</string>
+	<string id="business_man_name">
+		<rus>Гоша Челнок</rus>
+		<eng>Gosha the Shuttle Trader</eng>
+		<ukr>Гоша Човник</ukr>
+		<fra>Gocha le Revendeur</fra>
+		<pln>===Гоша Челнок</pln>
+	</string>
+	<string id="white_mackintosh_quest_name">
+		<rus>Аркаша Грабитель</rus>
+		<eng>Arkasha the Robber</eng>
+		<ukr>Аркаша Грабіжник</ukr>
+		<fra>Arkacha le Pillard</fra>
+		<pln>===Аркаша Грабитель</pln>
+	</string>
+	<string id="simulator_dealer_name">
+		<rus>Гарри Затворник</rus>
+		<eng>Garry the Recluse</eng>
+		<ukr>Гаррі Затворник</ukr>
+		<fra>Garry le Reclus</fra>
+		<pln>===Гарри Затворник</pln>
+	</string>
+	<string id="lonely_deserter_name">
+		<rus>Саня Фрост</rus>
+		<eng>Sanya Frost</eng>
+		<ukr>Саня Фрост</ukr>
+		<fra>Sania Frost</fra>
+		<pln>===Саня Фрост</pln>
+	</string>
+	<string id="scar_stalk_zombied_name">
+		<rus>Шрам</rus>
+		<eng>Scar</eng>
+		<ukr>Шрам</ukr>
+		<fra>Cicatrice</fra>
+		<pln>===Шрам</pln>
+	</string>
+	<string id="spark_stalk_zombied_name">
+		<rus>Огонёк</rus>
+		<eng>Twinkle</eng>
+		<ukr>Вогник</ukr>
+		<fra>Flamme</fra>
+		<pln>===Огонёк</pln>
+	</string>
+	<string id="molniy_dead_name">
+		<rus>Гром</rus>
+		<eng>Thunder</eng>
+		<ukr>Гром</ukr>
+		<fra>Tonnerre</fra>
+		<pln>===Гром</pln>
+	</string>
+	<string id="chess_player_name">
+		<rus>Мурзо</rus>
+		<eng>Murzo</eng>
+		<ukr>Мурзо</ukr>
+		<fra>Mourzo</fra>
+		<pln>===Мурзо</pln>
+	</string>
+	<string id="stalker_swan_name">
+		<rus>Лебедев</rus>
+		<eng>Lebedev</eng>
+		<ukr>Лєбєдєв</ukr>
+		<fra>Lebedev</fra>
+		<pln>===Лебедев</pln>
+	</string>
+	<string id="nebo_messenger_name">
+		<rus>Вестник</rus>
+		<eng>Herald</eng>
+		<ukr>Вісник</ukr>
+		<fra>Héraut</fra>
+		<pln>===Вестник</pln>
+	</string>
+	<string id="monolith_restless_name">
+		<rus>Неупокоенный</rus>
+		<eng>Unquiet</eng>
+		<ukr>Неупокійний</ukr>
+		<fra>Inassouvi</fra>
+		<pln>===Неупокоенный</pln>
+	</string>
+	<string id="creative_soldier_name">
+		<rus>Капитан Сорвиголова</rus>
+		<eng>Captain Daredeviler</eng>
+		<ukr>Капітан Зірвиголова</ukr>
+		<fra>Capitaine Cassecou</fra>
+		<pln>Kapitan Сорвиголова</pln>
+	</string>
+	<string id="pervert_necrophile_name">
+		<rus>Кеша Некрофил</rus>
+		<eng>Kesha the Necrophile</eng>
+		<ukr>Кєша Некрофіл</ukr>
+		<fra>Kecha le Nécrophile</fra>
+		<pln>===Кеша Некрофил</pln>
+	</string>
+	<string id="pervert_necrophile2_name">
+		<rus>Гуля Извращенец</rus>
+		<eng>Gulya the Pervert</eng>
+		<ukr>Гуля Збочинець</ukr>
+		<fra>Goulya le Pervers</fra>
+		<pln>===Гуля Извращенец</pln>
+	</string>
+	<string id="pervert_necrophile3_name">
+		<rus>Сержант Бертран</rus>
+		<eng>Sergeant Bertrand</eng>
+		<ukr>Сержант Бертран</ukr>
+		<fra>Sergent Bertrand</fra>
+		<pln>Sierżant Бертран</pln>
+	</string>
+	<string id="chess_jaiia_1_name">
+		<rus>Наташа Валентайн</rus>
+		<eng>Natasha Valentine</eng>
+		<ukr>Наташа Валентайн</ukr>
+		<fra>Natacha Valentine</fra>
+		<pln>===Наташа Валентайн</pln>
+	</string>
+	<string id="bandit_goblin_name">
+		<rus>Витя Гоблин</rus>
+		<eng>Vitya the Goblin</eng>
+		<ukr>Вітя Гоблін</ukr>
+		<fra>Vitya le Gobelin</fra>
+		<pln>===Витя Гоблин</pln>
+	</string>
+	<string id="capitan_kazancev_name">
+		<rus>Капитан Казанцев</rus>
+		<eng>Captain Kazantsev</eng>
+		<ukr>Капітан Казанцев</ukr>
+		<fra>Capitaine Kazantsev</fra>
+		<pln>Kapitan Казанцев</pln>
+	</string>
+	<string id="sergant_sidorenko_name">
+		<rus>Сержант Сидоренко</rus>
+		<eng>Sergeant Sidorenko</eng>
+		<ukr>Сержант Сидоренко</ukr>
+		<fra>Sergent Sidorenko</fra>
+		<pln>Sierżant Sidorenko</pln>
+	</string>
+</string_table>
