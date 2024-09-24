@@ -28,3 +28,8 @@ A: I used ChatGPT for Chess Player dialogues and Google Translate for the rest.
 Q: How often do you change this repository?
 
 A: I will roll out weekly patches for mistranslations, and immediate patches for new quests and any crashes. 
+
+Q: Why are the character names in Russian even after the patch?
+
+A: If you load the characters in Russian, their names will be permanently be in Russian until they despawn during certain quests.
+
